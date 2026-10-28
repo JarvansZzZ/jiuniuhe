@@ -1,0 +1,21 @@
+# Generated output
+/dist/
+/preview.html
+/jiuniuhe-site.zip
+/jiuniuhe-source.zip
+
+# Local runtime and secrets
+node_modules/
+.env
+.env.*
+!.env.example
+.dev.vars
+.wrangler/
+.vercel/
+.netlify/
+
+# System and editor files
+.DS_Store
+*.log
+.vscode/
+.idea/

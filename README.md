@@ -59,3 +59,5 @@ npm run preview
 通过 GitHub Desktop 提交并 Push 后，Cloudflare 自动重新构建并发布。`.github/workflows/ci.yml` 同时检查脚本并构建网站。
 
 若使用 Vercel，`vercel.json` 已配置同样的构建命令与输出目录。
+
+免费域名备选的发布配置见 [GitHub Pages 说明](deploy/GITHUB-PAGES.zh-CN.md)。它不代表中国大陆节点，国内可达性仍需实测；免费账号使用前需确认仓库公开要求。

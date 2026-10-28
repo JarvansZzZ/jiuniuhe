@@ -1,53 +1,74 @@
 # 九牛核上线说明
 
-项目已经可以静态发布。网站全部交互在浏览器运行，无数据库、无服务端进程、无第三方依赖，也不需要配置密钥。
+当前已连接 GitHub 的 Cloudflare 项目类型为 **Workers**。仓库已改为 Workers Static Assets 配置，将 `dist/` 作为静态网站发布，无需后端 Worker 入口脚本。
 
-## 推荐：GitHub + Cloudflare Pages
+## 修复当前部署
 
-1. 在 GitHub 创建仓库，例如 `jiuniuhe`。仓库可设为私有，不影响 Cloudflare Pages 发布公开网站。
-2. 将源码上传到仓库根目录。根目录应能直接看到 `package.json`、`build.mjs`、`src/`、`public/`、`wrangler.jsonc`。不要把整个项目再套进一层文件夹；保留 `.github/`、`.node-version` 等以点开头的配置文件。
-3. 打开 https://dash.cloudflare.com/ ，进入 Workers & Pages，创建 Pages 项目并连接该 GitHub 仓库。平台授权时只选择这个仓库即可。
-4. 填写构建设置：
+截图中的 Building 已成功，Deploying 失败，是因为此前的 `pages_build_output_dir` 属于 Cloudflare Pages 配置，Workers 发布命令没有获得静态资源目录。
+
+修复后的 `wrangler.jsonc` 包含：
+
+```json
+{
+  "name": "jiuniuhe",
+  "compatibility_date": "2026-10-28",
+  "workers_dev": true,
+  "assets": {
+    "directory": "./dist"
+  }
+}
+```
+
+实际文件还保留了编辑器使用的 `$schema` 字段。
+
+1. 在 GitHub Desktop 确认当前仓库为 `jiuniuhe`，提交配置修改，例如「修复 Cloudflare 静态网站部署」。
+2. 点击 **Push origin**，将提交推送到 GitHub。已连接的 Cloudflare 项目会重新构建与部署。
+3. 如果需要检查 Cloudflare 构建设置，使用下表：
 
 | 设置 | 值 |
 | --- | --- |
+| 项目类型 | Workers |
 | 生产分支 | `main` |
-| 框架预设 | None |
-| 根目录 | 留空（仓库根目录） |
+| 根目录 | 仓库根目录 |
 | 构建命令 | `npm run build` |
-| 构建输出目录 | `dist` |
-| Node.js | `22`；若界面没有版本选项，可设构建环境变量 `NODE_VERSION=22` |
+| 部署命令 | `npx wrangler deploy` |
+| Node.js | 推荐 `22` |
+| 静态资源目录 | 由 `wrangler.jsonc` 中的 `assets.directory` 指定为 `./dist` |
 
-5. 部署成功后，平台会提供公开的 `pages.dev` 地址。复制平台实际生成的链接即可分享，不需要购买域名。
-6. 后续修改并推送到 `main` 分支，Cloudflare Pages 会自动重新构建并发布。
+4. 在 Deployments 中确认最新部署成功，再从项目 Overview 或 Domains 中打开平台实际生成的 `workers.dev` 地址。
 
-仓库中的 `wrangler.jsonc` 已声明静态发布目录；`public/_headers` 提供缓存重验证和基础响应头。不要运行 `server.mjs`，它只用于本地预览。
+无需重新创建 Cloudflare 项目，也无需上传 `preview.html`。网站资源由构建过程完整生成，收藏、筛选、对比和推荐都在浏览器运行。
 
-如果仓库默认分支并非 `main`，将托管平台的生产分支和 `.github/workflows/ci.yml` 中的分支名称一并改为实际名称。
+## 后续更新
+
+修改网站文件后，通过 GitHub Desktop 提交并 Push。Cloudflare 的 Git 集成会自动发布最新版本。
+
+`.github/workflows/ci.yml` 负责脚本检查及构建；实际发布由 Cloudflare 完成。`public/_headers` 提供缓存重验证和基础响应头。不应对本项目直接添加禁止内联脚本的 CSP，因为独立构建页包含内联 JS 与 CSS。
 
 ## 备选：GitHub + Vercel
 
-1. 打开 https://vercel.com/new ，导入同一个 GitHub 仓库。
-2. 仓库内 `vercel.json` 已配置构建命令和输出目录；框架使用 Other，Node.js 使用 22。
-3. 执行部署，分享平台实际生成的 `vercel.app` 地址。
-4. 后续推送生产分支自动更新。无需同时连接两个托管平台，选择一个即可。
+如果改用 Vercel，在 https://vercel.com/new 导入仓库。`vercel.json` 已声明构建命令 `npm run build` 和输出目录 `dist`，框架选择 Other，Node.js 使用 22。后续推送生产分支自动更新。
 
-## 先拿公开链接：直接上传构建包
+## 本地验证
 
-如果暂时不接 GitHub，可以在 Cloudflare Pages 创建 Direct Upload 项目，上传 `jiuniuhe-site.zip` 或解压后的 `dist/` 文件。解压后 `index.html` 必须位于发布目录第一层。
+```sh
+npm run check
+npm run build
+npm run preview
+```
 
-这种方式需要手动更新。如果计划长期自动部署，优先从 GitHub 连接方式创建 Pages 项目；Cloudflare 的 Direct Upload 与 Git 集成项目应按平台提供的方式分别建立，不要假定可以直接切换。
+本地服务使用 http://localhost:5173 。`preview.html` 也可独立离线打开。
 
 ## 部署后核对
 
-- 电脑和手机都能打开首页，整车插画和样式显示正常。
+- 电脑和手机可打开首页，整车插画和样式正常。
 - 搜索、品牌与预算筛选、收藏正常。
-- 加入三款车型后可打开对比表，并能切换「只看不同项」。
-- 三步问答能给出符合预算区间的推荐。
-- 刷新后当前浏览器的收藏仍在；更换域名或设备后不会同步记录。
+- 加入三款车型后可打开对比表，并切换「只看不同项」。
+- 三步问答给出符合预算区间的推荐。
+- 刷新后当前浏览器的收藏仍在；不同域名或设备之间不会同步记录。
 
-当前站点是概念演示。价格、参数和原创车型插画的说明已放在页面中，上线不会将它们转换为已核实的官方资料。
+当前站点是概念演示。价格、参数和原创车型插画的说明已放在页面中，上线不代表这些资料已经过官方核验。
 
-## 当前交付状态
+## 当前状态
 
-本地构建及脚本检查已通过。尚未创建远程仓库、连接托管账号或获得公开链接。GitHub 网页访问因自动审批服务返回 503 未获执行，实际发布需要在可访问平台的浏览器中完成账号接入。
+源码已在本地 `jiuniuhe` 仓库中，仓库已发布到 GitHub。Workers 静态资源配置已在本地修复；是否发布成功应以新提交推送后 Cloudflare 的最新部署结果为准。

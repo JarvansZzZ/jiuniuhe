@@ -48,14 +48,14 @@ npm run preview
 
 ## 在线部署
 
-已准备 Cloudflare Pages 和 Vercel 配置。推荐 GitHub 连接托管平台，后续推送 `main` 分支自动更新网站。完整操作见 [上线说明](deploy/README.zh-CN.md)。
+当前 GitHub 已连接到 Cloudflare **Workers**，使用静态资源托管。完整操作见 [上线说明](deploy/README.zh-CN.md)。
 
 - 构建命令：`npm run build`
-- 发布目录：`dist`
-- 框架：None / Other
-- Node.js：22
-- 环境变量和后端：不需要
+- 部署命令：`npx wrangler deploy`
+- 静态资源目录：`dist`，已在 `wrangler.jsonc` 的 `assets.directory` 中声明
+- Node.js：推荐 22
+- 无需后端入口、数据库或业务密钥
 
-`.github/workflows/ci.yml` 会在推送或 PR 时检查脚本并构建静态网站；实际发布由连接的 Cloudflare Pages 或 Vercel 完成。
+通过 GitHub Desktop 提交并 Push 后，Cloudflare 自动重新构建并发布。`.github/workflows/ci.yml` 同时检查脚本并构建网站。
 
-`jiuniuhe-site.zip` 是已构建的网站，可直接上传到支持静态文件的托管服务。`jiuniuhe-source.zip` 是包含自动部署配置的源码包。
+若使用 Vercel，`vercel.json` 已配置同样的构建命令与输出目录。

@@ -27,4 +27,4 @@ candidates 元素：{name, series, possibleClass, status, reason, sourceIds:[], 
 
 实拍目标每个可选版本至少3张，目标3–6张。可确认外观完全相同的版本允许明确标注共用图片；可见配置不同则分别核对。图不足明确记录缺口，不用其他型号、SVG或AI图代替。
 
-数据快照和原页面保存 research/sources/<brand>/，公开采集报告保存 research/reports/<brand>.md。原始页面不随构建发布，网站只使用整理后的结构化数据和图片。
+数据快照和来源页面保存 research/sources/<brand>/，公开采集报告保存 research/reports/<brand>.md。来源快照允许对与车型证据无关的第三方应用标识脱敏，替换处使用显式占位符；这些快照不保证与原网页逐字节一致。采集后、提交前运行 npm run sanitize:sources，npm run check:sources 会阻止未脱敏的微信小程序 App ID 进入后续提交。快照不随构建发布，网站只使用整理后的结构化数据和图片。

@@ -47,13 +47,13 @@ npm run preview
 
 - [数据约定](docs/v2-data-contract.md)：字段、证据和图片验收口径。
 - `research/reports/`：三品牌采集说明与合并覆盖报告。
-- `research/sources/`：采集的原页面和研究摘录；不随网站部署。
+- `research/sources/`：采集的页面快照和研究摘录；与车型无关的小程序标识经脱敏处理，不随网站部署。
 - `public/images/catalog/`：有来源记录的本地车型图片。
 - `scripts/catalog-lib.mjs`：来源、类型、字段引用、图片文件及重复校验。
 - `src/data.js`：前端显示格式和筛选口径。
 - `src/main.js` / `src/modals.js`：目录、对比、问答及图库。
 
-`npm run check` 检查脚本、数据引用和图片文件。缺价格／缺实拍作为公开缺口保留；非法字段、缺少数值参数证据、重复图片和快照之后的来源会阻止校验通过。
+`npm run check` 检查脚本、来源快照、数据引用和图片文件。新采集的来源快照提交前运行 `npm run sanitize:sources`，移除与车型证据无关的微信小程序 App ID；`npm run check:sources` 发现未脱敏标识时会报错，且不打印标识值。这是针对已知标识的检查，不能替代完整的密钥扫描。缺价格／缺实拍作为公开缺口保留；非法字段、缺少数值参数证据、重复图片和快照之后的来源会阻止校验通过。
 
 ## 在线部署
 

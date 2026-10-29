@@ -1,0 +1,159 @@
+[
+  {
+    "tag": "productguidecomponent",
+    "attrs": {
+      "title": "ZEEHO"
+    }
+  },
+  {
+    "tag": "backupcomponent",
+    "attrs": {}
+  },
+  {
+    "tag": "commonprivacycomponent",
+    "attrs": {
+      "content": "ZEEHO 重视并尊重您的个人隐私。为了给您提供最佳的网上浏览体验，ZEEHO 会使用 Cookies。当您点击“接受”时，意味着您同意我们使用 Cookies。如需了解更多详情，请查阅我们的<a href=\"/cn/legal/privacy-policy.html\">隐私政策</a>。",
+      "accept": "接受",
+      "reject": "拒绝"
+    }
+  },
+  {
+    "tag": "headercomponent",
+    "attrs": {
+      "whiteheader": "true",
+      "obj": "{\"logoImg\":\"/content/dam/zeeho/global/home/ZEEHO Logo_White.png\",\"logoFixedImg\":\"/content/dam/zeeho/global/home/ZEEHO_Logo_Black.png\",\"logoLink\":\"/cn/home.html\",\"navSearch\":\"请输入\",\"navDownloadCenterLink\":\"javascript:;\",\"allProductsTitle\":\"全部\",\"navLanguageTitle\":\"Language\",\"searchLink\":\"/cn/search.html\",\"whiteheder\":\"true\",\"languageTitle\":\"中文\",\"languageIconWhite\":\"/content/dam/zeeho/china/home/icom/China.png\",\"languageLink\":\"/cn/home.html\",\"languageIconBlack\":\"/content/dam/zeeho/china/home/icom/China.png\",\"isZeeho\":true,\"testDriveButtonText\":\"预约试驾\",\"testDriveButtonLink\":\"/content/zeeho/cn/test-drive\",\"loginBtnText\":\"登录\"}",
+      "nav": "[{\"listTitle\":\"车型\",\"style\":\"product\",\"productOtherList\":[{\"otherTitle\":\"预约试驾\",\"otherLink\":\"/content/zeeho/cn/test-drive\",\"otherIcon\":\"/content/dam/zeeho/global/home/about8738130d.png\"},{\"otherTitle\":\"车型参数对比\",\"otherLink\":\"/content/zeeho/cn/motorcycles_comparis\",\"otherIcon\":\"/content/dam/zeeho/global/home/vsf880d85f.png\"},{\"otherTitle\":\"ZEEHO 线下门店\",\"otherLink\":\"/content/zeeho/cn/service/space\",\"otherIcon\":\"/content/dam/zeeho/global/home/shop00dfc634.png\"}]},{\"listTitle\":\"媒体中心\",\"style\":\"default\",\"homeNavSubList\":[{\"listSubLink\":\"/content/zeeho/cn/media-center/news\",\"listSubTitle\":\"新闻动态\"}]},{\"listLink\":\"/content/zeeho/cn/service/after-sales\",\"listTitle\":\"服务支持\",\"style\":\"default\"},{\"listTitle\":\"商城\",\"style\":\"default\",\"homeNavSubList\":[{\"listSubLink\":\"/content/zeeho/cn/accessories.html?categories\\u003dtrendy\",\"listSubTitle\":\"服饰\"},{\"listSubLink\":\"/content/zeeho/cn/accessories.html?categories\\u003dprotective-gear\",\"listSubTitle\":\"护具\"},{\"listSubLink\":\"/content/zeeho/cn/accessories.html?categories\\u003dcreative-industries\",\"listSubTitle\":\"文创\"},{\"listSubLink\":\"/content/zeeho/cn/accessories.html?categories\\u003dbag\",\"listSubTitle\":\"箱包袋\"}]},{\"listLink\":\"/content/zeeho/cn/zeeho-ride\",\"listTitle\":\"ZEEHO APP\",\"style\":\"default\",\"homeNavSubList\":[{\"listSubLink\":\"/content/zeeho/cn/media-center/community-list\",\"listSubTitle\":\"极核社区\"},{\"listSubLink\":\"/content/zeeho/cn/zeeho-ride\",\"listSubTitle\":\" APP下载\"}]},{\"listTitle\":\"关于我们\",\"style\":\"default\",\"homeNavSubList\":[{\"listSubLink\":\"/content/zeeho/cn/about-us/Company Overview\",\"listSubTitle\":\"公司简介\"},{\"listSubLink\":\"/content/zeeho/cn/about-us/brand\",\"listSubTitle\":\"极核品牌\"},{\"listSubLink\":\"/content/zeeho/cn/about-us/contact\",\"listSubTitle\":\"联系我们\"}]}]",
+      "product": "[{\"name\":\"products-dm\",\"title\":\"电动摩托车\",\"categories\":[{\"name\":\"ae\",\"title\":\"AE系列\",\"pageLink\":\"/content/zeeho/cn/products-dm/ae.html\",\"products\":[{\"image\":\"/content/dam/zeeho/china/products/dm/ae/ae8-s--my25/model/正右_暮光紫_ToClient.png\",\"title\":\"AE8 S+ MY25\",\"desc\":\"高端科技全能领袖\",\"pageLink\":\"/content/zeeho/cn/products-dm/ae/ae8_s_my25.html\"},{\"image\":\"/content/dam/zeeho/china/products/dm/ae/ae8/model/231229_ZEEHO-AE8S+-MY24_几何灰_正左.png\",\"title\":\"AE8 S+ MY24\",\"desc\":\"全能 超控玩家\",\"pageLink\":\"/content/zeeho/cn/products-dm/ae/ae8.html\"},{\"image\":\"/content/dam/zeeho/china/products/dm/ae/ae7/model/_0008_电镀银.png\",\"title\":\"AE7\",\"desc\":\"零帧起手\",\"pageLink\":\"/content/zeeho/cn/products-dm/ae/ae7.html\"},{\"image\":\"/content/dam/zeeho/china/products/dm/ae/ae6/model/01_Vibran White.png\",\"title\":\"AE6\",\"desc\":\"潮玩，可颜可玩\",\"pageLink\":\"/content/zeeho/cn/products-dm/ae/ae6.html\"},{\"image\":\"/content/dam/zeeho/china/products/dm/ae/ae4/model/Velocity Gray.png\",\"title\":\"AE4\",\"desc\":\"天生，超会跑。\",\"pageLink\":\"/content/zeeho/cn/products-dm/ae/ae4.html\"},{\"image\":\"/content/dam/zeeho/china/products/dm/ae/ae4-my25/model/20250311_ZEEHO AE4 正左 速感灰 高配_ToClient.png\",\"title\":\"AE4 MY25\",\"desc\":\"低空飞行\",\"pageLink\":\"/content/zeeho/cn/products-dm/ae/ae4-my25.html\"},{\"image\":\"/content/dam/zeeho/china/products/dm/ae/ae4-se-/棚拍图/icon.png\",\"title\":\"AE4 SE+\",\"desc\":\"天生超会跑\",\"pageLink\":\"/content/zeeho/cn/products-dm/ae/ae4-se-.html\"},{\"image\":\"/content/dam/zeeho/china/products/dm/ae/ae4/2026/20260408_AE4 MAX2+ 正左 星云灰 拷贝 2.png\",\"title\":\"AE4 26款\",\"desc\":\"\",\"pageLink\":\"/content/zeeho/cn/products-dm/ae/ae4-my26.html\"},{\"image\":\"/content/dam/zeeho/china/products/dm/ae/ae3/20260420_ZEEHO AE3电摩_Left_月光银.png\",\"title\":\"AE3 Pro\",\"desc\":\"全新AE3【 三好学生 】\\r\\n重新定义城市自在穿行新体验\",\"pageLink\":\"/content/zeeho/cn/products-dm/ae/ae3-pro.html\"},{\"image\":\"/content/dam/zeeho/china/products/dm/ae/ae2-pro/20260526_ZEEHO AE2电摩_Left_钛钢灰 拷贝 2_先高760_裁宽1140.png\",\"title\":\"AE2 Pro\",\"desc\":\"超频时刻\",\"pageLink\":\"/content/zeeho/cn/products-dm/ae/ae2-pro.html\"},{\"image\":\"/content/dam/zeeho/china/products/dm/ae/ae6/2026/20260725_ZEEHO AE6Ultra_Left 速感灰 拷贝 2.png\",\"title\":\"AE6 26款\",\"desc\":\"绝对的强者，\\r\\n无需喧嚣来证明存在。\\r\\n因为真正的统治，\\r\\n是于静默中，定义未来前行的姿态。\\r\\n\\r\\n我们塑造的，不止是形态。\\r\\n是一种，静默统治道路的姿态。\\r\\n\\r\\nAE6/为统治级的从容而生。\",\"pageLink\":\"/content/zeeho/cn/products-dm/ae/ae6-26_.html\"},{\"image\":\"/content/dam/zeeho/china/products/dm/ae/ae3-lr/20260829_ZEEHO AE3电摩_Left 格雷灰 拷贝 2.png\",\"title\":\"AE3 LR\",\"desc\":\"LR，是极核长续航产品的专属标识。\\r\\n\\r\\n在延续极核驾控乐趣、设计风格与智能体验的基础上，\\r\\n以更充足的续航，拓展骑行的边界。\\r\\n从每天熟悉的路线，到收藏已久的远方，\\r\\n少一些充电的牵挂，多一些出发的自由。\\r\\n\\r\\n让想去的地方，成为骑得到的日常。\",\"pageLink\":\"/content/zeeho/cn/products-dm/ae/ae3-lr.html\"},{\"image\":\"/content/dam/zeeho/china/products/dm/ae/ae4-se--升级款/20261009_ZEEHO AE4 SE+ ABS 正左 速感灰 拷贝 2.png\",\"title\":\"AE4 SE+ 升级版\",\"desc\":\"\",\"pageLink\":\"/content/zeeho/cn/products-dm/ae/ae4-se--_.html\"}]},{\"name\":\"ez\",\"title\":\"EZ系列\",\"pageLink\":\"/content/zeeho/cn/products-dm/ez.html\",\"products\":[{\"image\":\"/content/dam/zeeho/china/products/dm/ez/ez3/my2026/icon1.png\",\"title\":\"EZ3\",\"desc\":\"开新的 玩大的\",\"pageLink\":\"/content/zeeho/cn/products-dm/ez/ez3.html\"},{\"image\":\"/content/dam/zeeho/china/products/dm/ez/ez4/model/_0000_速感灰.png\",\"title\":\"EZ4\",\"desc\":\"大才大用\",\"pageLink\":\"/content/zeeho/cn/products-dm/ez/ez4.html\"}]},{\"name\":\"mo\",\"title\":\"MO系列\",\"pageLink\":\"/content/zeeho/cn/products-dm/mo.html\",\"products\":[{\"image\":\"/content/dam/zeeho/china/products/dm/mo系列/mo1/model/_0002_橙.png\",\"title\":\"MO1\",\"desc\":\"\",\"pageLink\":\"/content/zeeho/cn/products-dm/mo/mo1.html\"},{\"image\":\"/content/dam/zeeho/china/products/dm/mo系列/mo3/260610_ZEEHO MO3电摩_宝藏红.png\",\"title\":\"MO3 Pro\",\"desc\":\"尽智尽美\",\"pageLink\":\"/content/zeeho/cn/products-dm/mo/mo3-pro.html\"}]},{\"name\":\"concept\",\"title\":\"概念车\",\"pageLink\":\"/content/zeeho/cn/products-dm/concept.html\",\"products\":[{\"image\":\"/content/dam/zeeho/china/products/dm/concept/magnet/model/20250123152918.png\",\"title\":\"Magnet\",\"desc\":\"天生有实力 纯电新物种\",\"pageLink\":\"/content/zeeho/cn/products-dm/concept/magnet.html\"},{\"image\":\"/content/dam/zeeho/china/products/dm/concept/cyber/model/CYBER-Concept1.png\",\"title\":\"Cyber\",\"desc\":\"\",\"pageLink\":\"/content/zeeho/cn/products-dm/concept/cyber.html\"}]}]},{\"name\":\"products-dqm\",\"title\":\"电动轻便摩托车\",\"categories\":[{\"name\":\"ae\",\"title\":\"AE系列\",\"pageLink\":\"/content/zeeho/cn/products-dqm/ae.html\",\"products\":[{\"image\":\"/content/dam/zeeho/china/products/dqm/ae/ae5i/model/20241028-zeeho-ae5-正左-高配版-速感灰.png\",\"title\":\"AE5i Pro\",\"desc\":\"生怀绝技\",\"pageLink\":\"/content/zeeho/cn/products-dqm/ae/ae5i.html\"},{\"image\":\"/content/dam/zeeho/china/products/dqm/ae/ae7/model/_0001_电镀银.png\",\"title\":\"AE7\",\"desc\":\"零帧起手\",\"pageLink\":\"/content/zeeho/cn/products-dqm/ae/ae7.html\"},{\"image\":\"/content/dam/zeeho/china/products/dqm/ae/ae3/20260422_ZEEHO AE3电轻摩_Left_月光银.png\",\"title\":\"AE3 Pro\",\"desc\":\"全新AE3【 三好学生 】\\r\\n重新定义城市自在穿行新体验\",\"pageLink\":\"/content/zeeho/cn/products-dqm/ae/ae3-pro.html\"}]},{\"name\":\"ez\",\"title\":\"EZ系列\",\"pageLink\":\"/content/zeeho/cn/products-dqm/ez.html\",\"products\":[{\"image\":\"/content/dam/zeeho/china/products/dqm/ez/ez3/model/my2026/icon.png\",\"title\":\"EZ3\",\"desc\":\"开新的 玩大的\",\"pageLink\":\"/content/zeeho/cn/products-dqm/ez/ez3.html\"},{\"image\":\"/content/dam/zeeho/china/products/dqm/ez/ez4/model/_0000_速感灰.png\",\"title\":\"EZ4\",\"desc\":\"大才大用\",\"pageLink\":\"/content/zeeho/cn/products-dqm/ez/ez4.html\"}]},{\"name\":\"mo\",\"title\":\"MO系列\",\"pageLink\":\"/content/zeeho/cn/products-dqm/mo.html\",\"products\":[{\"image\":\"/content/dam/zeeho/china/products/dqm/mo/mo1/model/orange.png\",\"title\":\"MO1\",\"desc\":\"\",\"pageLink\":\"/content/zeeho/cn/products-dqm/mo/mo1.html\"},{\"image\":\"/content/dam/zeeho/china/products/dqm/mo/mo3/260610_ZEEHO MO3电摩_樱桃红低配_Left_先高760_裁宽1140.png\",\"title\":\"MO3\",\"desc\":\"\",\"pageLink\":\"/content/zeeho/cn/products-dqm/mo/mo3.html\"}]}]},{\"name\":\"products-dz\",\"title\":\"新国标电动自行车\",\"categories\":[{\"name\":\"ae\",\"title\":\"AE系列\",\"pageLink\":\"/content/zeeho/cn/products-dz/ae.html\",\"products\":[{\"image\":\"/content/dam/zeeho/china/products/dz/ae/ae5i/2026/icon.png\",\"title\":\"AE5i\",\"desc\":\"生怀绝技\",\"pageLink\":\"/content/zeeho/cn/products-dz/ae/ae5i.html\"},{\"image\":\"/content/dam/zeeho/china/products/dz/ae/ae-one/20260717_ZEEHO AE1_Left_赛博黄.png\",\"title\":\"AE ONE\",\"desc\":\"一号新秀\",\"pageLink\":\"/content/zeeho/cn/products-dz/ae/ae-one.html\"},{\"image\":\"/content/dam/zeeho/china/products/dz/ae/ae4i/2026/星河银_Left.png\",\"title\":\"AE4i Pro+\",\"desc\":\"\",\"pageLink\":\"/content/zeeho/cn/products-dz/ae/ae4i-pro-.html\"},{\"image\":\"/content/dam/zeeho/china/products/dz/ae/ae3i/AE3i_月光银_Left.png\",\"title\":\"AE3i Pro\",\"desc\":\"自在穿行\",\"pageLink\":\"/content/zeeho/cn/products-dz/ae/ae3i.html\"}]},{\"name\":\"ez\",\"title\":\"EZ系列\",\"pageLink\":\"/content/zeeho/cn/products-dz/ez.html\",\"products\":[{\"image\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/棚拍图/EZ2i.png\",\"title\":\"EZ2i\",\"desc\":\"\",\"pageLink\":\"/content/zeeho/cn/products-dz/ez/ez2i.html\"},{\"image\":\"/content/dam/zeeho/china/products/dz/ez/ez1i/棚拍图/icon.png\",\"title\":\"EZ1i\",\"desc\":\"EZ1i\",\"pageLink\":\"/content/zeeho/cn/products-dz/ez/ez1i.html\"}]},{\"name\":\"mo\",\"title\":\"MO系列\",\"pageLink\":\"/content/zeeho/cn/products-dz/mo.html\",\"products\":[{\"image\":\"/content/dam/zeeho/china/products/dz/mo/model/green新.png\",\"title\":\"MO1i\",\"desc\":\"\",\"pageLink\":\"/content/zeeho/cn/products-dz/mo/mo1i.html\"},{\"image\":\"/content/dam/zeeho/china/products/dz/mo/mo2i/260603_ZEEHO MO2i_椰奶白.png\",\"title\":\"MO2i\",\"desc\":\"即刻心动\",\"pageLink\":\"/content/zeeho/cn/products-dz/mo/mo2i.html\"}]}]}]",
+      "language": "[{\"languageTitle\":\"Global\",\"languageLink\":\"https://www.zeehoev.com/global\",\"languageIcon\":\"/content/dam/zeeho/global/home/lang.png\"}]"
+    }
+  },
+  {
+    "tag": "product-sub-menu-component",
+    "attrs": {
+      "title": "EZ2i",
+      "drive": "/content/zeeho/cn/test-drive",
+      "list": "[{\"shopIcon\":\"/content/dam/zeeho/china/home/logo/jingdong.png\",\"shopLink\":\"https://item.jd.com/10206645117169.html\"},{\"shopIcon\":\"/content/dam/zeeho/china/home/logo/tianmao.png\",\"shopLink\":\"https://detail.tmall.com/item.htm?abbucket\\u003d12\\u0026fpChannel\\u003d101\\u0026fpChannelSig\\u003dcd0ccc1315d47d75bbd66fd56ba7781b73fc431c\\u0026id\\u003d1005967161520\\u0026mi_id\\u003d0000PXUd-R6B_aNKTOFBLrE3_Yy-pkrZ_d-ravFpdvn4Dyk\\u0026ns\\u003d1\\u0026priceTId\\u003d2150487517670870681978291e1104\\u0026spm\\u003da21n57.1.hoverItem.1\\u0026utparam\\u003d%7B%22aplus_abtest%22%3A%22b73808b98a77e4719d084ed945e663c6%22%7D\\u0026xxc\\u003dtaobaoSearch\"},{\"shopIcon\":\"/content/dam/zeeho/china/home/logo/pinduoduo.png\",\"shopLink\":\"https://mobile.yangkeduo.com/goods.html?goods_id\\u003d881862749234\\u0026_oak_rcto\\u003dYWIQ6bFyuoksEvhgGWZqvp9hvUK83vbiHkj3iSrTsNPiwoV7K0iKxG3r\\u0026page_from\\u003d39\\u0026_oc_trace_mark\\u003d199\\u0026is_spike\\u003d0\\u0026_x_no_login_launch\\u003d1\\u0026refer_page_name\\u003dmall_page\\u0026refer_page_id\\u003d10039_1767087155769_pm5agq5mzn\\u0026refer_page_sn\\u003d10039\"}]",
+      "buy": "购买",
+      "go": "选择平台购买",
+      "drivetext": "预约试驾"
+    }
+  },
+  {
+    "tag": "productbannercomponent",
+    "attrs": {
+      "banner": "[{\"image\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/banner/EZ2I_banner_pc2.jpg\",\"mobileImage\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/banner/EZ2I_banner_mob.jpg\",\"imageAlt\":\"\"}]",
+      "characteristic": "[{\"image\":\"undefined\",\"mobileImage\":\"undefined\",\"value\":\"航空级铝合金车身\",\"imageAlt\":\"\"},{\"image\":\"undefined\",\"mobileImage\":\"undefined\",\"value\":\"双边环绕式车架\",\"imageAlt\":\"\"},{\"image\":\"undefined\",\"mobileImage\":\"undefined\",\"value\":\"6.2英寸LCD屏\",\"imageAlt\":\"\"},{\"image\":\"undefined\",\"mobileImage\":\"undefined\",\"value\":\"800T汽车级冲压\",\"imageAlt\":\"\"}]"
+    }
+  },
+  {
+    "tag": "productcategorycomponent",
+    "attrs": {
+      "product": "{\"image\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/棚拍图/EZ2i.png\",\"title\":\"EZ2i\",\"desc\":\"\",\"specificationImage\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/棚拍图/EZ2i_左前45_凝脂白.png\",\"imageAreas\":[],\"imageRealWidth\":740,\"imageRealHeight\":520}",
+      "image": "/content/dam/zeeho/china/products/dz/ez/ez2i/棚拍图/EZ2i.png",
+      "category": "{\"title\":\"EZ2i\",\"button\":\"查找门店\",\"link\":\"/content/zeeho/cn/service/space\",\"downloadBrochureText\":\"下载产品电子说明书\",\"downloadBrochureLink\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/TDQ0401Z TDQ0403Z  F11V-380101-1100-11使用说明书2025-11-17 (2).pdf\",\"downloadName\":\"TDQ0401Z TDQ0403Z  F11V-380101-1100-11使用说明书2025-11-17 (2).pdf\",\"isZeeho\":true,\"isZeehoCn\":true,\"isZeehoGlobal\":false,\"productTitleFontSize\":\"fz-xxl\",\"sloganPicture1\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/logo1.png\",\"sloganPicture2\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/slogan.png\",\"productName\":\"\"}",
+      "variant": "[{\"image\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/棚拍图/20251206_EZ2i_正左_亚麻灰.png\",\"title\":\"亚麻灰\",\"desc\":\"\",\"modelColor\":\"#b2b2b0\",\"colorImage\":\"\"},{\"image\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/棚拍图/20251206_EZ2i_正左_凝脂白.png\",\"title\":\"凝脂白\",\"desc\":\"\",\"modelColor\":\"#dddcdb\",\"colorImage\":\"\"},{\"image\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/棚拍图/20251206_EZ2i_正左_星光黑.png\",\"title\":\"星光黑\",\"desc\":\"\",\"modelColor\":\"#070708\",\"colorImage\":\"\"},{\"image\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/棚拍图/20251206_EZ2i_正左_山野绿.png\",\"title\":\"山野绿\",\"desc\":\"\",\"modelColor\":\"#6b6d60\",\"colorImage\":\"\"}]"
+    }
+  },
+  {
+    "tag": "productgraphiccomponent",
+    "attrs": {
+      "config": "{\"title\":\"几何基因，从新出发\",\"description\":\"极简主义和实用主义共生\",\"pcTitleFontSize\":\"\",\"mobTitleFontSize\":\"\",\"pcDescFontSize\":\"\",\"mobDescFontSize\":\"\",\"fullScreenImage\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/卖点图/EZ2i_5.jpg\",\"showSerialNumber\":\"false\",\"style\":\"fullScreen\",\"bottomDescClass\":\"\",\"isZeehoCn\":true}"
+    }
+  },
+  {
+    "tag": "feature-image-and-text-component1",
+    "attrs": {
+      "theme": "dark",
+      "fullscreen": "false",
+      "pc": "/content/dam/zeeho/china/products/dz/ez/ez2i/卖点图/EZ2i_9.jpg",
+      "mobile": "/content/dam/zeeho/china/products/dz/ez/ez2i/卖点图/EZ2i_9.jpg",
+      "title": "焕新皮肤 重塑质感",
+      "desc": "</br>\r\n航空级铝合金  兼具轻量化和耐腐蚀</br></br>\r\n 外观表面95%面积均被航空级铝合金覆盖</br></br>\r\n车身5系航空级铝合金；边管6系航空级铝合金",
+      "layout": "right",
+      "textcolor": "white",
+      "params": "null",
+      "under": "under"
+    }
+  },
+  {
+    "tag": "feature-image-and-text-component1",
+    "attrs": {
+      "theme": "light",
+      "fullscreen": "false",
+      "pc": "/content/dam/zeeho/china/products/dz/ez/ez2i/卖点图/EZ2i_16.png",
+      "mobile": "/content/dam/zeeho/china/products/dz/ez/ez2i/卖点图/EZ2i_16.png",
+      "title": "汽车级制造标准及工艺",
+      "desc": "</br>\r\n800T汽车级冲压，7序工艺一体成型;双重加固，更耐冲击</br></br>\r\n3重漆水喷涂搭配双固化工艺烤漆，长久如新</br></br>\r\n超1000h汽车级严苛试验</br>(盐雾、耐水、耐挥发、耐酸碱、耐候、耐湿热)",
+      "layout": "left",
+      "textcolor": "black",
+      "params": "null",
+      "under": "under"
+    }
+  },
+  {
+    "tag": "feature-image-and-text-component1",
+    "attrs": {
+      "theme": "dark",
+      "fullscreen": "false",
+      "pc": "/content/dam/zeeho/china/products/dz/ez/ez2i/卖点图/EZ2i_11.jpg",
+      "mobile": "/content/dam/zeeho/china/products/dz/ez/ez2i/卖点图/EZ2i_11.jpg",
+      "title": "好骑安心 从新出发",
+      "desc": "全新双边环绕式车架 造就超乎想象的安全骑行感",
+      "layout": "bottom",
+      "textcolor": "white",
+      "params": "[{\"iconPath\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/卖点图/材料好.png\",\"text\":\"材料好\",\"name\":\"关键部分高强度合金钢\"},{\"iconPath\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/卖点图/标准高.png\",\"text\":\"标准高\",\"name\":\"摩托级标准降维制造\"},{\"iconPath\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/卖点图/强度好.png\",\"text\":\"强度好\",\"name\":\"扭矩刚度高达365N.m\"},{\"iconPath\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/卖点图/适配全.png\",\"text\":\"适配全\",\"name\":\"多重人机三角设定\"}]",
+      "under": "under"
+    }
+  },
+  {
+    "tag": "feature-image-and-text-component1",
+    "attrs": {
+      "theme": "dark",
+      "fullscreen": "false",
+      "pc": "/content/dam/zeeho/china/products/dz/ez/ez2i/卖点图/EZ2i_14.png",
+      "mobile": "/content/dam/zeeho/china/products/dz/ez/ez2i/卖点图/EZ2i_14.png",
+      "title": "满屏视野 尽收眼中",
+      "desc": "</br>\r\n6.2英寸LCD屏较同级别车型尺寸，加大24%</br></br>\r\n搭载专业级 外置扬声器 音质悦耳且动听</br></br>\r\n1000尼特超高屏幕亮度，无惧烈日暴晒</br></br>\r\n光敏传感器，屏幕亮度自适应调节",
+      "layout": "left",
+      "textcolor": "white",
+      "params": "null",
+      "under": "under"
+    }
+  },
+  {
+    "tag": "productgraphiccomponent",
+    "attrs": {
+      "config": "{\"title\":\"光感烤漆 璃光鎏韵\",\"pcTitleFontSize\":\"\",\"mobTitleFontSize\":\"\",\"pcDescFontSize\":\"\",\"mobDescFontSize\":\"\",\"showSerialNumber\":\"false\",\"style\":\"highlyAdaptive\",\"bottomDescClass\":\"\",\"isZeehoCn\":true}",
+      "adaptive": "{\"imageList\":[{\"desc\":\"亚麻灰\",\"image\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/卖点图/EZ2i_14_3.jpg\"},{\"desc\":\"凝脂白\",\"image\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/卖点图/EZ2i_14_2.jpg\"},{\"desc\":\"星光黑\",\"image\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/卖点图/EZ2i_14_1.jpg\"},{\"desc\":\"山野绿\",\"image\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/卖点图/EZ2i_14_4.jpg\"}]}"
+    }
+  },
+  {
+    "tag": "productspecificationcomponent",
+    "attrs": {
+      "path": "/content/zeeho-product/products/model-cn/xdz/ez_/ez2i",
+      "config": "{\"compared\":\"产品对比\",\"comparedLink\":\"/content/zeeho/cn/motorcycles_comparis\",\"downloadBrochure\":\"下载规格参数\",\"title\":\"规格参数\",\"tips\":\"续航里程数值均为极核内部实验室测试结果，实际车辆续航还会爱风速、路面、操作习惯等多种因素影响本参数页面所载续航仅供参考，具体续航请参照实车表现;\",\"isZeehoGlobal\":false,\"isZeehoCn\":true,\"site\":\"zeeho\",\"lang\":\"cn\",\"siteName\":\"ZEEHO\"}",
+      "specification": "[{\"type\":\"基础参数\",\"specification\":[{\"key\":\"尺寸\",\"value\":\"1641mm × 671mm × 1088mm\"},{\"key\":\"轴距\",\"value\":\"1210mm\"},{\"key\":\"座高\",\"value\":\"730mm\"},{\"key\":\"整车整备重量\",\"value\":\"63kg\"},{\"key\":\"离地间隙\",\"value\":\"168mm\"},{\"key\":\"轮胎\",\"value\":\"前后 80/90-10\"},{\"key\":\"减震器\",\"value\":\"前 27 芯弹簧减震，后弹簧双减 5 级可调\"},{\"key\":\"制动规格\",\"value\":\"前后碟刹 + eTCS\"},{\"key\":\"车架\",\"value\":\"双边环绕式车架\"},{\"key\":\"仪表\",\"value\":\"6.2 英寸 LCD 屏\"},{\"key\":\"灯光亮度\",\"value\":\"近光：15000cd\"},{\"key\":\"整车颜色\",\"value\":\"亚麻灰、凝脂白、星光黑、山野绿\"}]},{\"type\":\"三电参数\",\"specification\":[{\"key\":\"电池容量\",\"value\":\"48V 12Ah\"},{\"key\":\"续航\",\"value\":\"40 km\"},{\"key\":\"电机\",\"value\":\"轮毂电机\"},{\"key\":\"额定功率\",\"value\":\"400 W\"},{\"key\":\"最高车速\",\"value\":\"25 km/h\"},{\"key\":\"充电器\",\"value\":\"4 A\"}]},{\"type\":\"智能\",\"specification\":[{\"key\":\"解锁\",\"value\":\"NFC卡片解锁、电子座桶锁、APP解锁、蓝牙感应解锁、\\u003c/br\\u003e小程序解锁、密码解锁、智能手表\\\\手环解锁\"},{\"key\":\"ZEEHO APP\",\"value\":\"车况信息、车辆实时定位、远程控车、骑行轨迹、\\u003c/br\\u003e骑行数据分析、电池电量、功能设置、寻车\"},{\"key\":\"自定义音效\",\"value\":\"✔\"},{\"key\":\"助力推行\",\"value\":\"✔\"},{\"key\":\"倒车助力\",\"value\":\"✔\"},{\"key\":\"应急骑行\",\"value\":\"✔\"},{\"key\":\"节日彩蛋\",\"value\":\"✔\"},{\"key\":\"坡道驻车\",\"value\":\"✔\"},{\"key\":\"坐垫感应\",\"value\":\"✔\"},{\"key\":\"OTA升级\",\"value\":\"✔\"},{\"key\":\"车辆分享\",\"value\":\"✔\"},{\"key\":\"简易骑行\",\"value\":\"✔\"},{\"key\":\"边撑感应\",\"value\":\"✔\"},{\"key\":\"动能回收\",\"value\":\"✔\"},{\"key\":\"简易导航*\",\"value\":\"✔\"},{\"key\":\"自定义按键\",\"value\":\"✔\"}]}]",
+      "product": "{\"image\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/棚拍图/EZ2i.png\",\"title\":\"EZ2i\",\"desc\":\"\",\"specificationImage\":\"/content/dam/zeeho/china/products/dz/ez/ez2i/棚拍图/EZ2i_左前45_凝脂白.png\",\"imageAreas\":[],\"imageRealWidth\":740,\"imageRealHeight\":520}"
+    }
+  },
+  {
+    "tag": "productgallerycomponent",
+    "attrs": {
+      "gallery": "{\"galleryTitle\":\"产品图展\",\"downloadCenter\":\"/content/zeeho/cn/media-center/download-center\"}",
+      "viewmore": "查看更多",
+      "spicturelist": "{\"imageList\":[\"/content/dam/zeeho/china/products/dz/ez/ez2i/细节/EZ2i_细节_6.jpg\",\"/content/dam/zeeho/china/products/dz/ez/ez2i/细节/EZ2i_细节_2.jpg\",\"/content/dam/zeeho/china/products/dz/ez/ez2i/细节/EZ2i_细节_1.jpg\",\"/content/dam/zeeho/china/products/dz/ez/ez2i/细节/EZ2i_细节_5.jpg\",\"/content/dam/zeeho/china/products/dz/ez/ez2i/细节/EZ2i_细节_4.jpg\",\"/content/dam/zeeho/china/products/dz/ez/ez2i/细节/EZ2i_细节_3.jpg\"]}",
+      "lpicturelist": "{\"imageList\":[\"/content/dam/zeeho/china/products/dz/ez/ez2i/画廊/EZ2i_画廊_2.jpg\",\"/content/dam/zeeho/china/products/dz/ez/ez2i/画廊/EZ2i_画廊_1.jpg\",\"/content/dam/zeeho/china/products/dz/ez/ez2i/画廊/EZ2i_画廊_4.jpg\",\"/content/dam/zeeho/china/products/dz/ez/ez2i/画廊/EZ2i_画廊_3.jpg\"]}"
+    }
+  },
+  {
+    "tag": "footercomponent",
+    "attrs": {
+      "obj": "{\"socialTitle\":\"社交媒体\",\"legalsCopyTitle\":\"©版权所有 ZEEHO极核电摩官网 浙ICP备09098699号\",\"legalsCopyLink\":\"https://beian.miit.gov.cn/#/Integrated/index\",\"consentAgreement\":\"By submitting, I agree to subscribe to news and marketing email. <br/>For more details, please view our  <a data-v-52b96a7e=\\\"\\\" href=\\\"/content/zeeho/cn/legal/privacy-policy\\\">privacy policy</a> , <a data-v-52b96a7e=\\\"\\\" href=\\\"/content/zeeho/cn/legal/marketing-communications\\\">marketing communications.</ a>\",\"languageTitle\":\"中文\",\"languageLink\":\"/cn/home.html\",\"languageIconBlack\":\"/content/dam/cfmoto/page-assets/home/国旗国家地图/China.png\",\"hideSubscribe\":\"hide\",\"siteName\":\"ZEEHO\"}",
+      "social": "[{\"listIcon\":\"/content/dam/zeeho/china/home/logo/微博.svg\",\"listLink\":\"https://weibo.com/u/7340458340\",\"mobileListLink\":\"javascript:;\",\"hoverIcon\":\"/content/dam/zeeho/china/home/logo/微博 (1).svg\"},{\"listIcon\":\"/content/dam/zeeho/china/home/logo/微信.svg\",\"listLink\":\"https://mp.weixin.qq.com/s/kCdYI4KeCcvHLD9CjKQl1g\",\"mobileListLink\":\"javascript:;\",\"hoverIcon\":\"/content/dam/zeeho/china/home/logo/微信 (1).svg\"},{\"listIcon\":\"/content/dam/zeeho/china/home/logo/tiktok-black.svg\",\"listLink\":\"https://www.douyin.com/user/MS4wLjABAAAAHvkIQJHyLSkOVP3jNVBvuCfL68POdLW4dH9xhjv4SQ0\",\"mobileListLink\":\"javascript:;\",\"hoverIcon\":\"/content/dam/zeeho/china/home/logo/tiktok-white.svg\"},{\"listIcon\":\"/content/dam/zeeho/china/home/logo/小红书.svg\",\"listLink\":\"https://www.xiaohongshu.com/user/profile/5e7f62a60000000001006c0d\",\"mobileListLink\":\"javascript:;\",\"hoverIcon\":\"/content/dam/zeeho/china/home/logo/小红书 (1).png\"},{\"listIcon\":\"/content/dam/zeeho/china/home/logo/bilibili.svg\",\"listLink\":\"https://space.bilibili.com/483138395?spm_id_from=333.1007.0.0\",\"mobileListLink\":\"javascript:;\",\"hoverIcon\":\"/content/dam/zeeho/china/home/logo/bilibili (1).svg\"}]",
+      "tab": "[{\"listTitle\":\"极核服务\",\"tabSubList\":[{\"listSubLink\":\"/content/zeeho/cn/service/after-sales\",\"listSubTitle\":\"服务支持\"},{\"listSubLink\":\"/content/zeeho/cn/service/spare-parts\",\"listSubTitle\":\"配件价格查询\"},{\"listSubLink\":\"/content/zeeho/cn/zeeho-ride.html?position\\u003drideApp\",\"listSubTitle\":\"极核APP\"}]},{\"listTitle\":\"如何购买\",\"tabSubList\":[{\"listSubLink\":\"/content/zeeho/cn/service/space\",\"listSubTitle\":\"线下门店\"},{\"listSubLink\":\"https://mall.jd.com/index-11635291.html?from\\u003dpc\",\"listSubTitle\":\"京东旗舰店\"},{\"listSubLink\":\"https://shop185747419.taobao.com/?spm\\u003dpc_detail.29232929.shop_popup_block.dentershop.52cd7dd61LGDYC\",\"listSubTitle\":\"天猫旗舰店\"},{\"listSubLink\":\"https://mobile.yangkeduo.com/mall_page.html?mall_id\\u003d476948512\\u0026msn\\u003dimh3ajulg5yil5nsmobauio454_axbuy\\u0026_sop_rcto\\u003dYWIHTQZIXGn9w60DlXoxaVLatouRakXqIno\\u0026mall_info\\u003d%7B%22mall_name%22%3A%22ZEEHO%E6%9E%81%E6%A0%B8%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%97%97%E8%88%B0%E5%BA%97%22%7D\\u0026has_decoration\\u003d1\\u0026refer_page_name\\u003dgoods_detail\\u0026refer_page_id\\u003d10014_1739952533955_bz8btk5iyw\\u0026refer_page_sn\\u003d10014\",\"listSubTitle\":\"拼多多旗舰店\"}]},{\"listTitle\":\"最新动态\",\"tabSubList\":[{\"listSubLink\":\"/content/zeeho/cn/media-center/news\",\"listSubTitle\":\"新闻动态\"},{\"listSubLink\":\"/content/zeeho/cn/media-center/community-list\",\"listSubTitle\":\"官方社区\"}]},{\"listTitle\":\"关于我们\",\"tabSubList\":[{\"listSubLink\":\"/content/zeeho/cn/about-us/Company Overview\",\"listSubTitle\":\"公司简介\"},{\"listSubLink\":\"/content/zeeho/cn/about-us/brand\",\"listSubTitle\":\"极核品牌\"},{\"listSubLink\":\"/content/zeeho/cn/about-us/contact\",\"listSubTitle\":\"申请加盟\"}]},{}]",
+      "language": "[{\"listLink\":\"javascript:;\",\"mobileListLink\":\"javascript:;\",\"languageTitle\":\"Global\",\"languageLink\":\"https://www.zeehoev.com/global\",\"languageIcon\":\"/content/dam/zeeho/global/home/lang.png\"},{\"listLink\":\"javascript:;\",\"mobileListLink\":\"javascript:;\",\"languageTitle\":\"德国\",\"languageLink\":\"https://www.zeehoev.cn/?lang=de\",\"languageIcon\":\"/content/dam/cfmoto/page-assets/home/国旗国家地图/Germany.png\"},{\"listLink\":\"javascript:;\",\"mobileListLink\":\"javascript:;\",\"languageTitle\":\"西班牙\",\"languageLink\":\"https://www.zeehoev.cn/?lang=es\",\"languageIcon\":\"/content/dam/cfmoto/page-assets/home/国旗国家地图/Spain.png\"}]",
+      "legalslinks": "[{\"listLink\":\"javascript:;\",\"mobileListLink\":\"javascript:;\",\"title\":\"隐私政策\",\"link\":\"/cn/legal/privacy-policy.html\"},{\"listLink\":\"javascript:;\",\"mobileListLink\":\"javascript:;\",\"title\":\"法律声明\",\"link\":\"/cn/legal/legal-notice.html\"},{\"listLink\":\"javascript:;\",\"mobileListLink\":\"javascript:;\",\"title\":\"用户协议\",\"link\":\"/cn/legal/terms-of-use.html\"},{\"listLink\":\"javascript:;\",\"mobileListLink\":\"javascript:;\",\"title\":\"电商条款\",\"link\":\"/cn/legal/e-commerce-terms.html\"}]",
+      "tags": "ZEEHO consumer,Media,Business partner-distributor,Business partner-dealer,Others"
+    }
+  }
+]

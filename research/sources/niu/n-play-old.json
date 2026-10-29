@@ -1,0 +1,35 @@
+{
+  "layout": "default",
+  "data": [
+    {
+      "parameterList": "",
+      "parameterImageList": {
+        "all_colors": [],
+        "all_images": [],
+        "button": {},
+        "selling": []
+      },
+      "type": "n-play",
+      "typetitle": "N Play"
+    }
+  ],
+  "fetch": [],
+  "error": null,
+  "state": {
+    "userId": null,
+    "usId": null,
+    "isMobile": false,
+    "isWechat": false,
+    "isIOS": false,
+    "isSafari": false,
+    "isMac": null,
+    "accesstoken": null,
+    "isSamsung": null,
+    "compareVehicleIds": null,
+    "countryList": [],
+    "openId": null,
+    "isAndroidChrome": false
+  },
+  "serverRendered": true,
+  "routePath": "/product/n-play"
+}

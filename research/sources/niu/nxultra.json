@@ -1,0 +1,656 @@
+{
+  "layout": "default",
+  "data": [
+    {
+      "parameterList": {
+        "sku_31792": {
+          "sku_id": "sku_31792",
+          "button": {
+            "edition": "Play",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10114329411091.html"
+          },
+          "button_directions": {
+            "edition": "Play",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10114329411091.html"
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "NX Sport play"
+            },
+            "price": {
+              "name": "指导价",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_1101051950": {
+                  "body_color": "#222222",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_1_1101051950": {
+                  "body_color": "#666666",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_2_1101051950": {
+                  "body_color": "#F5F5F5",
+                  "line_color": "",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/c166946ba51f6ec6049ce52b063fa04e.png",
+                "//img.niucache.com/service/media/vehicle/68dd6585698c1e39c6cf65ab4c95b236.png",
+                "//img.niucache.com/service/media/vehicle/2b130e89153a9869dae1ba27516e10d8.png",
+                "//img.niucache.com/service/media/vehicle/f9c8192136c80d2702571fe4423a3764.png",
+                "//img.niucache.com/service/media/vehicle/2385baba657d5a4ebf122c4c00a44302.png",
+                "//img.niucache.com/service/media/vehicle/4c403bc1929d3e36f99f8c6f1fd15390.png",
+                "//img.niucache.com/service/media/vehicle/cb8a11b1ec19d424536b624db32b223b.png",
+                "//img.niucache.com/service/media/vehicle/882dc979d2f4c7a9eb2393869d6e223e.png",
+                "//img.niucache.com/service/media/vehicle/af3f3f50fb29b8f333c92a1172eda96b.png",
+                "//img.niucache.com/service/media/vehicle/db0121a0efefb89422e9feb7e68a9d98.png",
+                "//img.niucache.com/service/media/vehicle/89ba664048bb4f8663d7e14e5c59ca5d.png",
+                "//img.niucache.com/service/media/vehicle/f717110b7581254cbe2ac6d5273dea02.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/c166946ba51f6ec6049ce52b063fa04e.png",
+              "//img.niucache.com/service/media/vehicle/2385baba657d5a4ebf122c4c00a44302.png",
+              "//img.niucache.com/service/media/vehicle/af3f3f50fb29b8f333c92a1172eda96b.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "理论续航",
+                "value": "80km"
+              },
+              {
+                "name": "电池科技",
+                "value": "铅酸"
+              },
+              {
+                "name": "电池类型",
+                "value": "真黑金铅酸"
+              },
+              {
+                "name": "电机功率",
+                "value": "1500W"
+              },
+              {
+                "name": "最高时速",
+                "value": "55km/h"
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "150kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "钢"
+              },
+              {
+                "name": "减震",
+                "value": "直径31mm双侧液压前减震\n5级可调后减震"
+              },
+              {
+                "name": "制动系统",
+                "value": "盘式-碟刹 前240后200"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "双通道真ABS",
+                "value": 1
+              },
+              {
+                "name": "TCS牵引力控制系统",
+                "value": 0
+              },
+              {
+                "name": "汽车级毫米波雷达",
+                "value": 1
+              },
+              {
+                "name": "汽车级全屏导航",
+                "value": 1
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "72V"
+              },
+              {
+                "name": "电池容量",
+                "value": "35Ah"
+              },
+              {
+                "name": "电池包重量",
+                "value": "60kg"
+              },
+              {
+                "name": "充电时间",
+                "value": "8小时"
+              },
+              {
+                "name": "充电方式",
+                "value": "车身充电"
+              },
+              {
+                "name": "支持速冲",
+                "value": 0
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1860mm"
+              },
+              {
+                "name": "宽",
+                "value": "745mm"
+              },
+              {
+                "name": "高",
+                "value": "1135mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "130mm"
+              },
+              {
+                "name": "轮圈尺寸",
+                "value": "12英寸"
+              }
+            ]
+          }
+        },
+        "sku_31795": {
+          "sku_id": "sku_31795",
+          "button": {
+            "edition": "Sport",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10109051819782.html"
+          },
+          "button_directions": {
+            "edition": "Sport",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10109051819782.html"
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "NX Sport"
+            },
+            "price": {
+              "name": "指导价",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_1101051950": {
+                  "body_color": "#222222",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_1_1101051950": {
+                  "body_color": "#666666",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_2_1101051950": {
+                  "body_color": "#F5F5F5",
+                  "line_color": "",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/c166946ba51f6ec6049ce52b063fa04e.png",
+                "//img.niucache.com/service/media/vehicle/68dd6585698c1e39c6cf65ab4c95b236.png",
+                "//img.niucache.com/service/media/vehicle/2b130e89153a9869dae1ba27516e10d8.png",
+                "//img.niucache.com/service/media/vehicle/f9c8192136c80d2702571fe4423a3764.png",
+                "//img.niucache.com/service/media/vehicle/2385baba657d5a4ebf122c4c00a44302.png",
+                "//img.niucache.com/service/media/vehicle/4c403bc1929d3e36f99f8c6f1fd15390.png",
+                "//img.niucache.com/service/media/vehicle/cb8a11b1ec19d424536b624db32b223b.png",
+                "//img.niucache.com/service/media/vehicle/882dc979d2f4c7a9eb2393869d6e223e.png",
+                "//img.niucache.com/service/media/vehicle/af3f3f50fb29b8f333c92a1172eda96b.png",
+                "//img.niucache.com/service/media/vehicle/db0121a0efefb89422e9feb7e68a9d98.png",
+                "//img.niucache.com/service/media/vehicle/89ba664048bb4f8663d7e14e5c59ca5d.png",
+                "//img.niucache.com/service/media/vehicle/f717110b7581254cbe2ac6d5273dea02.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/c166946ba51f6ec6049ce52b063fa04e.png",
+              "//img.niucache.com/service/media/vehicle/2385baba657d5a4ebf122c4c00a44302.png",
+              "//img.niucache.com/service/media/vehicle/af3f3f50fb29b8f333c92a1172eda96b.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "理论续航",
+                "value": "77km"
+              },
+              {
+                "name": "电池科技",
+                "value": "NIU ENERGY™"
+              },
+              {
+                "name": "电池类型",
+                "value": "锂电"
+              },
+              {
+                "name": "电机功率",
+                "value": "2000W"
+              },
+              {
+                "name": "最高时速",
+                "value": "65km/h"
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "150kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "钢"
+              },
+              {
+                "name": "减震",
+                "value": "直径33mm双侧液压前减震5级可调后减震"
+              },
+              {
+                "name": "制动系统",
+                "value": "盘式-碟刹 前240后200"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "双通道真ABS",
+                "value": 1
+              },
+              {
+                "name": "TCS牵引力控制系统",
+                "value": 0
+              },
+              {
+                "name": "汽车级毫米波雷达",
+                "value": 0
+              },
+              {
+                "name": "汽车级全屏导航",
+                "value": 1
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "72V"
+              },
+              {
+                "name": "电池容量",
+                "value": "28Ah"
+              },
+              {
+                "name": "电池包重量",
+                "value": "15.4 Kg"
+              },
+              {
+                "name": "充电时间",
+                "value": "8小时"
+              },
+              {
+                "name": "充电方式",
+                "value": "电池单充／车身充电"
+              },
+              {
+                "name": "支持速冲",
+                "value": 0
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1860mm"
+              },
+              {
+                "name": "宽",
+                "value": "745mm"
+              },
+              {
+                "name": "高",
+                "value": "1135mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "130mm"
+              },
+              {
+                "name": "轮圈尺寸",
+                "value": "12英寸"
+              }
+            ]
+          }
+        },
+        "sku_31798": {
+          "sku_id": "sku_31798",
+          "button": {
+            "edition": "Ultra",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10122139880585.html"
+          },
+          "button_directions": {
+            "edition": "Ultra",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10122139880585.html"
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "NX Ultra"
+            },
+            "price": {
+              "name": "指导价",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_1101051950": {
+                  "body_color": "#222222",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_1_1101051950": {
+                  "body_color": "#666666",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_2_1101051950": {
+                  "body_color": "#F5F5F5",
+                  "line_color": "",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/c166946ba51f6ec6049ce52b063fa04e.png",
+                "//img.niucache.com/service/media/vehicle/68dd6585698c1e39c6cf65ab4c95b236.png",
+                "//img.niucache.com/service/media/vehicle/2b130e89153a9869dae1ba27516e10d8.png",
+                "//img.niucache.com/service/media/vehicle/f9c8192136c80d2702571fe4423a3764.png",
+                "//img.niucache.com/service/media/vehicle/2385baba657d5a4ebf122c4c00a44302.png",
+                "//img.niucache.com/service/media/vehicle/4c403bc1929d3e36f99f8c6f1fd15390.png",
+                "//img.niucache.com/service/media/vehicle/cb8a11b1ec19d424536b624db32b223b.png",
+                "//img.niucache.com/service/media/vehicle/882dc979d2f4c7a9eb2393869d6e223e.png",
+                "//img.niucache.com/service/media/vehicle/af3f3f50fb29b8f333c92a1172eda96b.png",
+                "//img.niucache.com/service/media/vehicle/db0121a0efefb89422e9feb7e68a9d98.png",
+                "//img.niucache.com/service/media/vehicle/89ba664048bb4f8663d7e14e5c59ca5d.png",
+                "//img.niucache.com/service/media/vehicle/f717110b7581254cbe2ac6d5273dea02.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/c166946ba51f6ec6049ce52b063fa04e.png",
+              "//img.niucache.com/service/media/vehicle/2385baba657d5a4ebf122c4c00a44302.png",
+              "//img.niucache.com/service/media/vehicle/af3f3f50fb29b8f333c92a1172eda96b.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "理论续航",
+                "value": "130km（工况法）/73km（等速法）"
+              },
+              {
+                "name": "电池科技",
+                "value": "NIU ENERGY™"
+              },
+              {
+                "name": "电池类型",
+                "value": "锂电"
+              },
+              {
+                "name": "电机功率",
+                "value": "5000W"
+              },
+              {
+                "name": "最高时速",
+                "value": "100km/h"
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "150kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "钢"
+              },
+              {
+                "name": "减震",
+                "value": "直径33mm双侧液压前减震5级可调后减震"
+              },
+              {
+                "name": "制动系统",
+                "value": "盘式-碟刹 前240后200"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "双通道真ABS",
+                "value": 0
+              },
+              {
+                "name": "TCS牵引力控制系统",
+                "value": 0
+              },
+              {
+                "name": "汽车级毫米波雷达",
+                "value": 0
+              },
+              {
+                "name": "汽车级全屏导航",
+                "value": 0
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "72V"
+              },
+              {
+                "name": "电池容量",
+                "value": "锂电芯\n72V28Ah ✖️2"
+              },
+              {
+                "name": "电池包重量",
+                "value": "24.8 Kg"
+              },
+              {
+                "name": "充电时间",
+                "value": "单包 3.5 h/双包6 h"
+              },
+              {
+                "name": "充电方式",
+                "value": "电池单充／车身充电"
+              },
+              {
+                "name": "支持速冲",
+                "value": 0
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1860mm"
+              },
+              {
+                "name": "宽",
+                "value": "745mm"
+              },
+              {
+                "name": "高",
+                "value": "1135mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "130mm"
+              },
+              {
+                "name": "轮圈尺寸",
+                "value": "12英寸"
+              }
+            ]
+          }
+        }
+      },
+      "parameterImageList": {
+        "all_colors": [
+          {
+            "body_color": "#222222",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#666666",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#F5F5F5",
+            "line_color": "",
+            "select_color": ""
+          }
+        ],
+        "all_images": [
+          "//img.niucache.com/service/media/vehicle/c166946ba51f6ec6049ce52b063fa04e.png",
+          "//img.niucache.com/service/media/vehicle/68dd6585698c1e39c6cf65ab4c95b236.png",
+          "//img.niucache.com/service/media/vehicle/2b130e89153a9869dae1ba27516e10d8.png",
+          "//img.niucache.com/service/media/vehicle/f9c8192136c80d2702571fe4423a3764.png",
+          "//img.niucache.com/service/media/vehicle/2385baba657d5a4ebf122c4c00a44302.png",
+          "//img.niucache.com/service/media/vehicle/4c403bc1929d3e36f99f8c6f1fd15390.png",
+          "//img.niucache.com/service/media/vehicle/cb8a11b1ec19d424536b624db32b223b.png",
+          "//img.niucache.com/service/media/vehicle/882dc979d2f4c7a9eb2393869d6e223e.png",
+          "//img.niucache.com/service/media/vehicle/af3f3f50fb29b8f333c92a1172eda96b.png",
+          "//img.niucache.com/service/media/vehicle/db0121a0efefb89422e9feb7e68a9d98.png",
+          "//img.niucache.com/service/media/vehicle/89ba664048bb4f8663d7e14e5c59ca5d.png",
+          "//img.niucache.com/service/media/vehicle/f717110b7581254cbe2ac6d5273dea02.png"
+        ],
+        "grey_logo": "//img.niucache.com/service/media/vehicle/6158e0b97653b4a5258617423f17c4d1.svg",
+        "direction_url": "",
+        "logo": "//img.niucache.com/service/media/vehicle/55b8cbd4f14c5101e11cd1e322efd25e.svg",
+        "button": {
+          "bg_color": "#df001f",
+          "purchase_link": "https://item.jd.com/10122139880585.html",
+          "word": "购买",
+          "word_color": "#ffffff"
+        },
+        "price": "",
+        "selling": []
+      },
+      "type": "nx-ultra",
+      "typetitle": "NX Ultra"
+    }
+  ],
+  "fetch": [],
+  "error": null,
+  "state": {
+    "userId": null,
+    "usId": null,
+    "isMobile": false,
+    "isWechat": false,
+    "isIOS": false,
+    "isSafari": false,
+    "isMac": null,
+    "accesstoken": null,
+    "isSamsung": null,
+    "compareVehicleIds": null,
+    "countryList": [],
+    "openId": null,
+    "isAndroidChrome": false
+  },
+  "serverRendered": true,
+  "routePath": "/product/nx-ultra"
+}

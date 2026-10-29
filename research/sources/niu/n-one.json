@@ -1,0 +1,524 @@
+{
+  "layout": "default",
+  "data": [
+    {
+      "parameterList": {
+        "sku_34144": {
+          "sku_id": "sku_34144",
+          "button": {
+            "edition": "N One",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10216824475694.html"
+          },
+          "button_directions": {
+            "edition": "N One",
+            "text": "",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": ""
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "N One"
+            },
+            "price": {
+              "name": "指导价",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动轻便摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_0420021259": {
+                  "body_color": "#606060",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_1_0420021259": {
+                  "body_color": "#222222",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_2_0420021259": {
+                  "body_color": "#F7F7F7",
+                  "line_color": "",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/076f624d9e3656bfe13ac13d9d408b24.png",
+                "//img.niucache.com/service/media/vehicle/0bca107a8fced2c9237b0f8aa23db867.png",
+                "//img.niucache.com/service/media/vehicle/c8c9d97d8c3acb8bd9f35c31a939e8b7.png",
+                "//img.niucache.com/service/media/vehicle/ac496aafc0d03d5fb09303fda976bdfe.png",
+                "//img.niucache.com/service/media/vehicle/cd28e01b56b39f605f00186719c0d0f5.png",
+                "//img.niucache.com/service/media/vehicle/7dc48871858c74f437dc5a5b10fd0c39.png",
+                "//img.niucache.com/service/media/vehicle/68eee811b87057f44d9132188663d578.png",
+                "//img.niucache.com/service/media/vehicle/c8b7ee2b4f55562e3b390b25b1bc0a81.png",
+                "//img.niucache.com/service/media/vehicle/c3c7b33974d35dbde503223bc0ab866e.png",
+                "//img.niucache.com/service/media/vehicle/0c123ee65fb96aa0d1e8b7593542934c.png",
+                "//img.niucache.com/service/media/vehicle/a4bc39be987c94f06b41991f65b854c9.png",
+                "//img.niucache.com/service/media/vehicle/ba3c03dc73947c5c850be5adcb7cc799.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/076f624d9e3656bfe13ac13d9d408b24.png",
+              "//img.niucache.com/service/media/vehicle/cd28e01b56b39f605f00186719c0d0f5.png",
+              "//img.niucache.com/service/media/vehicle/c3c7b33974d35dbde503223bc0ab866e.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "理论续航",
+                "value": "48KM"
+              },
+              {
+                "name": "电池科技",
+                "value": "铅酸"
+              },
+              {
+                "name": "电机功率",
+                "value": "800W"
+              },
+              {
+                "name": "最高时速",
+                "value": "47km/h"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "75kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "钢"
+              },
+              {
+                "name": "减震",
+                "value": "前：液力阻尼式 后：液力阻尼式"
+              },
+              {
+                "name": "制动系统",
+                "value": "前碟刹：220mm 后碟刹：180mm"
+              },
+              {
+                "name": "TCS牵引力控制系统",
+                "value": 0
+              },
+              {
+                "name": "汽车级全屏导航",
+                "value": 1
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "60V"
+              },
+              {
+                "name": "电池容量",
+                "value": "20Ah"
+              },
+              {
+                "name": "充电时间",
+                "value": 7
+              },
+              {
+                "name": "充电方式",
+                "value": "车身充电"
+              },
+              {
+                "name": "支持速充",
+                "value": 1
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1790mm"
+              },
+              {
+                "name": "宽",
+                "value": "730mm"
+              },
+              {
+                "name": "高",
+                "value": "1090mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "120mm"
+              },
+              {
+                "name": "轮圈尺寸",
+                "value": "前：80/90-12  后：3.0-10"
+              }
+            ]
+          }
+        }
+      },
+      "parameterImageList": {
+        "all_colors": [
+          {
+            "body_color": "#606060",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#222222",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#F7F7F7",
+            "line_color": "",
+            "select_color": ""
+          }
+        ],
+        "all_images": [
+          "//img.niucache.com/service/media/vehicle/076f624d9e3656bfe13ac13d9d408b24.png",
+          "//img.niucache.com/service/media/vehicle/0bca107a8fced2c9237b0f8aa23db867.png",
+          "//img.niucache.com/service/media/vehicle/c8c9d97d8c3acb8bd9f35c31a939e8b7.png",
+          "//img.niucache.com/service/media/vehicle/ac496aafc0d03d5fb09303fda976bdfe.png",
+          "//img.niucache.com/service/media/vehicle/cd28e01b56b39f605f00186719c0d0f5.png",
+          "//img.niucache.com/service/media/vehicle/7dc48871858c74f437dc5a5b10fd0c39.png",
+          "//img.niucache.com/service/media/vehicle/68eee811b87057f44d9132188663d578.png",
+          "//img.niucache.com/service/media/vehicle/c8b7ee2b4f55562e3b390b25b1bc0a81.png",
+          "//img.niucache.com/service/media/vehicle/c3c7b33974d35dbde503223bc0ab866e.png",
+          "//img.niucache.com/service/media/vehicle/0c123ee65fb96aa0d1e8b7593542934c.png",
+          "//img.niucache.com/service/media/vehicle/a4bc39be987c94f06b41991f65b854c9.png",
+          "//img.niucache.com/service/media/vehicle/ba3c03dc73947c5c850be5adcb7cc799.png"
+        ],
+        "grey_logo": "//img.niucache.com/service/media/vehicle/8de9c8cd73d5a66bd16651438ff046af.svg",
+        "direction_url": "",
+        "logo": "//img.niucache.com/service/media/vehicle/984b7be1d17e1a7bfbb502abc5de2e7d.svg",
+        "button": {
+          "bg_color": "#DF001F",
+          "purchase_link": "https://item.jd.com/10216824475694.html",
+          "word": "购买",
+          "word_color": "#FFFFFF"
+        },
+        "price": "",
+        "selling": []
+      },
+      "type": "n-one",
+      "typetitle": "N One",
+      "urllist": [
+        {
+          "id": 1109,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/3cbb6edee3b3598a03d1915d8bfcc1f1.jpg",
+          "sort": 1
+        },
+        {
+          "id": 1110,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/5fca8a30758c026d84a4d608ca28cf28.jpg",
+          "sort": 2
+        },
+        {
+          "id": 1111,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/723924c66572d576b2026816ca953037.jpg",
+          "sort": 3
+        },
+        {
+          "id": 1112,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/0f2bb03f955cebae109e7fa15736b132.jpg",
+          "sort": 4
+        },
+        {
+          "id": 1113,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/8ad073206851d4a81a3882f7f2570415.jpg",
+          "sort": 5
+        },
+        {
+          "id": 1114,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/d7ffec6ec207e344ca97adbbf5e40ec2.jpg",
+          "sort": 6
+        },
+        {
+          "id": 1115,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/8dea1839d732046132652b4fbf6ebc44.jpg",
+          "sort": 7
+        },
+        {
+          "id": 1116,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/541080c18ab2f15dae99b8a1a2215176.jpg",
+          "sort": 8
+        },
+        {
+          "id": 1117,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/64f4360d3da11ebb8a5c583dbe6b0df2.jpg",
+          "sort": 9
+        },
+        {
+          "id": 1118,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/5153a9394c30fada1fff2d6c2b0f50a7.jpg",
+          "sort": 10
+        },
+        {
+          "id": 1119,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/4563d4aadfa14c6e4b073907cf35951b.jpg",
+          "sort": 11
+        },
+        {
+          "id": 1120,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/87137014e151ff0bd3203c56c41a5cce.jpg",
+          "sort": 12
+        },
+        {
+          "id": 1121,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/e91d6c814f390f5cac96bc8a45c75040.jpg",
+          "sort": 13
+        },
+        {
+          "id": 1122,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/9d1e4e1b666a70b73dc17d7b5a4a6b3a.jpg",
+          "sort": 14
+        },
+        {
+          "id": 1123,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/92c1f3a6cd705bf4378a9b8ae65f0638.jpg",
+          "sort": 15
+        },
+        {
+          "id": 1124,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/a4598bf809c8588de62d5172a376c81b.jpg",
+          "sort": 16
+        },
+        {
+          "id": 1125,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/e86b11e32295ee3c599bc9a4f3687599.jpg",
+          "sort": 17
+        },
+        {
+          "id": 1126,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/e85200e85bfbe70cc554380153311a42.jpg",
+          "sort": 18
+        },
+        {
+          "id": 1127,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/2324896424e6bef7501ee14df6bf9bc1.jpg",
+          "sort": 19
+        },
+        {
+          "id": 1128,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/b10c0540157a0be19485b61c0ea9fe0f.jpg",
+          "sort": 20
+        },
+        {
+          "id": 1129,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/4d6db7c4b13270e0791602b45ea1d28b.jpg",
+          "sort": 21
+        },
+        {
+          "id": 1130,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/01a5ec4502f36e9cdf746da317a37e13.jpg",
+          "sort": 22
+        },
+        {
+          "id": 1131,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/6d46a89a9c7204098812722653c71032.jpg",
+          "sort": 23
+        },
+        {
+          "id": 1132,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/f80a794342b7349e996689337374aea9.jpg",
+          "sort": 24
+        },
+        {
+          "id": 1133,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/8fae5e33e97d1ff6102232606dcc52c2.jpg",
+          "sort": 25
+        },
+        {
+          "id": 1134,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/d08439e72c129747e4bc58ec4a67ffa7.jpg",
+          "sort": 26
+        },
+        {
+          "id": 1135,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/f3576fac8a1efd2ef7609c22c7bff03d.jpg",
+          "sort": 27
+        },
+        {
+          "id": 1136,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/4fade4369e7eb5ba84eba25ac9231c39.jpg",
+          "sort": 28
+        },
+        {
+          "id": 1137,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/912f8ce5edc5a279f5c93e6316de5132.jpg",
+          "sort": 29
+        },
+        {
+          "id": 1138,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/846101a10b73f521fc693aa61a338bc7.jpg",
+          "sort": 30
+        }
+      ]
+    }
+  ],
+  "fetch": [],
+  "error": null,
+  "state": {
+    "userId": null,
+    "usId": null,
+    "isMobile": false,
+    "isWechat": false,
+    "isIOS": false,
+    "isSafari": false,
+    "isMac": null,
+    "accesstoken": null,
+    "isSamsung": null,
+    "compareVehicleIds": null,
+    "countryList": [],
+    "openId": null,
+    "isAndroidChrome": false
+  },
+  "serverRendered": true,
+  "routePath": "/products/n-one"
+}

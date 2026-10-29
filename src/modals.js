@@ -1,17 +1,18 @@
-import { models, formatPrice, dataNote } from './data.js';
+import { models, brands, formatPrice, dataNote, catalogMeta, catalogCandidates, catalogExclusions, escapeHTML, formatNumber, classLabels, statusLabels, imageLabels, priceLabels, budgetOptions, inBudget, sourcesFor, labelFor, recommendModels, sourceLabels, formatSpec } from './data.js';
 
 const arrow = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg>';
 const check = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="m5 12 4 4L19 6"/></svg>';
 const closeIcon = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="m6 6 12 12M6 18 18 6"/></svg>';
 const lightning = '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="m13 2-9 12h7l-1 8 10-13h-8z"/></svg>';
-
+const mh = escapeHTML;
+const specState = value => ({dual:'双通道 ABS',single:'单通道 ABS',present_unspecified:'有 ABS · 通道待核',standard:'标配',optional:'选装',none:'无',unknown:'未公开'})[value] || '未公开';
 const articles = {
-  data: { category:'关于本网站 · 内容说明', title:'让选择透明，让出发简单。', intro:dataNote, sections:[
-    ['一份可以体验的选车概念','九牛核是围绕九号、极核、小牛三个品牌制作的独立交互概念。页面提供车型探索、筛选、收藏、参数对比与偏好推荐，与所涉品牌无隶属关系。'],
-    ['怎样理解页面中的数字','本次制作未完成官网实时核验。展示价格、车速、续航、功率、电池与其他配置均用于演示对比功能，不应作为购车依据，也不表示当前在售版本的官方规格。不同版本和地区的价格、配置及准入要求可能不同。'],
-    ['原创整车视觉','页面整车图片由原创矢量插画组成，仅表达黑色科技、银色运动与暖白都市三种设计风格，不是对应车型的官方产品图片。'],
-    ['推荐与记录','选车推荐在本地按照示例预算、场景与配置偏好计算。收藏和对比记录保存在当前浏览器中；不需要登录，也不会上传个人信息。实际选择请结合当地法规、可靠配置资料和到店试骑。']
-  ]},
+ data: {category:'V2 · 资料与图片说明',title:'每一项资料，都有对应的依据。',intro:dataNote,sections:[
+  ['车型与版本','仅收录中国大陆市场的电动两轮摩托车和电动轻便摩托车。电动自行车排除。车型、年款、配置版本分别记录，来源不足的候选保留在待核实清单中。'],
+  ['价格与参数','价格注明官方公开价、上市指导价或渠道参考价，并保留日期和条件。额定功率与峰值功率分别比较；续航保留测试工况。未公开的内容显示未知，不使用初版演示数字或手写综合评分。'],
+  ['真实图片','每条配置记录目标至少三张经核验实拍，官方渲染与未确认类型单独标记。缺图数量在车型详情公开，缺图不删除型号，也不以其他型号照片补足。外观一致版本共用图片时标注适用关系。'],
+  ['资料覆盖','本次覆盖已列明的公开资料，并非对市场绝对无遗漏的承诺。核验范围、待确认候选与排除记录可以在「核验范围与缺口」中查看。收藏和对比记录保存在当前浏览器。']
+ ]},
   beginner: { category:'选车入门 · 约 3 分钟', title:'第一次买电摩，先问自己这 5 个问题。', intro:'比起先记住一串参数，更值得先想清楚的，是这台车会怎样进入你的生活。', sections:[
     ['01 / 你每天真正骑多远？','记录一周实际通勤距离，再加上买菜、接人和偶尔绕路的余量。别只按最长的一次出行选车；先满足高频使用，再考虑偶尔发生的需求。'],
     ['02 / 你准备在哪里充电？','购买前确认小区、车库或工作地点的合规充电条件。可提取电池也有重量差异，试着搬一次，比只看宣传页更有帮助。不要把电池带入住宅、电梯或疏散通道充电。'],
@@ -34,164 +35,86 @@ const articles = {
   ]}
 };
 
-export function initModals({onToggleCompare, onRecommend, getCompareIds, notify = () => {}}) {
-  const root = document.createElement('div');
-  root.className = 'modal-root';
-  root.hidden = true;
-  document.body.appendChild(root);
-  let previousFocus;
-  let previousFocusSelector = '';
-  let activeView = '';
-  let detailsId = null;
-  let detailsTab = 'overview';
-  let differencesOnly = false;
-  let quizStep = 0;
-  let answers = {};
-  let ranked = [];
-  let originalOverflow = '';
-
-  const close = () => {
-    if (root.hidden) return;
-    root.hidden = true;
-    root.innerHTML = '';
-    document.body.style.overflow = originalOverflow;
-    activeView = '';
-    const focusTarget = previousFocus?.isConnected ? previousFocus : (previousFocusSelector ? document.querySelector(previousFocusSelector) : null);
-    (focusTarget || document.querySelector('.header-compare'))?.focus({preventScroll:true});
-  };
-  const shell = (content, className = '') => {
-    const wasHidden = root.hidden;
-    const focused = document.activeElement;
-    const actionData = !wasHidden && focused?.dataset?.modalAction ? { ...focused.dataset } : null;
-    if (wasHidden) {
-      previousFocus = focused;
-      previousFocusSelector = '';
-      if (focused?.id) previousFocusSelector = `#${CSS.escape(focused.id)}`;
-      else if (focused?.dataset) {
-        const key = ['detail','article','action','brand','favorite','compare'].find(key => focused.dataset[key]);
-        if (key) previousFocusSelector = `[data-${key}="${CSS.escape(focused.dataset[key])}"]`;
-      }
-      originalOverflow = document.body.style.overflow;
-      document.body.style.overflow = 'hidden';
-    }
-    root.hidden = false;
-    root.innerHTML = `<section class="modal-panel ${className}" role="dialog" aria-modal="true" aria-labelledby="modal-title" tabindex="-1"><button class="modal-close" data-modal-action="close" aria-label="关闭弹窗">${closeIcon}</button>${content}</section>`;
-    let focusTarget;
-    if (actionData) {
-      focusTarget = [...root.querySelectorAll('[data-modal-action]')].find(element => !element.disabled && Object.entries(actionData).every(([key,value]) => element.dataset[key] === value));
-    }
-    (focusTarget || root.querySelector('.modal-panel')).focus({preventScroll:true});
-  };
-  const footerNote = () => `<p class="modal-note"><span>i</span>${dataNote}</p>`;
-  const selectedModels = () => getCompareIds().map(id => models.find(m => m.id === id)).filter(Boolean);
-
-  function renderCompare() {
-    activeView = 'compare';
-    const selected = selectedModels();
-    const rows = [
-      ['price','参考价格',m => `¥ ${formatPrice(m.price)}`],
-      ['speed','最高车速',m => `${m.speed} km/h`],
-      ['range','参考续航',m => `${m.range} km`],
-      ['power','电机峰值功率',m => `${m.power} kW`],
-      ['battery','电池配置',m => m.battery],
-      ['charge','充电时间',m => m.charge],
-      ['brake','制动系统',m => m.brake],
-      ['weight','整备质量',m => m.weight],
-      ['seat','座高',m => m.seat],
-      ['description','更适合谁',m => m.description]
-    ].filter(([key]) => !differencesOnly || selected.length < 2 || new Set(selected.map(m=>m[key])).size > 1);
-    shell(`<div class="modal-eyebrow">SIDE BY SIDE</div><div class="modal-title-row"><div><h2 id="modal-title">好车，经得起比较。</h2><p class="modal-subtitle">把关注的配置放在一起，选出更合拍的一台。</p></div><span class="modal-count">${selected.length} / 3 台车型</span></div>
-    ${selected.length ? `<div class="compare-control"><label class="modal-switch"><input type="checkbox" data-modal-action="diff" ${differencesOnly?'checked':''}><span class="modal-switch-track"></span>只看不同项</label><span>展示参考参数</span></div><div class="compare-table-wrap"><table class="modal-compare-table"><thead><tr><th scope="col">核心维度</th>${selected.map(m=>`<th scope="col"><div class="compare-model"><button data-modal-action="remove-compare" data-id="${m.id}" aria-label="移除${m.brandName}${m.name}" class="compare-remove">${closeIcon}</button><img src="${m.image}" alt="${m.brandName} ${m.name} 原创示意插画"><small>${m.brandName}</small><strong>${m.name}</strong></div></th>`).join('')}</tr></thead><tbody>${rows.map(([key,label,format])=>`<tr><th scope="row">${label}</th>${selected.map(m=>`<td class="${['speed','range','power'].includes(key)&&selected.length>1&&m[key]===Math.max(...selected.map(x=>x[key]))?'compare-best':''} ${key==='description'?'compare-description':''}">${format(m)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>${selected.length<3?'<button class="modal-text-btn" data-modal-action="back-explore">＋ 继续添加车型，最多可对比 3 台</button>':''}` : `<div class="compare-empty"><div class="compare-empty-icon">${lightning}</div><h3>你的对比车库，等着第一台车。</h3><p>在车型卡片上点击「加入对比」，或先看看三大品牌的热门选择。</p><button class="modal-primary" data-modal-action="add-trio">加入三款热门车型 ${arrow}</button></div>`}
-    ${footerNote()}`, 'modal-wide');
-  }
-
-  const questions = [
-    {title:'先聊聊，你的购车预算？',subtitle:'选一个舒适的范围，把选择缩小一点。',key:'budget',choices:[
-      {value:'15000',title:'1.5 万元以内',detail:'实用优先，轻松入手',icon:'01'},
-      {value:'22000',title:'1.5 — 2.2 万元',detail:'配置与体验，都想要',icon:'02'},
-      {value:'99999',title:'2.2 万元以上',detail:'为喜欢，留足空间',icon:'03'}]},
-    {title:'你最常骑向哪里？',subtitle:'为每天的真实生活，找到更合拍的搭档。',key:'scene',choices:[
-      {value:'commute',title:'城市通勤',detail:'穿梭日常，好骑更重要',icon:'↗'},
-      {value:'sport',title:'享受骑行',detail:'周末出发，喜欢操控感',icon:'ϟ'},
-      {value:'range',title:'走得更远',detail:'减少充电，多一点自由',icon:'∞'}]},
-    {title:'最后，你更看重哪一点？',subtitle:'没有统一的最好，只有你的偏爱。',key:'priority',choices:[
-      {value:'smart',title:'聪明好用',detail:'解锁、互联，让日常更方便',icon:'⌁'},
-      {value:'performance',title:'动力与操控',detail:'出发时，更有底气',icon:'↝'},
-      {value:'value',title:'轻松与实用',detail:'把预算花在真实需求上',icon:'◎'}]}
-  ];
-  function calculateRecommendations() {
-    const budget = Number(answers.budget);
-    const minimum = budget === 22000 ? 15000 : budget > 22000 ? 22000 : 0;
-    let eligible = models.filter(m => m.price > minimum && m.price <= budget);
-    if (!eligible.length) eligible = [...models];
-    return eligible.map(m=>{
-      let score = m.categories.includes(answers.scene)?28:0;
-      if (answers.priority==='smart') score+=m.score[2]*0.4;
-      if (answers.priority==='performance') score+=(m.score[0]+m.score[3])*0.2;
-      if (answers.priority==='value') score+=m.score[4]*0.4;
-      if (answers.scene==='range') score+=m.range*0.12;
-      if (answers.scene==='commute') score+=m.score[4]*0.08;
-      return {model:m,score};
-    }).sort((a,b)=>b.score-a.score).map(x=>x.model);
-  }
-  function renderQuiz() {
-    activeView = 'quiz';
-    if (quizStep >= questions.length) {
-      ranked = calculateRecommendations();
-      const m = ranked[0];
-      shell(`<div class="modal-eyebrow">YOUR PERFECT MATCH</div><h2 id="modal-title">这一台，和你的生活很合拍。</h2><p class="modal-subtitle">根据预算与偏好，为你找到的推荐。</p><div class="quiz-result"><div class="quiz-result-art"><span class="quiz-match">${check} 为你推荐</span><img src="${m.image}" alt="${m.brandName} ${m.name} 示意插画"></div><div class="quiz-result-copy"><span class="modal-small-label">${m.brandName} · ${m.year}</span><h3>${m.name}</h3><p>${m.description}</p><div class="quiz-result-tags">${m.tags.map(t=>`<span>${t}</span>`).join('')}</div><div class="quiz-result-price">¥ ${formatPrice(m.price)}<small>展示参考价</small></div></div></div><div class="quiz-result-actions"><button class="modal-secondary" data-modal-action="restart-quiz">重新选一次</button><button class="modal-primary" data-modal-action="quiz-recommend" data-id="${m.id}">去看看这台车 ${arrow}</button></div><p class="quiz-algorithm-note">推荐依据：预算范围、使用场景及配置偏好。实际骑乘体验建议到店试骑确认。</p>${footerNote()}`, 'modal-quiz');
-      return;
-    }
-    const q = questions[quizStep];
-    shell(`<div class="modal-eyebrow">FIND YOUR RIDE</div><div class="quiz-progress-row"><span>30 秒，找到你的下一程</span><span>0${quizStep+1} <i>/ 03</i></span></div><div class="quiz-progress" aria-label="第 ${quizStep+1} 步，共 3 步">${questions.map((_,i)=>`<span class="${i<=quizStep?'active':''}"></span>`).join('')}</div><h2 id="modal-title">${q.title}</h2><p class="modal-subtitle">${q.subtitle}</p><div class="quiz-choices" role="group" aria-label="${q.title}">${q.choices.map(c=>`<button class="quiz-choice ${answers[q.key]===c.value?'selected':''}" data-modal-action="quiz-choice" data-key="${q.key}" data-value="${c.value}" aria-pressed="${answers[q.key]===c.value}"><span class="quiz-choice-icon">${c.icon}</span><span><strong>${c.title}</strong><small>${c.detail}</small></span><span class="quiz-choice-check">${check}</span></button>`).join('')}</div><div class="quiz-nav"><button class="modal-text-btn" data-modal-action="quiz-prev" ${quizStep===0?'disabled':''}>← 上一步</button><button class="modal-primary" data-modal-action="quiz-next" ${!answers[q.key]?'disabled':''}>${quizStep===2?'看看推荐':'下一步'} ${arrow}</button></div>`, 'modal-quiz');
-  }
-  function renderDetails() {
-    const m = models.find(m=>m.id===detailsId);
-    if (!m) return;
-    activeView = 'details';
-    const chosen = getCompareIds().includes(m.id);
-    const specPairs = [['参考价格',`¥ ${formatPrice(m.price)}`],['最高车速',`${m.speed} km/h`],['参考续航',`${m.range} km`],['电机峰值功率',`${m.power} kW`],['电池配置',m.battery],['充电时间',m.charge],['制动系统',m.brake],['整备质量',m.weight],['座高',m.seat]];
-    shell(`<div class="modal-eyebrow">MEET YOUR NEXT RIDE</div><div class="detail-heading"><div><span class="modal-small-label">${m.brandName} · ${m.badge}</span><h2 id="modal-title">${m.name}</h2><p class="modal-subtitle">${m.subtitle}</p></div><div class="detail-price">¥ ${formatPrice(m.price)}<small>展示参考价</small></div></div><div class="detail-tabs" role="tablist" aria-label="车型详情"><button role="tab" aria-selected="${detailsTab==='overview'}" class="${detailsTab==='overview'?'active':''}" data-modal-action="details-tab" data-tab="overview">车型概览</button><button role="tab" aria-selected="${detailsTab==='spec'}" class="${detailsTab==='spec'?'active':''}" data-modal-action="details-tab" data-tab="spec">完整参数</button></div>${detailsTab==='overview'?`<div class="detail-overview"><div class="detail-art"><span class="detail-art-word">${m.brand.toUpperCase()}</span><img src="${m.image}" alt="${m.brandName} ${m.name} 原创示意插画"></div><div class="detail-intro"><h3>${m.subtitle}</h3><p>${m.intro}</p><div class="detail-feature-tags">${m.tags.map(t=>`<span>${check}${t}</span>`).join('')}</div><div class="detail-key-specs"><span><strong>${m.speed}<small>km/h</small></strong>最高车速</span><span><strong>${m.range}<small>km</small></strong>参考续航</span><span><strong>${m.power}<small>kW</small></strong>峰值功率</span></div></div></div>`:`<div class="detail-spec-grid">${specPairs.map(([l,v])=>`<div><span>${l}</span><strong>${v}</strong></div>`).join('')}</div>`}<div class="detail-actions"><span>适合你的，才是好车。</span><button class="modal-primary" data-modal-action="detail-compare" data-id="${m.id}">${chosen?check:'＋'} ${chosen?'已加入对比 · 点击移除':'加入对比'}</button></div>${footerNote()}`,'modal-details');
-  }
-  function renderArticle(id) {
-    const article = articles[id] || articles.beginner;
-    activeView='article';
-    shell(`<div class="modal-eyebrow">RIDE WITH CONFIDENCE</div><span class="article-category">${article.category}</span><h2 id="modal-title">${article.title}</h2><p class="article-lead">${article.intro}</p><div class="article-sections">${article.sections.map(([title,body])=>`<section><h3>${title}</h3><p>${body}</p></section>`).join('')}</div><div class="article-end">好好选车，好好骑行。<span>九牛核 · 骑行指南</span></div>`, 'modal-article');
-  }
-
-  root.addEventListener('click',event=>{
-    if (event.target===root) return close();
-    const button=event.target.closest('[data-modal-action]');
-    if (!button||button.disabled) return;
-    const action=button.dataset.modalAction;
-    if(action==='close'||action==='back-explore') close();
-    if(action==='remove-compare') {onToggleCompare(button.dataset.id);renderCompare();}
-    if(action==='add-trio') {for(const m of models.slice(0,3)){if(!getCompareIds().includes(m.id))onToggleCompare(m.id);}renderCompare();}
-    if(action==='diff') {differencesOnly=button.checked;renderCompare();}
-    if(action==='quiz-choice') {answers[button.dataset.key]=button.dataset.value;renderQuiz();root.querySelector(`[data-value="${button.dataset.value}"]`)?.focus({preventScroll:true});}
-    if(action==='quiz-prev'&&quizStep>0) {quizStep--;renderQuiz();}
-    if(action==='quiz-next'&&answers[questions[quizStep].key]) {quizStep++;renderQuiz();}
-    if(action==='restart-quiz') {answers={};quizStep=0;renderQuiz();}
-    if(action==='quiz-recommend') {const id=button.dataset.id;close();onRecommend(id);}
-    if(action==='details-tab') {detailsTab=button.dataset.tab;renderDetails();root.querySelector(`[data-tab="${detailsTab}"]`)?.focus({preventScroll:true});}
-    if(action==='detail-compare') {onToggleCompare(button.dataset.id);renderDetails();}
-  });
-  document.addEventListener('keydown',event=>{
-    if(root.hidden)return;
-    if(event.key==='Escape'){event.preventDefault();close();}
-    if(event.key==='Tab'){
-      const focusable=[...root.querySelectorAll('button:not([disabled]),a[href],input:not([disabled]),select:not([disabled]),[tabindex="0"]')].filter(el=>el.getClientRects().length);
-      if(!focusable.length){event.preventDefault();return;}
-      const first=focusable[0],last=focusable.at(-1);
-      if(event.shiftKey&&(document.activeElement===first||!root.contains(document.activeElement)||document.activeElement.classList.contains('modal-panel'))){event.preventDefault();last.focus();}
-      else if(!event.shiftKey&&(document.activeElement===last||!root.contains(document.activeElement))){event.preventDefault();first.focus();}
-    }
-  });
-  return {
-    openCompare(){differencesOnly=false;renderCompare();},
-    openQuiz(){answers={};quizStep=0;renderQuiz();},
-    openDetails(id){detailsId=id;detailsTab='overview';renderDetails();},
-    openArticle:renderArticle,
-    close
-  };
+export function initModals({onToggleCompare, onRecommend, getCompareIds}) {
+ const modalRoot=document.createElement('div');modalRoot.className='modal-root';modalRoot.hidden=true;document.body.appendChild(modalRoot);
+ let previousFocus,previousFocusSelector='',originalOverflow='',activeView='',detailsId=null,detailsTab='overview',imageIndex=0,differencesOnly=false,quizStep=0,answers={},touchPoint=null,lastShellKey='';
+ const findModel=id=>models.find(model=>model.id===id);
+ const getImages=()=>findModel(detailsId)?.gallery||[];
+ const close=()=>{if(modalRoot.hidden)return;modalRoot.hidden=true;modalRoot.innerHTML='';document.body.style.overflow=originalOverflow;activeView='';const target=previousFocus?.isConnected?previousFocus:(previousFocusSelector?document.querySelector(previousFocusSelector):null);(target||document.querySelector('.header-compare'))?.focus({preventScroll:true});};
+ function shell(content,className='') {
+  const wasHidden=modalRoot.hidden,focused=document.activeElement;
+  const shellKey=activeView==='details'?`details-${detailsTab}`:activeView==='quiz'?`quiz-${quizStep}`:activeView;
+  const scrollTop=!wasHidden&&lastShellKey===shellKey?modalRoot.querySelector('.modal-panel')?.scrollTop||0:0;
+  const actionData=!wasHidden&&focused?.dataset?.modalAction?{...focused.dataset}:null;
+  if(wasHidden){previousFocus=focused;previousFocusSelector='';if(focused?.id)previousFocusSelector=`#${CSS.escape(focused.id)}`;else if(focused?.dataset){const key=['detail','article','action','brand','favorite','compare'].find(key=>focused.dataset[key]);if(key)previousFocusSelector=`[data-${key}="${CSS.escape(focused.dataset[key])}"]`;}originalOverflow=document.body.style.overflow;document.body.style.overflow='hidden';}
+  modalRoot.hidden=false;
+  modalRoot.innerHTML=`<section class="modal-panel ${className}" role="dialog" aria-modal="true" aria-labelledby="modal-title" tabindex="-1"><button class="modal-close" data-modal-action="close" aria-label="关闭弹窗">${closeIcon}</button>${content}</section>`;
+  lastShellKey=shellKey;modalRoot.querySelector('.modal-panel').scrollTop=scrollTop;
+  const focusTarget=actionData?[...modalRoot.querySelectorAll('[data-modal-action]')].find(element=>!element.disabled&&Object.entries(actionData).every(([key,value])=>element.dataset[key]===value)):null;
+  (focusTarget||modalRoot.querySelector('.modal-panel')).focus({preventScroll:true});
+ }
+ const note=()=>`<p class="modal-note"><span>i</span>${mh(dataNote)}</p>`;
+ const priceText=model=>model.price===null?'价格待核实':`¥ ${formatPrice(model.price)}`;
+ const sourceList=model=>`<ol class="source-list">${sourcesFor(model).map(source=>`<li><a href="${mh(source.url)}" target="_blank" rel="noopener noreferrer">${mh(source.title||source.url)} ${arrow}</a><span>${mh(sourceLabels[source.type]||'其他资料')} · ${source.publishedAt?'发布 '+mh(source.publishedAt)+' · ':''}核验 ${mh(source.accessedAt)}</span></li>`).join('')}</ol>`;
+ function specificationRows(model){const s=model.specs||{};const priceSourceIds=new Set(model.evidence?.price?.sourceIds||[]);const priceDates=[...new Set(sourcesFor(model).filter(source=>priceSourceIds.has(source.id)&&source.publishedAt).map(source=>source.publishedAt))];return [
+  ['vehicleClass','车辆类别',classLabels[model.vehicleClass]],['modelYear','年款',model.modelYear?model.modelYear+'款':'未公开'],['saleStatus','销售状态',statusLabels[model.saleStatus]],
+  ['price','公开价格',`${priceText(model)}${model.price!==null?' · '+(priceLabels[model.priceType]||'参考价'):''}`],
+  ['priceDate','价格来源发布日期',priceDates.join(' / ')||'未明确，见来源说明'],['priceNote','价格条件与说明',model.priceNote||'未公开'],
+  ['topSpeedKmh','最高车速',formatSpec(model,'topSpeedKmh','km/h')],['ratedPowerW','额定功率',formatNumber(s.ratedPowerW,'W')],['peakPowerW','峰值功率',formatNumber(s.peakPowerW,'W')],
+  ['rangeKm','官方标称续航',formatNumber(s.rangeKm,'km')],['rangeCondition','续航测试条件',s.rangeCondition||'未公开，不能按同工况直接排名'],
+  ['batteryVoltageV','电池电压',formatNumber(s.batteryVoltageV,'V')],['batteryCapacityAh','单组容量',formatNumber(s.batteryCapacityAh,'Ah')],['batteryCount','电池组数',formatNumber(s.batteryCount,'组')],['batteryEnergyWh','总电量',formatNumber(s.batteryEnergyWh,'Wh')],['batteryChemistry','电池类型',s.batteryChemistry||'未公开'],
+  ['batteryRemovable','电池可否提取',s.batteryRemovable===true?'可提取':s.batteryRemovable===false?'不可提取':'未公开'],['chargeHours','充电时间',formatNumber(s.chargeHours,'小时')],['chargeCondition','充电条件',s.chargeCondition||'未公开'],
+  ['brakes','制动系统',s.brakes||'未公开'],['abs','ABS',specState(s.abs)],['tcs','TCS',specState(s.tcs)],['curbWeightKg','整备质量',formatNumber(s.curbWeightKg,'kg')],['seatHeightMm','座高',formatNumber(s.seatHeightMm,'mm')],
+  ['dimensionsMm','整车尺寸',s.dimensionsMm?Array.isArray(s.dimensionsMm)?s.dimensionsMm.join(' × ')+' mm':s.dimensionsMm:'未公开'],['wheelbaseMm','轴距',formatNumber(s.wheelbaseMm,'mm')],['tyres','轮胎',s.tyres||'未公开'],
+  ['storageLitres','储物容积',formatNumber(s.storageLitres,'L')],['unlockModes','解锁方式',s.unlockModes?.length?s.unlockModes.join(' / '):'未公开'],['warrantyNote','保修信息',s.warrantyNote||'未公开'],['photoCount','已核验实拍',`${model.photoCount} / 3 张目标`]
+ ];}
+ function galleryHTML(model){const images=model.gallery||[];if(!images.length)return `<div class="detail-gallery empty-gallery"><strong>图片资料待补</strong><p>该型号继续保留在目录中，尚无经核验可展示图片。</p><span>真实实拍 0 / 3 张</span></div>`;
+  imageIndex=Math.max(0,Math.min(imageIndex,images.length-1));const image=images[imageIndex];
+  return `<div class="detail-gallery"><div class="gallery-count-row"><span>实拍 ${model.photoCount} / 3 张目标</span><span>图库 ${images.length} 张 · ${mh(imageLabels[image.kind])}</span></div><div class="gallery-main"><button class="gallery-main-image" data-modal-action="zoom-image" aria-label="放大第 ${imageIndex+1} 张图片"><img src="${mh(image.src)}" alt="${mh(model.brandName+' '+model.title+' · '+image.caption)}" decoding="async"></button>${images.length>1?`<button class="gallery-nav gallery-prev" data-modal-action="prev-image" aria-label="上一张图片">‹</button><button class="gallery-nav gallery-next" data-modal-action="next-image" aria-label="下一张图片">›</button>`:''}<span class="gallery-position">${imageIndex+1} / ${images.length}</span></div><div class="gallery-thumbs" role="group" aria-label="车型图片">${images.map((img,index)=>`<button data-modal-action="select-image" data-index="${index}" class="${index===imageIndex?'active':''}" aria-label="查看第 ${index+1} 张：${mh(img.caption)}" aria-pressed="${index===imageIndex}"><img src="${mh(img.thumbnail||img.src)}" alt="" loading="lazy"><span>${index+1}</span></button>`).join('')}</div><p class="gallery-caption">${mh(image.caption)}<span>${mh(image.matchNote||'')}</span><a href="${mh(image.sourcePage)}" target="_blank" rel="noopener noreferrer">查看图片来源 ↗</a></p></div>`;
+ }
+ function renderDetails(){const model=findModel(detailsId);if(!model)return;activeView='details';const chosen=getCompareIds().includes(model.id),rows=specificationRows(model),sourceMap=new Map(sourcesFor(model).map(source=>[source.id,source]));
+  const tabContent=detailsTab==='overview'?`<div class="detail-overview">${galleryHTML(model)}<div class="detail-intro"><h3>${mh(model.name)}</h3><p>${mh(model.intro)}</p><div class="detail-feature-tags">${model.tags.map(tag=>`<span>${check}${mh(tag)}</span>`).join('')}</div><div class="detail-key-specs"><span><strong>${mh(formatSpec(model,'topSpeedKmh'))}<small>${model.speed===null?'':'km/h'}</small></strong>最高车速</span><span><strong>${mh(formatNumber(model.range))}<small>${model.range===null?'':'km'}</small></strong>官方标称续航</span><span><strong>${mh(formatNumber(model.power))}<small>${model.power===null?'':'kW'}</small></strong>峰值功率</span></div><p class="detail-context-note">${mh(model.specs.rangeCondition||'续航测试条件尚未公开，不与其他工况直接排名。')}</p><p class="detail-context-note">${mh(model.priceNote||'价格需以对应版本、销售地区与购买条件核实。')}</p><p class="detail-context-note">${mh(model.classificationNote||'')}${model.saleNote?' '+mh(model.saleNote):''}</p></div></div>`:detailsTab==='spec'?`<div class="detail-spec-grid">${rows.map(([key,label,value])=>`<div><span>${mh(label)}</span><strong>${mh(value)}</strong></div>`).join('')}</div>`:`<div class="detail-evidence"><p class="detail-context-note">核验日期 ${mh(model.verifiedAt)}。以下摘录与来源分别对应具体字段，未公开的参数保留未知。</p>${Object.entries(model.evidence||{}).map(([key,item])=>`<section><h3>${mh(rows.find(row=>row[0]===key)?.[1]||({rangeType:'续航口径'}[key]||key))}</h3><blockquote>${mh(item.quote||'')}</blockquote>${item.note?`<p>${mh(item.note)}</p>`:''}<div>${(item.sourceIds||[]).map(id=>{const source=sourceMap.get(id);return source?`<a href="${mh(source.url)}" target="_blank" rel="noopener noreferrer">${mh(source.title||id)} ↗</a>`:`<span>${mh(id)}</span>`;}).join('')}</div></section>`).join('')}${model.notes?.length?`<div class="model-notes">${model.notes.map(text=>`<p>${mh(text)}</p>`).join('')}</div>`:''}${sourceList(model)}</div>`;
+  shell(`<div class="modal-eyebrow">VERIFIED VEHICLE RECORD</div><div class="detail-heading"><div><span class="modal-small-label">${mh(model.brandName)} · ${mh(classLabels[model.vehicleClass])} · ${mh(statusLabels[model.saleStatus])}</span><h2 id="modal-title">${mh(model.title)}</h2><p class="modal-subtitle">${mh(model.series||'')} · 资料截至 ${catalogMeta.asOf}</p></div><div class="detail-price">${priceText(model)}<small>${mh(priceLabels[model.priceType]||'价格待核实')}</small></div></div><div class="detail-tabs" role="tablist" aria-label="车型资料">${[['overview','图片与概览'],['spec','完整参数'],['sources','来源与口径']].map(([tab,label])=>`<button role="tab" aria-selected="${detailsTab===tab}" class="${detailsTab===tab?'active':''}" data-modal-action="details-tab" data-tab="${tab}">${label}</button>`).join('')}</div>${tabContent}<div class="detail-actions"><span>实拍 ${model.photoCount}/3 · ${mh(model.imageStatus==='complete'?'照片目标已达标':'照片仍待补齐')}</span><button class="modal-primary" data-modal-action="detail-compare" data-id="${model.id}" aria-pressed="${chosen}">${chosen?check:'＋'} ${chosen?'已加入对比 · 点击移除':'加入对比'}</button></div>${note()}`,'modal-details');
+ }
+ function renderLightbox(){const model=findModel(detailsId),images=getImages();if(!model||!images.length)return;activeView='gallery';const image=images[imageIndex];shell(`<div class="modal-eyebrow">${mh(model.brandName)} · ${mh(imageLabels[image.kind])}</div><h2 id="modal-title">${mh(model.title)} <small>${imageIndex+1} / ${images.length}</small></h2><div class="gallery-lightbox"><img src="${mh(image.src)}" alt="${mh(image.caption)}">${images.length>1?`<button class="gallery-nav gallery-prev" data-modal-action="prev-image" aria-label="上一张图片">‹</button><button class="gallery-nav gallery-next" data-modal-action="next-image" aria-label="下一张图片">›</button>`:''}</div><div class="lightbox-caption"><span>${mh(image.caption)}</span><a href="${mh(image.sourcePage)}" target="_blank" rel="noopener noreferrer">图片来源 ↗</a><button class="modal-text-btn" data-modal-action="back-details">返回车型资料</button></div>`,'modal-lightbox');}
+ function changeImage(delta,index){const length=getImages().length;if(!length)return;imageIndex=index!==undefined?Number(index):(imageIndex+delta+length)%length;imageIndex=Math.max(0,Math.min(imageIndex,length-1));if(activeView==='gallery')renderLightbox();else renderDetails();}
+ function renderCompare(){activeView='compare';const selected=getCompareIds().map(findModel).filter(Boolean);const rowDefs=selected.length?specificationRows(selected[0]):[];const allRows=selected.map(specificationRows);const rows=rowDefs.filter(([key],index)=>!differencesOnly||selected.length<2||new Set(allRows.map(items=>items[index][2])).size>1);
+  shell(`<div class="modal-eyebrow">COMPARE THE SAME KIND OF FACTS</div><div class="modal-title-row"><div><h2 id="modal-title">把具体版本，放在一起看。</h2><p class="modal-subtitle">未知参数保留未知，续航测试条件和价格类型一并展示。</p></div><span class="modal-count">${selected.length} / 3 条配置</span></div>${selected.length?`<div class="compare-control"><label class="modal-switch"><input type="checkbox" data-modal-action="diff" ${differencesOnly?'checked':''}><span class="modal-switch-track"></span>只看不同项</label><span>不将不同工况续航直接评为优胜</span></div><div class="compare-table-wrap"><table class="modal-compare-table"><thead><tr><th scope="col">核验维度</th>${selected.map(model=>`<th scope="col"><div class="compare-model"><button data-modal-action="remove-compare" data-id="${model.id}" aria-label="移除 ${mh(model.title)}" class="compare-remove">${closeIcon}</button>${model.image?`<img src="${mh(model.image)}" alt="${mh(model.title)}">`:'<div class="compare-image-missing">图片待补</div>'}<small>${mh(model.brandName)}</small><strong>${mh(model.name)}</strong><span>${mh(model.variant||'具体版本未公开')}</span></div></th>`).join('')}</tr></thead><tbody>${rows.map(([key,label])=>`<tr><th scope="row">${mh(label)}</th>${selected.map((model,index)=>`<td>${mh(allRows[index].find(row=>row[0]===key)[2])}</td>`).join('')}</tr>`).join('')}</tbody></table></div>${selected.length<3?'<button class="modal-text-btn" data-modal-action="back-explore">＋ 回到目录添加配置，最多同时对比三条</button>':''}`:`<div class="compare-empty"><div class="compare-empty-icon">${lightning}</div><h3>先选出你想了解的版本。</h3><p>在目录点击「加入对比」，或从三个品牌各选一条记录开始。</p><button class="modal-primary" data-modal-action="add-trio">三品牌各选一款 ${arrow}</button></div>`}${note()}`,'modal-wide');
+ }
+ const questions=[
+  {key:'budget',title:'你想先看哪个价格区间？',subtitle:'仅匹配官网列售／库存记录；指导价与当地成交价可能不同。',choices:budgetOptions.filter(option=>option.id!=='unknown').map((option,index)=>({value:option.id,title:option.label,detail:option.id==='all'?'保留全部已核验价格段':'没有公开价格的版本不自动视为符合预算',icon:String(index+1).padStart(2,'0')}))},
+  {key:'vehicleClass',title:'你想了解哪一类机动车？',subtitle:'这里不包含电动自行车；准驾和通行要求请结合当地规定。',choices:[{value:'any',title:'两类都看',detail:'电摩与电轻摩分开标记',icon:'↗'},{value:'motorcycle',title:'电动摩托车',detail:'仅匹配已核验为该类别的车型',icon:'ϟ'},{value:'moped',title:'电动轻便摩托车',detail:'仅匹配已核验为该类别的车型',icon:'◎'}]},
+  {key:'priority',title:'再选一个你关注的公开指标。',subtitle:'根据有资料的指标排序，不生成主观综合分。',choices:[{value:'safety',title:'ABS 配置',detail:'优先已确认的双通道、单通道 ABS',icon:'◇'},{value:'battery',title:'电池总能量',detail:'按已公开 Wh 排序，不等于实测续航',icon:'▰'},{value:'smart',title:'解锁方式',detail:'查看已经明确公开的解锁方式',icon:'⌁'}]}
+ ];
+ function recommendations(){return recommendModels(models,answers);}
+ function renderQuiz(){activeView='quiz';if(quizStep>=questions.length){const ranked=recommendations(),model=ranked[0];if(!model){shell(`<div class="modal-eyebrow">KEEP THE UNKNOWN VISIBLE</div><h2 id="modal-title">这个条件下，暂时没有可确认的匹配。</h2><p class="modal-subtitle">可能是资料尚不完整，也可能是公开价格或车辆类别不符合。我们不会把超预算或价格未知的车型硬算成符合条件。</p><div class="quiz-result-actions"><button class="modal-secondary" data-modal-action="close">回到车型目录</button><button class="modal-primary" data-modal-action="restart-quiz">调整条件 ${arrow}</button></div>${note()}`,'modal-quiz');return;}
+  const reason=answers.priority==='battery'?`已公开总能量：${formatNumber(model.specs.batteryEnergyWh,'Wh')}`:answers.priority==='safety'?`已公开 ABS：${specState(model.specs.abs)}`:`已公开解锁方式：${model.specs.unlockModes?.join(' / ')||'未公开'}`;
+  shell(`<div class="modal-eyebrow">FILTERED BY VERIFIED FACTS</div><h2 id="modal-title">从这些符合条件的记录看起。</h2><p class="modal-subtitle">共 ${ranked.length} 条配置匹配预算与车辆类别；按所选公开指标排列。</p><div class="quiz-result"><div class="quiz-result-art">${model.image?`<img src="${mh(model.image)}" alt="${mh(model.title)}">`:'<span>图片资料待补</span>'}</div><div class="quiz-result-copy"><span class="modal-small-label">${mh(model.brandName)} · ${mh(classLabels[model.vehicleClass])}</span><h3>${mh(model.name)}</h3><p>${mh(model.variant||'')}<br>${mh(reason)}</p><div class="quiz-result-price">${priceText(model)}<small>${mh(priceLabels[model.priceType]||'价格待核实')}</small></div></div></div>${ranked.length>1?`<p class="quiz-algorithm-note">同样符合条件：${ranked.slice(1,4).map(x=>mh(x.brandName+' '+x.title)).join('；')}</p>`:''}<div class="quiz-result-actions"><button class="modal-secondary" data-modal-action="restart-quiz">重新筛选</button><button class="modal-primary" data-modal-action="quiz-recommend" data-id="${model.id}">去查看这条资料 ${arrow}</button></div><p class="quiz-algorithm-note">这是已知资料的条件匹配，不能替代试骑或证明整体骑行体验更好。</p>${note()}`,'modal-quiz');return;}
+  const question=questions[quizStep];shell(`<div class="modal-eyebrow">FIND YOUR RIDE</div><div class="quiz-progress-row"><span>按资料缩小你的选择</span><span>0${quizStep+1} <i>/ 03</i></span></div><div class="quiz-progress" aria-label="第 ${quizStep+1} 步，共 3 步">${questions.map((_,index)=>`<span class="${index<=quizStep?'active':''}"></span>`).join('')}</div><h2 id="modal-title">${question.title}</h2><p class="modal-subtitle">${question.subtitle}</p><div class="quiz-choices" role="group" aria-label="${question.title}">${question.choices.map(choice=>`<button class="quiz-choice ${answers[question.key]===choice.value?'selected':''}" data-modal-action="quiz-choice" data-key="${question.key}" data-value="${choice.value}" aria-pressed="${answers[question.key]===choice.value}"><span class="quiz-choice-icon">${choice.icon}</span><span><strong>${choice.title}</strong><small>${choice.detail}</small></span><span class="quiz-choice-check">${check}</span></button>`).join('')}</div><div class="quiz-nav"><button class="modal-text-btn" data-modal-action="quiz-prev" ${quizStep===0?'disabled':''}>← 上一步</button><button class="modal-primary" data-modal-action="quiz-next" ${!answers[question.key]?'disabled':''}>${quizStep===2?'查看匹配':'下一步'} ${arrow}</button></div>`,'modal-quiz');
+ }
+ function renderCoverage(){activeView='coverage';shell(`<div class="modal-eyebrow">CATALOG COVERAGE · ${catalogMeta.asOf}</div><h2 id="modal-title">把已经核验和仍有缺口的内容一起公开。</h2><p class="modal-subtitle">车型覆盖与图片覆盖分别统计，目录中保留未公开价格和缺图版本。</p><div class="coverage-table-wrap"><table class="coverage-table"><thead><tr><th>品牌</th><th>车型</th><th>配置记录</th><th>已有可比价</th><th>3 张实拍达标</th><th>待核候选</th></tr></thead><tbody>${brands.map(brand=>{const data=catalogMeta.perBrand[brand.id]||{};return `<tr><th>${brand.name}</th><td>${data.models||0}</td><td>${data.variants||0}</td><td>${data.priced||0}</td><td>${data.photoComplete||0}</td><td>${data.candidates||0}</td></tr>`;}).join('')}</tbody></table></div><div class="coverage-summary"><span>${catalogMeta.sourceCount} 个来源</span><span>${catalogMeta.uniqueAssets} 个本地图片文件</span><span>${catalogMeta.excludedCount} 条排除记录</span></div><p class="detail-context-note">实拍达标表示对应配置可查看至少 3 张不同实拍；官方渲染和图片类型待确认的图片不计入实拍。相同外观版本的共用关系在图片说明中标记。</p>${catalogMeta.coverageNotes?.length?`<ul class="coverage-notes">${catalogMeta.coverageNotes.map(item=>`<li><b>${mh(brands.find(b=>b.id===item.brand)?.name||item.brand)}</b> ${mh(item.note)}</li>`).join('')}</ul>`:''}<details class="coverage-details"><summary>待核候选（${catalogCandidates.length}）</summary><ul>${catalogCandidates.map(item=>`<li><strong>${mh(item.name)}</strong><span>${mh(item.reason||item.notes?.join('；')||'身份或销售状态待核实')}</span></li>`).join('')||'<li>暂无记录</li>'}</ul></details><details class="coverage-details"><summary>排除记录（${catalogExclusions.length}）</summary><ul>${catalogExclusions.map(item=>`<li><strong>${mh(item.name)}</strong><span>${mh(item.reason)}</span></li>`).join('')||'<li>暂无记录</li>'}</ul></details><a href="./data/catalog.json" class="modal-text-btn" download="jiuniuhe-catalog-2026-10-28.json">下载完整目录、来源与核验记录 ${arrow}</a>${note()}`,'modal-wide');}
+ function renderArticle(id){const article=articles[id]||articles.beginner;activeView='article';shell(`<div class="modal-eyebrow">RIDE WITH CONFIDENCE</div><span class="article-category">${mh(article.category)}</span><h2 id="modal-title">${mh(article.title)}</h2><p class="article-lead">${mh(article.intro)}</p><div class="article-sections">${article.sections.map(([title,body])=>`<section><h3>${mh(title)}</h3><p>${mh(body)}</p></section>`).join('')}</div><div class="article-end">好好选车，好好骑行。<span>九牛核 · 骑行资料</span></div>`,'modal-article');}
+ modalRoot.addEventListener('click',event=>{if(event.target===modalRoot){if(activeView==='gallery')renderDetails();else close();return;}const button=event.target.closest('[data-modal-action]');if(!button||button.disabled)return;const action=button.dataset.modalAction;
+  if(action==='close'){if(activeView==='gallery')renderDetails();else close();}
+  if(action==='back-explore')close();
+  if(action==='remove-compare'){onToggleCompare(button.dataset.id);renderCompare();}
+  if(action==='add-trio'){const picks=brands.map(brand=>models.find(model=>model.brand===brand.id&&['on_sale','channel_stock'].includes(model.saleStatus))||models.find(model=>model.brand===brand.id)).filter(Boolean);for(const model of picks)if(!getCompareIds().includes(model.id)&&getCompareIds().length<3)onToggleCompare(model.id);renderCompare();}
+  if(action==='diff'){differencesOnly=button.checked;renderCompare();}
+  if(action==='quiz-choice'){answers[button.dataset.key]=button.dataset.value;renderQuiz();modalRoot.querySelector(`[data-value="${CSS.escape(button.dataset.value)}"]`)?.focus({preventScroll:true});}
+  if(action==='quiz-prev'&&quizStep>0){quizStep--;renderQuiz();}
+  if(action==='quiz-next'&&answers[questions[quizStep].key]){quizStep++;renderQuiz();}
+  if(action==='restart-quiz'){answers={};quizStep=0;renderQuiz();}
+  if(action==='quiz-recommend'){const id=button.dataset.id;close();onRecommend(id);}
+  if(action==='details-tab'){detailsTab=button.dataset.tab;renderDetails();modalRoot.querySelector(`[data-tab="${detailsTab}"]`)?.focus({preventScroll:true});}
+  if(action==='detail-compare'){onToggleCompare(button.dataset.id);renderDetails();}
+  if(action==='select-image')changeImage(0,button.dataset.index);
+  if(action==='prev-image')changeImage(-1);
+  if(action==='next-image')changeImage(1);
+  if(action==='zoom-image')renderLightbox();
+  if(action==='back-details')renderDetails();
+ });
+ modalRoot.addEventListener('touchstart',event=>{if(event.target.closest('.gallery-main,.gallery-lightbox'))touchPoint={x:event.touches[0].clientX,y:event.touches[0].clientY};},{passive:true});
+ modalRoot.addEventListener('touchend',event=>{if(!touchPoint)return;const dx=event.changedTouches[0].clientX-touchPoint.x,dy=event.changedTouches[0].clientY-touchPoint.y;touchPoint=null;if(Math.abs(dx)>55&&Math.abs(dx)>Math.abs(dy)*1.5)changeImage(dx>0?-1:1);},{passive:true});
+ document.addEventListener('keydown',event=>{if(modalRoot.hidden)return;if(event.key==='Escape'){event.preventDefault();if(activeView==='gallery')renderDetails();else close();}if((event.key==='ArrowLeft'||event.key==='ArrowRight')&&(activeView==='gallery'||document.activeElement?.closest('.detail-gallery'))){event.preventDefault();changeImage(event.key==='ArrowLeft'?-1:1);}if(event.key==='Tab'){const focusable=[...modalRoot.querySelectorAll('button:not([disabled]),a[href],input:not([disabled]),select:not([disabled]),summary,[tabindex="0"]')].filter(element=>element.getClientRects().length);if(!focusable.length){event.preventDefault();return;}const first=focusable[0],last=focusable.at(-1);if(event.shiftKey&&(document.activeElement===first||!modalRoot.contains(document.activeElement)||document.activeElement.classList.contains('modal-panel'))){event.preventDefault();last.focus();}else if(!event.shiftKey&&(document.activeElement===last||!modalRoot.contains(document.activeElement))){event.preventDefault();first.focus();}}});
+ return {openCompare(){differencesOnly=false;renderCompare();},openQuiz(){answers={};quizStep=0;renderQuiz();},openDetails(id){detailsId=id;detailsTab='overview';imageIndex=0;renderDetails();},openCoverage:renderCoverage,openArticle:renderArticle,close};
 }

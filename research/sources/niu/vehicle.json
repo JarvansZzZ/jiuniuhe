@@ -1,0 +1,3497 @@
+{
+  "layout": "default",
+  "data": [
+    {
+      "includeVehlist": [
+        {
+          "name": "电动自行车",
+          "enName": "E-bikes",
+          "data": [
+            {
+              "id": "311",
+              "series": "M",
+              "number": "met",
+              "url": "/products/met",
+              "name": "MET",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/eba5f4bb72f4062a49c0bd27020f051f.png",
+              "logo": "//img.niucache.com/service/media/vehicle/1d6302b6604159f5a9ef803a6b8ce9c3.svg",
+              "conf": [
+                {
+                  "id": "311",
+                  "sku_id": "sku_34527",
+                  "params": {
+                    "electric_range": "105KM",
+                    "models": "MET Citi"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/eba5f4bb72f4062a49c0bd27020f051f.png"
+                }
+              ]
+            },
+            {
+              "id": "301",
+              "series": "N",
+              "number": "nt-sprint",
+              "url": "/products/nt-sprint",
+              "name": "NT 风驰",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/8e4d98b7cce6f20ad4cc3c8f0b0cc9c3.png",
+              "logo": "//img.niucache.com/service/media/vehicle/a5b54a983ec4ac64eaeb127712f6a71d.svg",
+              "conf": [
+                {
+                  "id": "301",
+                  "sku_id": "sku_34338",
+                  "params": {
+                    "electric_range": "35km",
+                    "models": "NT 风驰"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/8e4d98b7cce6f20ad4cc3c8f0b0cc9c3.png"
+                }
+              ]
+            },
+            {
+              "id": "295",
+              "series": "Y",
+              "number": "y-cheese",
+              "url": "/products/y-cheese",
+              "name": "Y 芝士",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/b4675fe031d5f67cdd23ea3b970bc451.png",
+              "logo": "//img.niucache.com/service/media/vehicle/5660312667ff55863addc0954db25a3d.svg",
+              "conf": [
+                {
+                  "id": "295",
+                  "sku_id": "sku_34151",
+                  "params": {
+                    "electric_range": "48KM",
+                    "models": "Y 芝士"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/b4675fe031d5f67cdd23ea3b970bc451.png"
+                }
+              ]
+            },
+            {
+              "id": "289",
+              "series": "Y",
+              "number": "y-jelly",
+              "url": "/products/y-jelly",
+              "name": "Y 果冻",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/5c913a09338cbfdfbf7da657bfd6e1cc.png",
+              "logo": "//img.niucache.com/service/media/vehicle/4a31c918a99c5aa64b820f85ed777831.svg",
+              "conf": [
+                {
+                  "id": "289",
+                  "sku_id": "sku_33982",
+                  "params": {
+                    "electric_range": "93KM",
+                    "models": "Y 果冻 Citi"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/5c913a09338cbfdfbf7da657bfd6e1cc.png"
+                },
+                {
+                  "id": "289",
+                  "sku_id": "sku_33986",
+                  "params": {
+                    "electric_range": "48KM",
+                    "models": "Y 果冻 One"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/5c913a09338cbfdfbf7da657bfd6e1cc.png"
+                }
+              ]
+            },
+            {
+              "id": "288",
+              "series": "N",
+              "number": "nxt2",
+              "url": "/products/nxt2",
+              "name": "NXT2",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/592d0bddc9ec81b0f5c0b190c6744555.png",
+              "logo": "//img.niucache.com/service/media/vehicle/cf287df8dd023e3222c0fb4bc524ee87.svg",
+              "conf": [
+                {
+                  "id": "288",
+                  "sku_id": "sku_33799",
+                  "params": {
+                    "electric_range": "115KM",
+                    "models": "NXT2 Ultra"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/592d0bddc9ec81b0f5c0b190c6744555.png"
+                },
+                {
+                  "id": "288",
+                  "sku_id": "sku_33802",
+                  "params": {
+                    "electric_range": "57KM",
+                    "models": "NXT2 Sport ABS"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/592d0bddc9ec81b0f5c0b190c6744555.png"
+                },
+                {
+                  "id": "288",
+                  "sku_id": "sku_33805",
+                  "params": {
+                    "electric_range": "57KM",
+                    "models": "NXT2 Citi "
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/592d0bddc9ec81b0f5c0b190c6744555.png"
+                }
+              ]
+            },
+            {
+              "id": "284",
+              "series": "K",
+              "number": "k-sport",
+              "url": "/products/k-sport",
+              "name": "K",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/6335eae334f1fd333ff5ad9d63977a0c.png",
+              "logo": "//img.niucache.com/service/media/vehicle/ec84a736c8bcfa6692e9818982b8f6d1.svg",
+              "conf": [
+                {
+                  "id": "284",
+                  "sku_id": "sku_33826",
+                  "params": {
+                    "electric_range": "95KM",
+                    "models": "K One"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/6335eae334f1fd333ff5ad9d63977a0c.png"
+                },
+                {
+                  "id": "284",
+                  "sku_id": "sku_33831",
+                  "params": {
+                    "electric_range": "105KM",
+                    "models": "K Citi"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/6335eae334f1fd333ff5ad9d63977a0c.png"
+                },
+                {
+                  "id": "284",
+                  "sku_id": "sku_33836",
+                  "params": {
+                    "electric_range": "38KM",
+                    "models": "K Sport"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/6335eae334f1fd333ff5ad9d63977a0c.png"
+                }
+              ]
+            },
+            {
+              "id": "285",
+              "series": "U",
+              "number": "u3",
+              "url": "/products/u3",
+              "name": "U3",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/0df428f91c7df5e29ee61e6fd34e9148.png",
+              "logo": "//img.niucache.com/service/media/vehicle/a9cada31f51d1a5f5e5dc1d5a2c57f84.svg",
+              "conf": [
+                {
+                  "id": "285",
+                  "sku_id": "sku_33808",
+                  "params": {
+                    "electric_range": "110KM",
+                    "models": "U3 citi"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/0df428f91c7df5e29ee61e6fd34e9148.png"
+                },
+                {
+                  "id": "285",
+                  "sku_id": "sku_33814",
+                  "params": {
+                    "electric_range": "110KM",
+                    "models": "U3 sport"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/0df428f91c7df5e29ee61e6fd34e9148.png"
+                },
+                {
+                  "id": "285",
+                  "sku_id": "sku_33820",
+                  "params": {
+                    "electric_range": "107KM",
+                    "models": "U3 pro"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/0df428f91c7df5e29ee61e6fd34e9148.png"
+                }
+              ]
+            },
+            {
+              "id": "282",
+              "series": "M",
+              "number": "mt2026",
+              "url": "/products/mt2026",
+              "name": "MT 2026",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/8e43bb827d5dd0a447ad0ef171a1e394.png",
+              "logo": "//img.niucache.com/service/media/vehicle/b21d4f0d5f159ccae54136aed60faa1c.svg",
+              "conf": [
+                {
+                  "id": "282",
+                  "sku_id": "sku_33849",
+                  "params": {
+                    "electric_range": "110KM",
+                    "models": "MT Sport"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/8e43bb827d5dd0a447ad0ef171a1e394.png"
+                },
+                {
+                  "id": "282",
+                  "sku_id": "sku_33854",
+                  "params": {
+                    "electric_range": "95KM",
+                    "models": "MT Citi（LI）"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/8e43bb827d5dd0a447ad0ef171a1e394.png"
+                },
+                {
+                  "id": "282",
+                  "sku_id": "sku_33859",
+                  "params": {
+                    "electric_range": "48KM",
+                    "models": "MT  Citi（LA）"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/8e43bb827d5dd0a447ad0ef171a1e394.png"
+                }
+              ]
+            },
+            {
+              "id": "276",
+              "series": "U",
+              "number": "u1",
+              "url": "/products/u1",
+              "name": "U1",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/462b6728383b83f69ddc064207038cf2.png",
+              "logo": "//img.niucache.com/service/media/vehicle/4ba917d992743fa74d92bd0d03934067.svg",
+              "conf": [
+                {
+                  "id": "276",
+                  "sku_id": "sku_33892",
+                  "params": {
+                    "electric_range": "90KM",
+                    "models": "U1 One"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/462b6728383b83f69ddc064207038cf2.png"
+                }
+              ]
+            },
+            {
+              "id": "269",
+              "series": "F",
+              "number": "fxt-2025",
+              "url": "/product/fxt-2025",
+              "name": "FXT 2025",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/cab164c1f23ad66bd8d49294d0ee7bfa.png",
+              "logo": "//img.niucache.com/service/media/vehicle/91fee68cd26ae8150335ec6a003b5267.svg",
+              "conf": [
+                {
+                  "id": "269",
+                  "sku_id": "sku_33898",
+                  "params": {
+                    "electric_range": "105KM",
+                    "models": "FXT Ultra"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/cab164c1f23ad66bd8d49294d0ee7bfa.png"
+                },
+                {
+                  "id": "269",
+                  "sku_id": "sku_33903",
+                  "params": {
+                    "electric_range": "95KM",
+                    "models": "FXT Citi ABS"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/cab164c1f23ad66bd8d49294d0ee7bfa.png"
+                },
+                {
+                  "id": "269",
+                  "sku_id": "sku_33908",
+                  "params": {
+                    "electric_range": "95KM",
+                    "models": "FXT Citi (LI)"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/cab164c1f23ad66bd8d49294d0ee7bfa.png"
+                },
+                {
+                  "id": "269",
+                  "sku_id": "sku_33913",
+                  "params": {
+                    "electric_range": "43KM",
+                    "models": "FXT Sport ABS"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/cab164c1f23ad66bd8d49294d0ee7bfa.png"
+                },
+                {
+                  "id": "269",
+                  "sku_id": "sku_33918",
+                  "params": {
+                    "electric_range": "43KM",
+                    "models": "FXT Sport"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/cab164c1f23ad66bd8d49294d0ee7bfa.png"
+                },
+                {
+                  "id": "269",
+                  "sku_id": "sku_33923",
+                  "params": {
+                    "electric_range": "43KM",
+                    "models": "FXT Citi (LA)"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/cab164c1f23ad66bd8d49294d0ee7bfa.png"
+                }
+              ]
+            },
+            {
+              "id": "268",
+              "series": "N",
+              "number": "nxt-2025",
+              "url": "/product/nxt-2025",
+              "name": "NXT 2025",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/a30ccf1fc7d74e8af4162cfc84eda996.png",
+              "logo": "//img.niucache.com/service/media/vehicle/62f6f7cc2183abb06113b773c8cfc296.svg",
+              "conf": [
+                {
+                  "id": "268",
+                  "sku_id": "sku_33105",
+                  "params": {
+                    "electric_range": "105KM",
+                    "models": "NXT Ultra"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/a30ccf1fc7d74e8af4162cfc84eda996.png"
+                },
+                {
+                  "id": "268",
+                  "sku_id": "sku_33110",
+                  "params": {
+                    "electric_range": "90KM",
+                    "models": "NXT Pro"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/a30ccf1fc7d74e8af4162cfc84eda996.png"
+                }
+              ]
+            },
+            {
+              "id": "264",
+              "series": "N",
+              "number": "nst",
+              "url": "/product/nst",
+              "name": "NST",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/6dc63b31fda36e029ac5699ff458453b.png",
+              "logo": "//img.niucache.com/service/media/vehicle/cc7c923b4ee6136f3ed9ce507574711b.svg",
+              "conf": [
+                {
+                  "id": "264",
+                  "sku_id": "sku_33946",
+                  "params": {
+                    "electric_range": "43KM",
+                    "models": "NST Sport"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/6dc63b31fda36e029ac5699ff458453b.png"
+                },
+                {
+                  "id": "264",
+                  "sku_id": "sku_33950",
+                  "params": {
+                    "electric_range": "43KM",
+                    "models": "NST Citi"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/6dc63b31fda36e029ac5699ff458453b.png"
+                }
+              ]
+            },
+            {
+              "id": "258",
+              "series": "N",
+              "number": "nlt",
+              "url": "/product/nlt",
+              "name": "NLT",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/4d4ef4b2e14c29fc22cd308fc86f2f7f.png",
+              "logo": "//img.niucache.com/service/media/vehicle/8a876333c43e00d50eb525eef1b682dc.svg",
+              "conf": [
+                {
+                  "id": "258",
+                  "sku_id": "sku_33970",
+                  "params": {
+                    "electric_range": "100KM",
+                    "models": "NLT Citi ABS (Li)"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/4d4ef4b2e14c29fc22cd308fc86f2f7f.png"
+                },
+                {
+                  "id": "258",
+                  "sku_id": "sku_33974",
+                  "params": {
+                    "electric_range": "100KM",
+                    "models": "NLT Citi (Li)"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/4d4ef4b2e14c29fc22cd308fc86f2f7f.png"
+                },
+                {
+                  "id": "258",
+                  "sku_id": "sku_33978",
+                  "params": {
+                    "electric_range": "40KM",
+                    "models": "NLT Citi (La)"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/4d4ef4b2e14c29fc22cd308fc86f2f7f.png"
+                }
+              ]
+            },
+            {
+              "id": "229",
+              "series": "N",
+              "number": "nt",
+              "url": "/product/nt",
+              "name": "NT",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/25ef320857cf9c3a8ab71bae5e02f09a.png",
+              "logo": "//img.niucache.com/service/media/vehicle/d7fa6d6d5633e244d12123b898e28687.svg",
+              "conf": [
+                {
+                  "id": "229",
+                  "sku_id": "sku_31003",
+                  "params": {
+                    "electric_range": "100KM",
+                    "models": "NT"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/25ef320857cf9c3a8ab71bae5e02f09a.png"
+                },
+                {
+                  "id": "229",
+                  "sku_id": "sku_31008",
+                  "params": {
+                    "electric_range": "43KM",
+                    "models": "NT Play"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/25ef320857cf9c3a8ab71bae5e02f09a.png"
+                }
+              ]
+            },
+            {
+              "id": "238",
+              "series": "N",
+              "number": "nxt-hyper",
+              "url": "/product/nxt-hyper",
+              "name": "NXT Hyper",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/191a0cc487c794b31289d50d0d01242d.png",
+              "logo": "//img.niucache.com/service/media/vehicle/b47ba83ba0845211fd93ca587049e5fe.svg",
+              "conf": [
+                {
+                  "id": "238",
+                  "sku_id": "sku_32559",
+                  "params": {
+                    "electric_range": "98km",
+                    "models": "NXT Hyper"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/191a0cc487c794b31289d50d0d01242d.png"
+                }
+              ]
+            },
+            {
+              "id": "203",
+              "series": "N",
+              "number": "nxt",
+              "url": "/product/nxt",
+              "name": "NXT",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/428484efab7c178c38d28bc239f1b6f6.png",
+              "logo": "//img.niucache.com/service/media/vehicle/3bfdf622f1b569eec543d16a2976cadf.svg",
+              "conf": [
+                {
+                  "id": "203",
+                  "sku_id": "sku_33936",
+                  "params": {
+                    "electric_range": "105KM",
+                    "models": "NXT Ultra"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/428484efab7c178c38d28bc239f1b6f6.png"
+                },
+                {
+                  "id": "203",
+                  "sku_id": "sku_33941",
+                  "params": {
+                    "electric_range": "90KM",
+                    "models": "NXT Pro"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/428484efab7c178c38d28bc239f1b6f6.png"
+                }
+              ]
+            },
+            {
+              "id": "223",
+              "series": "M",
+              "number": "ms",
+              "url": "https://item.jd.com/10108385917470.html",
+              "name": "Ms",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/f1447fb731cf4989761ca7300eb3e0f1.png",
+              "logo": "//img.niucache.com/service/media/vehicle/b3d4bd2acdfb62b875c65f786bcb9405.svg",
+              "conf": [
+                {
+                  "id": "223",
+                  "sku_id": "sku_30732",
+                  "params": {
+                    "electric_range": "80KM",
+                    "models": "MS"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/f1447fb731cf4989761ca7300eb3e0f1.png"
+                }
+              ]
+            },
+            {
+              "id": "243",
+              "series": "M",
+              "number": "mmt",
+              "url": "/product/mmt",
+              "name": "MMT",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/09a3304df7f1f418947fd87ff661e964.png",
+              "logo": "//img.niucache.com/service/media/vehicle/383e0cd30691d4308ebdc44e9dcc1dfe.svg",
+              "conf": [
+                {
+                  "id": "243",
+                  "sku_id": "sku_32243",
+                  "params": {
+                    "electric_range": "43KM",
+                    "models": "MMT"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/09a3304df7f1f418947fd87ff661e964.png"
+                }
+              ]
+            },
+            {
+              "id": "218",
+              "series": "U",
+              "number": "umax",
+              "url": "/product/umax",
+              "name": "UMAX",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/ddf650f4a65dcc92dfb13f2b2b67d892.png",
+              "logo": "//img.niucache.com/service/media/vehicle/6520cb87505bced6adf02668a6f04825.svg",
+              "conf": [
+                {
+                  "id": "218",
+                  "sku_id": "sku_30647",
+                  "params": {
+                    "electric_range": "90km",
+                    "models": "UMAX动力版"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/ddf650f4a65dcc92dfb13f2b2b67d892.png"
+                },
+                {
+                  "id": "218",
+                  "sku_id": "sku_30650",
+                  "params": {
+                    "electric_range": "160km",
+                    "models": "UMAX顶配版"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/ddf650f4a65dcc92dfb13f2b2b67d892.png"
+                }
+              ]
+            },
+            {
+              "id": "207",
+              "series": "U",
+              "number": "u2024",
+              "url": "/product/u2024",
+              "name": "U",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/1f62e3fd3a17431f06ae906eed1cfc07.png",
+              "logo": "//img.niucache.com/service/media/vehicle/7802e0fc35e6f4566b1a4d4538d5fce6.svg",
+              "conf": [
+                {
+                  "id": "207",
+                  "sku_id": "sku_30389",
+                  "params": {
+                    "electric_range": "85KM",
+                    "models": "U"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/1f62e3fd3a17431f06ae906eed1cfc07.png"
+                }
+              ]
+            },
+            {
+              "id": "98",
+              "series": "UQi",
+              "number": "uqi-plus",
+              "url": "/product/uqi-plus",
+              "name": "UQi+",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/d39bb9f2138cb3315315c9495e3fb960.png",
+              "logo": "//img.niucache.com/service/media/vehicle/120c696e68c99302eb15793722d9dfc7.svg",
+              "conf": [
+                {
+                  "id": "98",
+                  "sku_id": "sku_32167",
+                  "params": {
+                    "electric_range": "60km",
+                    "models": "UQi+ 都市版"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/d39bb9f2138cb3315315c9495e3fb960.png"
+                },
+                {
+                  "id": "98",
+                  "sku_id": "sku_32170",
+                  "params": {
+                    "electric_range": "90km",
+                    "models": "UQi+ 动力版"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/d39bb9f2138cb3315315c9495e3fb960.png"
+                },
+                {
+                  "id": "98",
+                  "sku_id": "sku_32173",
+                  "params": {
+                    "electric_range": "95km",
+                    "models": "UQi+ 顶配版"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/d39bb9f2138cb3315315c9495e3fb960.png"
+                }
+              ]
+            },
+            {
+              "id": "181",
+              "series": "S",
+              "number": "sqi",
+              "url": "/product/sqi",
+              "name": "SQi 2023",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/0b23443f3249fa44a26ef82651f55c4f.png",
+              "logo": "//img.niucache.com/service/media/vehicle/ae948aeb33ca5e203173d8cfa21065bd.svg",
+              "conf": [
+                {
+                  "id": "181",
+                  "sku_id": "sku_28086",
+                  "params": {
+                    "electric_range": "95km",
+                    "models": "SQi"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/0b23443f3249fa44a26ef82651f55c4f.png"
+                }
+              ]
+            },
+            {
+              "id": "221",
+              "series": "O",
+              "number": "ot",
+              "url": "/product/ot",
+              "name": "Ot",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/2407c8196a82c497c119633d59bdd4a0.png",
+              "logo": "//img.niucache.com/service/media/vehicle/478cacbdbbf74af1d390371445e42351.svg",
+              "conf": [
+                {
+                  "id": "221",
+                  "sku_id": "sku_30706",
+                  "params": {
+                    "electric_range": "85km",
+                    "models": "OT"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/2407c8196a82c497c119633d59bdd4a0.png"
+                }
+              ]
+            },
+            {
+              "id": "164",
+              "series": "F",
+              "number": "f100",
+              "url": "/product/f100",
+              "name": "F100",
+              "need_driving": 0,
+              "image": "//img.niucache.com/service/media/vehicle/b530544179bf2551418c7c82ed89b3cc.png",
+              "logo": "//img.niucache.com/service/media/vehicle/543db02a74386f37f7c5721a5e2361a6.svg",
+              "conf": [
+                {
+                  "id": "164",
+                  "sku_id": "sku_27799",
+                  "params": {
+                    "electric_range": "50km",
+                    "models": "F100"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/b530544179bf2551418c7c82ed89b3cc.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "电动摩托车",
+          "enName": "E-Motorcycles",
+          "data": [
+            {
+              "id": "312",
+              "series": "N",
+              "number": "fx-marathon-plus",
+              "url": "https://item.jd.com/10237624274460.html?pcdk=zepEkGmZQJaHl0QynA4t4g2thIah2V0ligAlY4xj_cg%3D.M8AW.sbc1",
+              "name": "FX马拉松Plus",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/c975572626113c2e070424551344f0a7.png",
+              "logo": "//img.niucache.com/service/media/vehicle/256b831c026584418a763e79dae839a5.svg",
+              "conf": [
+                {
+                  "id": "312",
+                  "sku_id": "sku_34531",
+                  "params": {
+                    "electric_range": "工况162km/等速128km",
+                    "models": "FX马拉松Plus"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/c975572626113c2e070424551344f0a7.png"
+                }
+              ]
+            },
+            {
+              "id": "309",
+              "series": "O",
+              "number": "o2-oxygen-yuqi",
+              "url": "/products/o2-oxygen-yuqi",
+              "name": "O2 氧气 宋雨琦联名款",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/21c0885666fc885796571400396ca075.png",
+              "logo": "//img.niucache.com/service/media/vehicle/0fe9557235619a655739bef296b3401e.svg",
+              "conf": [
+                {
+                  "id": "309",
+                  "sku_id": "sku_34512",
+                  "params": {
+                    "electric_range": "108KM",
+                    "models": "O2 氧气 Pro 宋雨琦联名款"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/21c0885666fc885796571400396ca075.png"
+                },
+                {
+                  "id": "309",
+                  "sku_id": "sku_34513",
+                  "params": {
+                    "electric_range": "70KM",
+                    "models": "O2 氧气 Sport 宋雨琦联名款"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/21c0885666fc885796571400396ca075.png"
+                }
+              ]
+            },
+            {
+              "id": "308",
+              "series": "O",
+              "number": "o2-oxygen",
+              "url": "/products/o2-oxygen",
+              "name": "O2 氧气",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/dd04ffbd9776f77f65cfd45189484119.png",
+              "logo": "//img.niucache.com/service/media/vehicle/cfda53605ca6953d9a747bc33e84716a.svg",
+              "conf": [
+                {
+                  "id": "308",
+                  "sku_id": "sku_34497",
+                  "params": {
+                    "electric_range": "108KM",
+                    "models": "O2 氧气 Pro"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/dd04ffbd9776f77f65cfd45189484119.png"
+                },
+                {
+                  "id": "308",
+                  "sku_id": "sku_34502",
+                  "params": {
+                    "electric_range": "70KM",
+                    "models": "O2 氧气 Sport"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/dd04ffbd9776f77f65cfd45189484119.png"
+                },
+                {
+                  "id": "308",
+                  "sku_id": "sku_34507",
+                  "params": {
+                    "electric_range": "65KM",
+                    "models": "O2 氧气 Citi"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/dd04ffbd9776f77f65cfd45189484119.png"
+                }
+              ]
+            },
+            {
+              "id": "310",
+              "series": "O",
+              "number": "o2-oxygen-heartopia",
+              "url": "/products/o2-oxygen-heartopia",
+              "name": "O2 氧气 心动小镇联名款",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/311de67d1f226688f1b62bca64828525.png",
+              "logo": "//img.niucache.com/service/media/vehicle/6b53e55883d6b0a800d57edf4ad4b8fc.svg",
+              "conf": [
+                {
+                  "id": "310",
+                  "sku_id": "sku_34514",
+                  "params": {
+                    "electric_range": "70KM",
+                    "models": "O2 氧气 Sport 心动小镇联名款"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/311de67d1f226688f1b62bca64828525.png"
+                }
+              ]
+            },
+            {
+              "id": "306",
+              "series": "N",
+              "number": "nx-wind-pro",
+              "url": "/products/nx-wind-pro",
+              "name": "NX 风速Pro",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/6c1745202dd7c52b4c132acdda1f24e4.png",
+              "logo": "//img.niucache.com/service/media/vehicle/0f663d394c02b2cb957b843e0e9c7543.svg",
+              "conf": [
+                {
+                  "id": "306",
+                  "sku_id": "sku_34469",
+                  "params": {
+                    "electric_range": "工况77km/等速43km",
+                    "models": "NX 风速Pro"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/6c1745202dd7c52b4c132acdda1f24e4.png"
+                }
+              ]
+            },
+            {
+              "id": "299",
+              "series": "N",
+              "number": "nx100",
+              "url": "/products/nx100",
+              "name": "NX 100",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/9bfaa652d946421e557f0f74524b728b.png",
+              "logo": "//img.niucache.com/service/media/vehicle/249aa45655d11d6474f15f09ea2d4328.svg",
+              "conf": [
+                {
+                  "id": "299",
+                  "sku_id": "sku_34238",
+                  "params": {
+                    "electric_range": "85km/(工况)102km(等速)",
+                    "models": "NX 100"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/9bfaa652d946421e557f0f74524b728b.png"
+                },
+                {
+                  "id": "299",
+                  "sku_id": "sku_34242",
+                  "params": {
+                    "electric_range": "58km/(工况)75km(等速)",
+                    "models": "NX 70"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/9bfaa652d946421e557f0f74524b728b.png"
+                }
+              ]
+            },
+            {
+              "id": "303",
+              "series": "F",
+              "number": "fx-wind-plus",
+              "url": "/products/fx-wind-plus",
+              "name": "FX 风速款Plus",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/e6993f6c3002838314d9c831b5352e39.png",
+              "logo": "//img.niucache.com/service/media/vehicle/47ffc4012858c3635c44e514f8a9bb5e.svg",
+              "conf": [
+                {
+                  "id": "303",
+                  "sku_id": "sku_34515",
+                  "params": {
+                    "electric_range": "42KM",
+                    "models": "FX 风速款 Plus ABS版"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/e6993f6c3002838314d9c831b5352e39.png"
+                },
+                {
+                  "id": "303",
+                  "sku_id": "sku_34520",
+                  "params": {
+                    "electric_range": "42KM",
+                    "models": "FX 风速款 Plus"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/e6993f6c3002838314d9c831b5352e39.png"
+                }
+              ]
+            },
+            {
+              "id": "305",
+              "series": "F",
+              "number": "fs-sprint",
+              "url": "/products/fs-sprint",
+              "name": "FS 风驰",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/dc4882f55a895955dbeda36428a1132c.png",
+              "logo": "//img.niucache.com/service/media/vehicle/4fcdd3db5cec0e5361a8de5d6ab0c738.svg",
+              "conf": [
+                {
+                  "id": "305",
+                  "sku_id": "sku_34429",
+                  "params": {
+                    "electric_range": "89km / 85km",
+                    "models": "FS 风驰"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/dc4882f55a895955dbeda36428a1132c.png"
+                }
+              ]
+            },
+            {
+              "id": "298",
+              "series": "N",
+              "number": "n-sprint",
+              "url": "/products/n-sprint",
+              "name": "N 风驰",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/a186bd45c68a60d4421848ff0bfc1892.png",
+              "logo": "//img.niucache.com/service/media/vehicle/371deca83595f847b52a8eaa32c885e4.svg",
+              "conf": [
+                {
+                  "id": "298",
+                  "sku_id": "sku_34227",
+                  "params": {
+                    "electric_range": "47/36km",
+                    "models": "N 风驰"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/a186bd45c68a60d4421848ff0bfc1892.png"
+                }
+              ]
+            },
+            {
+              "id": "291",
+              "series": "N",
+              "number": "nx-marathon",
+              "url": "/products/nx-marathon",
+              "name": "NX 马拉松",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/1fd3defbeec86910e0f9556ed1c071ba.png",
+              "logo": "//img.niucache.com/service/media/vehicle/f79c8bafe8ed247762c0999617c02657.svg",
+              "conf": [
+                {
+                  "id": "291",
+                  "sku_id": "sku_34084",
+                  "params": {
+                    "electric_range": "121km/(工况)146km(等速)满把真续航（124km）",
+                    "models": "NX 马拉松"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/1fd3defbeec86910e0f9556ed1c071ba.png"
+                }
+              ]
+            },
+            {
+              "id": "292",
+              "series": "N",
+              "number": "n-one",
+              "url": "/products/n-one",
+              "name": "N One",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/076f624d9e3656bfe13ac13d9d408b24.png",
+              "logo": "//img.niucache.com/service/media/vehicle/984b7be1d17e1a7bfbb502abc5de2e7d.svg",
+              "conf": [
+                {
+                  "id": "292",
+                  "sku_id": "sku_34144",
+                  "params": {
+                    "electric_range": "48KM",
+                    "models": "N One"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/076f624d9e3656bfe13ac13d9d408b24.png"
+                }
+              ]
+            },
+            {
+              "id": "281",
+              "series": "F",
+              "number": "fs-wind",
+              "url": "/products/fs-wind",
+              "name": "FS ",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/169dece9ac59ef7c744161c1a2198c5e.png",
+              "logo": "//img.niucache.com/service/media/vehicle/64c443286e16241cb456357c82148abb.svg",
+              "conf": [
+                {
+                  "id": "281",
+                  "sku_id": "sku_34132",
+                  "params": {
+                    "electric_range": "57km / 67km",
+                    "models": "FS"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/169dece9ac59ef7c744161c1a2198c5e.png"
+                },
+                {
+                  "id": "281",
+                  "sku_id": "sku_34138",
+                  "params": {
+                    "electric_range": "50km / 79km",
+                    "models": "FS Citi"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/169dece9ac59ef7c744161c1a2198c5e.png"
+                }
+              ]
+            },
+            {
+              "id": "279",
+              "series": "N",
+              "number": "nx-wind",
+              "url": "/products/nx-wind",
+              "name": "NX 风速",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/1a4457a4e3c9d7334465124854a9355b.png",
+              "logo": "//img.niucache.com/service/media/vehicle/7ce2effa744f3a0ea2fe0e115a426908.svg",
+              "conf": [
+                {
+                  "id": "279",
+                  "sku_id": "sku_33864",
+                  "params": {
+                    "electric_range": "54/41km",
+                    "models": "NX 风速款 "
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/1a4457a4e3c9d7334465124854a9355b.png"
+                }
+              ]
+            },
+            {
+              "id": "274",
+              "series": "F",
+              "number": "fx-wind",
+              "url": "/product/fx-wind",
+              "name": "FX 风速款",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/efeeda786cadfa2c6b70e149b8a977a1.png",
+              "logo": "//img.niucache.com/service/media/vehicle/10cb1f48ab103727f999f41b6828a491.svg",
+              "conf": [
+                {
+                  "id": "274",
+                  "sku_id": "sku_33880",
+                  "params": {
+                    "electric_range": "80km",
+                    "models": "FX 风速款 ABS版"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/efeeda786cadfa2c6b70e149b8a977a1.png"
+                },
+                {
+                  "id": "274",
+                  "sku_id": "sku_33886",
+                  "params": {
+                    "electric_range": "20km",
+                    "models": "FX 风速款"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/efeeda786cadfa2c6b70e149b8a977a1.png"
+                }
+              ]
+            },
+            {
+              "id": "273",
+              "series": "N",
+              "number": "ns",
+              "url": "/product/ns",
+              "name": "NS",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/2f749de70985edcfd90911f9768138e7.png",
+              "logo": "//img.niucache.com/service/media/vehicle/a862c964eaee837f6ed617b13d8f014b.svg",
+              "conf": [
+                {
+                  "id": "273",
+                  "sku_id": "sku_33954",
+                  "params": {
+                    "electric_range": "52KM",
+                    "models": "NS Citi"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/2f749de70985edcfd90911f9768138e7.png"
+                }
+              ]
+            },
+            {
+              "id": "256",
+              "series": "F",
+              "number": "fx-pro",
+              "url": "/product/fx-pro",
+              "name": "FX 2025款",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/a00f0ef91e571f54248f60474241c3b7.png",
+              "logo": "//img.niucache.com/service/media/vehicle/197b36a8736abc9a74641031681eb6b2.svg",
+              "conf": [
+                {
+                  "id": "256",
+                  "sku_id": "sku_33198",
+                  "params": {
+                    "electric_range": "90km",
+                    "models": "FX Pro"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/a00f0ef91e571f54248f60474241c3b7.png"
+                },
+                {
+                  "id": "256",
+                  "sku_id": "sku_33203",
+                  "params": {
+                    "electric_range": "73km",
+                    "models": "FX Sport"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/a00f0ef91e571f54248f60474241c3b7.png"
+                },
+                {
+                  "id": "256",
+                  "sku_id": "sku_33208",
+                  "params": {
+                    "electric_range": "77km",
+                    "models": "FX Citi"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/a00f0ef91e571f54248f60474241c3b7.png"
+                }
+              ]
+            },
+            {
+              "id": "252",
+              "series": "N",
+              "number": "nxl",
+              "url": "/product/nxl",
+              "name": "NXL",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/750aa481bef9b1d39b09918d77bc0ae6.png",
+              "logo": "//img.niucache.com/service/media/vehicle/440a53341605394dc7e8a5e48df31cc8.svg",
+              "conf": [
+                {
+                  "id": "252",
+                  "sku_id": "sku_34070",
+                  "params": {
+                    "electric_range": "工况法：60KM\n等速法：73KM",
+                    "models": "NXL Sport ABS"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/750aa481bef9b1d39b09918d77bc0ae6.png"
+                },
+                {
+                  "id": "252",
+                  "sku_id": "sku_34074",
+                  "params": {
+                    "electric_range": "工况法：60KM\n等速法：73KM",
+                    "models": "NXL Sport"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/750aa481bef9b1d39b09918d77bc0ae6.png"
+                }
+              ]
+            },
+            {
+              "id": "257",
+              "series": "N",
+              "number": "nl",
+              "url": "/products/nl",
+              "name": "NL",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/1e330b1dfd831df9a0e3f3f0bd131e2d.png",
+              "logo": "//img.niucache.com/service/media/vehicle/943684e792ddb5f8f49b0f46fb700fdb.svg",
+              "conf": [
+                {
+                  "id": "257",
+                  "sku_id": "sku_33868",
+                  "params": {
+                    "electric_range": "工况法：98km\n等速法：92KM",
+                    "models": "NL Pro"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/1e330b1dfd831df9a0e3f3f0bd131e2d.png"
+                },
+                {
+                  "id": "257",
+                  "sku_id": "sku_33872",
+                  "params": {
+                    "electric_range": "工况法：68KM\n等速法：73KM",
+                    "models": "NL Sport"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/1e330b1dfd831df9a0e3f3f0bd131e2d.png"
+                },
+                {
+                  "id": "257",
+                  "sku_id": "sku_33876",
+                  "params": {
+                    "electric_range": "工况法：54KM\n等速法：63KM",
+                    "models": "NL Citi"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/1e330b1dfd831df9a0e3f3f0bd131e2d.png"
+                }
+              ]
+            },
+            {
+              "id": "247",
+              "series": "N",
+              "number": "nx-pro",
+              "url": "/product/nx-pro",
+              "name": "NX 2025款",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/b47590d4fb85a1918dcfec2ca46da96b.png",
+              "logo": "//img.niucache.com/service/media/vehicle/a6cfe6237ce26142499601aea9d59447.svg",
+              "conf": [
+                {
+                  "id": "247",
+                  "sku_id": "sku_32258",
+                  "params": {
+                    "electric_range": "90km",
+                    "models": "NX Pro"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/b47590d4fb85a1918dcfec2ca46da96b.png"
+                }
+              ]
+            },
+            {
+              "id": "241",
+              "series": "N",
+              "number": "nx-ultra",
+              "url": "/product/nx-ultra",
+              "name": "NX Ultra",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/c166946ba51f6ec6049ce52b063fa04e.png",
+              "logo": "//img.niucache.com/service/media/vehicle/55b8cbd4f14c5101e11cd1e322efd25e.svg",
+              "conf": [
+                {
+                  "id": "241",
+                  "sku_id": "sku_31792",
+                  "params": {
+                    "electric_range": "80km",
+                    "models": "NX Sport play"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/c166946ba51f6ec6049ce52b063fa04e.png"
+                },
+                {
+                  "id": "241",
+                  "sku_id": "sku_31795",
+                  "params": {
+                    "electric_range": "77km",
+                    "models": "NX Sport"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/c166946ba51f6ec6049ce52b063fa04e.png"
+                },
+                {
+                  "id": "241",
+                  "sku_id": "sku_31798",
+                  "params": {
+                    "electric_range": "130km（工况法）/73km（等速法）",
+                    "models": "NX Ultra"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/c166946ba51f6ec6049ce52b063fa04e.png"
+                }
+              ]
+            },
+            {
+              "id": "219",
+              "series": "N",
+              "number": "n-play",
+              "url": "https://item.jd.com/10098092583823.html",
+              "name": "Npaly",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/b9e6002cc40242840be4070dfcf06ffe.png",
+              "logo": "//img.niucache.com/service/media/vehicle/af36fc505f4744e22c0c2cfd25d3e3e5.svg",
+              "conf": [
+                {
+                  "id": "219",
+                  "sku_id": "sku_30653",
+                  "params": {
+                    "electric_range": "48(工况法)/65（等速法）",
+                    "models": "Nplay"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/b9e6002cc40242840be4070dfcf06ffe.png"
+                }
+              ]
+            },
+            {
+              "id": "6",
+              "series": "NQi",
+              "number": "nqi",
+              "url": "/product/nqi",
+              "name": "NQi",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/81e8219084343ce3071258e648ba96ca.png",
+              "logo": "//img.niucache.com/service/media/vehicle/e3d1422f5a1b7057eaa2a84022c82edd.svg",
+              "conf": [
+                {
+                  "id": "6",
+                  "sku_id": "sku_27775",
+                  "params": {
+                    "electric_range": "工况法/等速法:45/50km",
+                    "models": "NQi 动力版"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/81e8219084343ce3071258e648ba96ca.png"
+                }
+              ]
+            },
+            {
+              "id": "205",
+              "series": "N",
+              "number": "xqi3cn",
+              "url": "/product/xqi3",
+              "name": "X3",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/6d19faef4edcc6173b770dce7924907c.png",
+              "logo": "//img.niucache.com/service/media/vehicle/9cf88652a819a3f7f51264380aa77bd7.svg",
+              "conf": [
+                {
+                  "id": "205",
+                  "sku_id": "sku_33130",
+                  "params": {
+                    "electric_range": "116km*",
+                    "models": "X3 Sport 电轻摩版"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/6d19faef4edcc6173b770dce7924907c.png"
+                },
+                {
+                  "id": "205",
+                  "sku_id": "sku_33134",
+                  "params": {
+                    "electric_range": "64km (工况)*",
+                    "models": "X3 Sport 电摩版"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/6d19faef4edcc6173b770dce7924907c.png"
+                }
+              ]
+            },
+            {
+              "id": "185",
+              "series": "NQi",
+              "number": "rqi-cn",
+              "url": "/product/rqi",
+              "name": "RQi",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/bd19a443c2682dfeeea27525358cfd2e.png",
+              "logo": "//img.niucache.com/service/media/vehicle/9bfa5df8f545a86179f05ae491033cf5.svg",
+              "conf": [
+                {
+                  "id": "185",
+                  "sku_id": "sku_33064",
+                  "params": {
+                    "electric_range": "119km",
+                    "models": "RQi CBS 动力版"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/bd19a443c2682dfeeea27525358cfd2e.png"
+                },
+                {
+                  "id": "185",
+                  "sku_id": "sku_33068",
+                  "params": {
+                    "electric_range": "119km",
+                    "models": "RQi ABS 动力版"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/bd19a443c2682dfeeea27525358cfd2e.png"
+                }
+              ]
+            },
+            {
+              "id": "222",
+              "series": "O",
+              "number": "o",
+              "url": "/product/o",
+              "name": "O",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/aac4f562de1bd61848995633cb3ff946.png",
+              "logo": "//img.niucache.com/service/media/vehicle/2d8f0571bb979d42f629a3f32166ba8a.svg",
+              "conf": [
+                {
+                  "id": "222",
+                  "sku_id": "sku_30708",
+                  "params": {
+                    "electric_range": "工况50km/等速70km",
+                    "models": "O "
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/aac4f562de1bd61848995633cb3ff946.png"
+                }
+              ]
+            },
+            {
+              "id": "133",
+              "series": "GOVA",
+              "number": "g400",
+              "url": "/product/g400",
+              "name": "G400",
+              "need_driving": 1,
+              "image": "//img.niucache.com/service/media/vehicle/e2e5ee9858854b3b8fe32e8a4e2ba333.png",
+              "logo": "//img.niucache.com/service/media/vehicle/cfc4dcfc7c1fd7500f5d2d68e19f439b.svg",
+              "conf": [
+                {
+                  "id": "133",
+                  "sku_id": "sku_27783",
+                  "params": {
+                    "electric_range": "49km(工况法) 67km(等速法)",
+                    "models": "G400 都市版"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/e2e5ee9858854b3b8fe32e8a4e2ba333.png"
+                },
+                {
+                  "id": "133",
+                  "sku_id": "sku_27787",
+                  "params": {
+                    "electric_range": "44km(工况法) 64km(等速法)",
+                    "models": "G400 动力版"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/e2e5ee9858854b3b8fe32e8a4e2ba333.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "电动滑板车",
+          "enName": "Kick-Scooters",
+          "data": [
+            {
+              "id": "105",
+              "series": "KQi",
+              "number": "kqi2",
+              "url": "/product/kqi2",
+              "name": "KQi2",
+              "need_driving": 2,
+              "image": "//img.niucache.com/service/media/vehicle/d21c6092e9f34493915f0bb8e05d19b6.png",
+              "logo": "//img.niucache.com/service/media/vehicle/19f53ed4f4627edffe9a1c086cefaccb.svg",
+              "conf": [
+                {
+                  "id": "105",
+                  "sku_id": "sku_23414",
+                  "params": {
+                    "electric_range": "40km",
+                    "models": "KQi2 Pro"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/d21c6092e9f34493915f0bb8e05d19b6.png"
+                }
+              ]
+            },
+            {
+              "id": "62",
+              "series": "KQi",
+              "number": "kqi3",
+              "url": "/product/kqi3",
+              "name": "KQi3",
+              "need_driving": 2,
+              "image": "//img.niucache.com/service/media/vehicle/87f65c9cf62796bac233a72b56cb735d.png",
+              "logo": "//img.niucache.com/service/media/vehicle/90fab9d767a96a884becf49a2c2ee433.svg",
+              "conf": [
+                {
+                  "id": "62",
+                  "sku_id": "sku_21804",
+                  "params": {
+                    "electric_range": "40km",
+                    "models": "KQi3 Sport"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/87f65c9cf62796bac233a72b56cb735d.png"
+                },
+                {
+                  "id": "62",
+                  "sku_id": "sku_21808",
+                  "params": {
+                    "electric_range": "50km",
+                    "models": "KQi3 Pro"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/87f65c9cf62796bac233a72b56cb735d.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "儿童车",
+          "enName": "C-bikes",
+          "data": [
+            {
+              "id": "169",
+              "series": "U",
+              "number": "uqi-mini",
+              "url": "https://detail.tmall.com/item.htm?abbucket=16&id=720384071540&rn=a78d024ea43214e156d2554372f833cd&spm=a1z10.5-b.w4011-23251775641.58.1d2374e2gXw90D",
+              "name": "UQi Mini",
+              "need_driving": 3,
+              "image": "//img.niucache.com/service/media/vehicle/593ae4eec55dd768ee6a158c35591a44.png",
+              "logo": "//img.niucache.com/service/media/vehicle/77c0f84d3b6e710f330113f7e6766acc.svg",
+              "conf": [
+                {
+                  "id": "169",
+                  "sku_id": "sku_26705",
+                  "params": {
+                    "electric_range": "40-60 分钟",
+                    "models": "UQi Mini"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/593ae4eec55dd768ee6a158c35591a44.png"
+                }
+              ]
+            },
+            {
+              "id": "88",
+              "series": "NQi",
+              "number": "nqi-mini",
+              "url": "/product/nqi-mini",
+              "name": "NQi Mini",
+              "need_driving": 3,
+              "image": "//img.niucache.com/service/media/vehicle/2866a66c82235561cfaa4f08653a772e.jpg",
+              "logo": "//img.niucache.com/service/media/vehicle/5b02607afd13503c672ed362240ddb53.svg",
+              "conf": [
+                {
+                  "id": "88",
+                  "sku_id": "sku_21399",
+                  "params": {
+                    "electric_range": "90 分钟",
+                    "models": "NQi Mini"
+                  },
+                  "iconImg": "//img.niucache.com/service/media/vehicle/2866a66c82235561cfaa4f08653a772e.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "filterList": [
+        {
+          "e_name": "licensing_policy",
+          "name": "上牌政策",
+          "is_section": 0,
+          "content": [
+            "无需驾照",
+            "需摩托车驾照"
+          ]
+        },
+        {
+          "e_name": "type",
+          "name": "类型",
+          "is_section": 0,
+          "content": [
+            "电动自行车",
+            "电动摩托车",
+            "滑板车",
+            "儿童车"
+          ]
+        },
+        {
+          "e_name": "models",
+          "name": "车型",
+          "is_section": 1,
+          "content": [
+            {
+              "list": [
+                "MQis 青春版",
+                "UQi 青春版",
+                "UQi 都市版",
+                "UQis 都市版",
+                "UQis 动力版",
+                "G0 都市版 40",
+                "G0 动力版 60",
+                "G1 动力版 60",
+                "G1 都市版 40",
+                "G2 顶配版 80",
+                "G2 动力版 60",
+                "F0 50版",
+                "F0 70版",
+                "C0 都市版 50",
+                "C0 动力版 70",
+                "KQi3 Pro",
+                "KQi3 Sport"
+              ],
+              "name": "入门代步"
+            },
+            {
+              "list ": [
+                "NQi GT 动力版",
+                "NQi GT 顶配版",
+                "NQi 青春版",
+                "NQi 都市版",
+                "NQi 动力版",
+                "NQi 顶配版",
+                "MQi+ 青春版",
+                "MQi+ 都市版",
+                "MQi+ 动力版",
+                "MQi+ 顶配版",
+                "MQi2 青春版",
+                "MQi2 都市版",
+                "MQis 青春版",
+                "MQis 都市版",
+                "MQis 动力版",
+                "MQis 顶配版",
+                "UQi 青春版",
+                "UQi 都市版",
+                "UQi 动力版",
+                "UQi+ 青春版",
+                "UQi+ 都市版",
+                "UQi+ 动力版",
+                "UQi 顶配版",
+                "UQis 都市版",
+                "UQis 动力版",
+                "UQis 顶配版",
+                "G0 都市版 40",
+                "G0 动力版 60",
+                "G1 动力版 60",
+                "G1 都市版 40",
+                "G2 顶配版 80",
+                "G2 动力版 60",
+                "G3 都市 600",
+                "G3 动力 1200",
+                "G3 顶配 2000",
+                "F0 50版",
+                "F0 70版",
+                "C0 都市版 50",
+                "C0 动力版 70",
+                "MQi2s 青春版",
+                "MQi2s 都市版",
+                "MQi2s 动力版"
+              ],
+              "name": "接送孩子"
+            },
+            {
+              "list": [
+                "NQi GT 动力版",
+                "NQi GT 顶配版",
+                "NQi 青春版",
+                "NQi 都市版",
+                "NQi 动力版",
+                "NQi 顶配版",
+                "MQi+ 青春版",
+                "MQi+ 都市版",
+                "MQi+ 动力版",
+                "MQi+ 顶配版",
+                "MQi2 青春版",
+                "MQi2 都市版",
+                "MQis 青春版",
+                "MQis 都市版",
+                "MQis 动力版",
+                "MQis 顶配版",
+                "UQi 青春版",
+                "UQi 都市版",
+                "UQi 动力版",
+                "UQi 顶配版",
+                "UQis 都市版",
+                "UQis 动力版",
+                "UQis 顶配版",
+                "UQi+ 青春版",
+                "UQi+ 都市版",
+                "UQi+ 动力版",
+                "G0 都市版 40",
+                "G0 动力版 60",
+                "G1 动力版 60",
+                "G1 都市版 40",
+                "G2 顶配版 80",
+                "G2 动力版 60",
+                "G3 都市 600",
+                "G3 动力 1200",
+                "G3 顶配 2000",
+                "F0 50版",
+                "F0 70版",
+                "C0 都市版 50",
+                "C0 动力版 70",
+                "MQi2s 青春版",
+                "MQi2s 都市版",
+                "MQi2s 动力版"
+              ],
+              "name": "日常购物"
+            },
+            {
+              "list ": [
+                "NQi GT 动力版",
+                "NQi GT 顶配版",
+                "NQi 青春版",
+                "NQi 都市版",
+                "NQi 动力版",
+                "NQi 顶配版",
+                "MQi+ 青春版",
+                "MQi+ 都市版",
+                "MQi+ 动力版",
+                "MQi+ 顶配版",
+                "G3 都市 600",
+                "G3 动力 1200",
+                "G3 顶配 2000"
+              ],
+              "name": "超强载重"
+            },
+            {
+              "list": [
+                "NQi GT 动力版",
+                "NQi GT 顶配版",
+                "NQi 青春版",
+                "NQi 都市版",
+                "NQi 动力版",
+                "NQi 顶配版",
+                "MQi+ 青春版",
+                "MQi+ 都市版",
+                "MQi+ 动力版",
+                "MQi+ 顶配版",
+                "MQi2 青春版",
+                "MQi2 都市版",
+                "MQis 都市版",
+                "MQis 动力版",
+                "MQis 顶配版",
+                "UQis 顶配版",
+                "UQi+ 动力版",
+                "G0 动力版 60",
+                "G1 动力版 60",
+                "G2 顶配版 80",
+                "G2 动力版 60",
+                "G3 动力 1200",
+                "G3 顶配 2000",
+                "F0 70版",
+                "MQi2s 都市版",
+                "MQi2s 动力版"
+              ],
+              "name": "超长续航"
+            },
+            {
+              "list": [
+                "NQi GT 动力版",
+                "NQi GT 顶配版",
+                "NQi 青春版",
+                "NQi 都市版",
+                "NQi 动力版",
+                "NQi 顶配版",
+                "MQi+ 青春版",
+                "MQi+ 都市版",
+                "MQi+ 动力版",
+                "MQi+ 顶配版",
+                "G3 都市 600",
+                "G3 动力 1200",
+                "G3 顶配 2000"
+              ],
+              "name": "超强动力"
+            }
+          ]
+        },
+        {
+          "e_name": "price",
+          "name": "指导价",
+          "is_section": 1,
+          "content": [
+            "¥1,500-4,000",
+            "¥4,000-6,000",
+            "¥6,000-10,000"
+          ]
+        },
+        {
+          "e_name": "electric_range",
+          "name": "理论续航",
+          "is_section": 1,
+          "content": [
+            "40-60km",
+            "60-80km",
+            "80-120km",
+            ">120km"
+          ]
+        },
+        {
+          "e_name": "max_speed",
+          "name": "最高时速",
+          "is_section": 1,
+          "content": [
+            "0-25 km/h",
+            "30-50 km/h",
+            "50-70 km/h",
+            ">70 km/h"
+          ]
+        },
+        {
+          "e_name": "app_connect",
+          "name": "智能 APP",
+          "is_section": 0,
+          "content": [
+            "支持",
+            "可选配",
+            "标配"
+          ]
+        }
+      ],
+      "filterList_result": [
+        {
+          "e_name": "licensing_policy",
+          "name": "上牌政策",
+          "is_section": 0,
+          "content": [
+            "无需驾照",
+            "需摩托车驾照"
+          ]
+        },
+        {
+          "e_name": "type",
+          "name": "类型",
+          "is_section": 0,
+          "content": [
+            "电动自行车",
+            "电动摩托车",
+            "滑板车",
+            "儿童车"
+          ]
+        },
+        {
+          "e_name": "models",
+          "name": "车型",
+          "is_section": 1,
+          "content": [
+            "入门代步",
+            "接送孩子",
+            "日常购物",
+            "超强载重",
+            "超长续航",
+            "超强动力"
+          ]
+        },
+        {
+          "e_name": "price",
+          "name": "指导价",
+          "is_section": 1,
+          "content": [
+            "¥1,500-4,000",
+            "¥4,000-6,000",
+            "¥6,000-10,000"
+          ]
+        },
+        {
+          "e_name": "electric_range",
+          "name": "理论续航",
+          "is_section": 1,
+          "content": [
+            "40-60km",
+            "60-80km",
+            "80-120km",
+            ">120km"
+          ]
+        },
+        {
+          "e_name": "max_speed",
+          "name": "最高时速",
+          "is_section": 1,
+          "content": [
+            "0-25 km/h",
+            "30-50 km/h",
+            "50-70 km/h",
+            ">70 km/h"
+          ]
+        },
+        {
+          "e_name": "app_connect",
+          "name": "智能 APP",
+          "is_section": 0,
+          "content": [
+            "支持",
+            "可选配",
+            "标配"
+          ]
+        }
+      ],
+      "vehicleDataList": {
+        "0": [
+          {
+            "id": "311",
+            "series": "M",
+            "number": "met",
+            "url": "/products/met",
+            "name": "MET",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/eba5f4bb72f4062a49c0bd27020f051f.png",
+            "logo": "//img.niucache.com/service/media/vehicle/1d6302b6604159f5a9ef803a6b8ce9c3.svg",
+            "conf": [
+              {
+                "id": "311",
+                "sku_id": "sku_34527",
+                "params": {
+                  "electric_range": "105KM",
+                  "models": "MET Citi"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/eba5f4bb72f4062a49c0bd27020f051f.png"
+              }
+            ]
+          },
+          {
+            "id": "312",
+            "series": "N",
+            "number": "fx-marathon-plus",
+            "url": "https://item.jd.com/10237624274460.html?pcdk=zepEkGmZQJaHl0QynA4t4g2thIah2V0ligAlY4xj_cg%3D.M8AW.sbc1",
+            "name": "FX马拉松Plus",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/c975572626113c2e070424551344f0a7.png",
+            "logo": "//img.niucache.com/service/media/vehicle/256b831c026584418a763e79dae839a5.svg",
+            "conf": [
+              {
+                "id": "312",
+                "sku_id": "sku_34531",
+                "params": {
+                  "electric_range": "工况162km/等速128km",
+                  "models": "FX马拉松Plus"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/c975572626113c2e070424551344f0a7.png"
+              }
+            ]
+          }
+        ],
+        "1": [
+          {
+            "id": "309",
+            "series": "O",
+            "number": "o2-oxygen-yuqi",
+            "url": "/products/o2-oxygen-yuqi",
+            "name": "O2 氧气 宋雨琦联名款",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/21c0885666fc885796571400396ca075.png",
+            "logo": "//img.niucache.com/service/media/vehicle/0fe9557235619a655739bef296b3401e.svg",
+            "conf": [
+              {
+                "id": "309",
+                "sku_id": "sku_34512",
+                "params": {
+                  "electric_range": "108KM",
+                  "models": "O2 氧气 Pro 宋雨琦联名款"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/21c0885666fc885796571400396ca075.png"
+              },
+              {
+                "id": "309",
+                "sku_id": "sku_34513",
+                "params": {
+                  "electric_range": "70KM",
+                  "models": "O2 氧气 Sport 宋雨琦联名款"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/21c0885666fc885796571400396ca075.png"
+              }
+            ]
+          }
+        ],
+        "2": [
+          {
+            "id": "308",
+            "series": "O",
+            "number": "o2-oxygen",
+            "url": "/products/o2-oxygen",
+            "name": "O2 氧气",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/dd04ffbd9776f77f65cfd45189484119.png",
+            "logo": "//img.niucache.com/service/media/vehicle/cfda53605ca6953d9a747bc33e84716a.svg",
+            "conf": [
+              {
+                "id": "308",
+                "sku_id": "sku_34497",
+                "params": {
+                  "electric_range": "108KM",
+                  "models": "O2 氧气 Pro"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/dd04ffbd9776f77f65cfd45189484119.png"
+              },
+              {
+                "id": "308",
+                "sku_id": "sku_34502",
+                "params": {
+                  "electric_range": "70KM",
+                  "models": "O2 氧气 Sport"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/dd04ffbd9776f77f65cfd45189484119.png"
+              },
+              {
+                "id": "308",
+                "sku_id": "sku_34507",
+                "params": {
+                  "electric_range": "65KM",
+                  "models": "O2 氧气 Citi"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/dd04ffbd9776f77f65cfd45189484119.png"
+              }
+            ]
+          }
+        ],
+        "3": [
+          {
+            "id": "310",
+            "series": "O",
+            "number": "o2-oxygen-heartopia",
+            "url": "/products/o2-oxygen-heartopia",
+            "name": "O2 氧气 心动小镇联名款",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/311de67d1f226688f1b62bca64828525.png",
+            "logo": "//img.niucache.com/service/media/vehicle/6b53e55883d6b0a800d57edf4ad4b8fc.svg",
+            "conf": [
+              {
+                "id": "310",
+                "sku_id": "sku_34514",
+                "params": {
+                  "electric_range": "70KM",
+                  "models": "O2 氧气 Sport 心动小镇联名款"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/311de67d1f226688f1b62bca64828525.png"
+              }
+            ]
+          }
+        ],
+        "4": [
+          {
+            "id": "306",
+            "series": "N",
+            "number": "nx-wind-pro",
+            "url": "/products/nx-wind-pro",
+            "name": "NX 风速Pro",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/6c1745202dd7c52b4c132acdda1f24e4.png",
+            "logo": "//img.niucache.com/service/media/vehicle/0f663d394c02b2cb957b843e0e9c7543.svg",
+            "conf": [
+              {
+                "id": "306",
+                "sku_id": "sku_34469",
+                "params": {
+                  "electric_range": "工况77km/等速43km",
+                  "models": "NX 风速Pro"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/6c1745202dd7c52b4c132acdda1f24e4.png"
+              }
+            ]
+          }
+        ],
+        "5": [
+          {
+            "id": "299",
+            "series": "N",
+            "number": "nx100",
+            "url": "/products/nx100",
+            "name": "NX 100",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/9bfaa652d946421e557f0f74524b728b.png",
+            "logo": "//img.niucache.com/service/media/vehicle/249aa45655d11d6474f15f09ea2d4328.svg",
+            "conf": [
+              {
+                "id": "299",
+                "sku_id": "sku_34238",
+                "params": {
+                  "electric_range": "85km/(工况)102km(等速)",
+                  "models": "NX 100"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/9bfaa652d946421e557f0f74524b728b.png"
+              },
+              {
+                "id": "299",
+                "sku_id": "sku_34242",
+                "params": {
+                  "electric_range": "58km/(工况)75km(等速)",
+                  "models": "NX 70"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/9bfaa652d946421e557f0f74524b728b.png"
+              }
+            ]
+          }
+        ],
+        "6": [
+          {
+            "id": "301",
+            "series": "N",
+            "number": "nt-sprint",
+            "url": "/products/nt-sprint",
+            "name": "NT 风驰",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/8e4d98b7cce6f20ad4cc3c8f0b0cc9c3.png",
+            "logo": "//img.niucache.com/service/media/vehicle/a5b54a983ec4ac64eaeb127712f6a71d.svg",
+            "conf": [
+              {
+                "id": "301",
+                "sku_id": "sku_34338",
+                "params": {
+                  "electric_range": "35km",
+                  "models": "NT 风驰"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/8e4d98b7cce6f20ad4cc3c8f0b0cc9c3.png"
+              }
+            ]
+          }
+        ],
+        "7": [
+          {
+            "id": "303",
+            "series": "F",
+            "number": "fx-wind-plus",
+            "url": "/products/fx-wind-plus",
+            "name": "FX 风速款Plus",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/e6993f6c3002838314d9c831b5352e39.png",
+            "logo": "//img.niucache.com/service/media/vehicle/47ffc4012858c3635c44e514f8a9bb5e.svg",
+            "conf": [
+              {
+                "id": "303",
+                "sku_id": "sku_34515",
+                "params": {
+                  "electric_range": "42KM",
+                  "models": "FX 风速款 Plus ABS版"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/e6993f6c3002838314d9c831b5352e39.png"
+              },
+              {
+                "id": "303",
+                "sku_id": "sku_34520",
+                "params": {
+                  "electric_range": "42KM",
+                  "models": "FX 风速款 Plus"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/e6993f6c3002838314d9c831b5352e39.png"
+              }
+            ]
+          }
+        ],
+        "8": [
+          {
+            "id": "305",
+            "series": "F",
+            "number": "fs-sprint",
+            "url": "/products/fs-sprint",
+            "name": "FS 风驰",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/dc4882f55a895955dbeda36428a1132c.png",
+            "logo": "//img.niucache.com/service/media/vehicle/4fcdd3db5cec0e5361a8de5d6ab0c738.svg",
+            "conf": [
+              {
+                "id": "305",
+                "sku_id": "sku_34429",
+                "params": {
+                  "electric_range": "89km / 85km",
+                  "models": "FS 风驰"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/dc4882f55a895955dbeda36428a1132c.png"
+              }
+            ]
+          }
+        ],
+        "9": [
+          {
+            "id": "298",
+            "series": "N",
+            "number": "n-sprint",
+            "url": "/products/n-sprint",
+            "name": "N 风驰",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/a186bd45c68a60d4421848ff0bfc1892.png",
+            "logo": "//img.niucache.com/service/media/vehicle/371deca83595f847b52a8eaa32c885e4.svg",
+            "conf": [
+              {
+                "id": "298",
+                "sku_id": "sku_34227",
+                "params": {
+                  "electric_range": "47/36km",
+                  "models": "N 风驰"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/a186bd45c68a60d4421848ff0bfc1892.png"
+              }
+            ]
+          }
+        ],
+        "10": [
+          {
+            "id": "291",
+            "series": "N",
+            "number": "nx-marathon",
+            "url": "/products/nx-marathon",
+            "name": "NX 马拉松",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/1fd3defbeec86910e0f9556ed1c071ba.png",
+            "logo": "//img.niucache.com/service/media/vehicle/f79c8bafe8ed247762c0999617c02657.svg",
+            "conf": [
+              {
+                "id": "291",
+                "sku_id": "sku_34084",
+                "params": {
+                  "electric_range": "121km/(工况)146km(等速)满把真续航（124km）",
+                  "models": "NX 马拉松"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/1fd3defbeec86910e0f9556ed1c071ba.png"
+              }
+            ]
+          }
+        ],
+        "11": [
+          {
+            "id": "292",
+            "series": "N",
+            "number": "n-one",
+            "url": "/products/n-one",
+            "name": "N One",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/076f624d9e3656bfe13ac13d9d408b24.png",
+            "logo": "//img.niucache.com/service/media/vehicle/984b7be1d17e1a7bfbb502abc5de2e7d.svg",
+            "conf": [
+              {
+                "id": "292",
+                "sku_id": "sku_34144",
+                "params": {
+                  "electric_range": "48KM",
+                  "models": "N One"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/076f624d9e3656bfe13ac13d9d408b24.png"
+              }
+            ]
+          }
+        ],
+        "12": [
+          {
+            "id": "295",
+            "series": "Y",
+            "number": "y-cheese",
+            "url": "/products/y-cheese",
+            "name": "Y 芝士",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/b4675fe031d5f67cdd23ea3b970bc451.png",
+            "logo": "//img.niucache.com/service/media/vehicle/5660312667ff55863addc0954db25a3d.svg",
+            "conf": [
+              {
+                "id": "295",
+                "sku_id": "sku_34151",
+                "params": {
+                  "electric_range": "48KM",
+                  "models": "Y 芝士"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/b4675fe031d5f67cdd23ea3b970bc451.png"
+              }
+            ]
+          }
+        ],
+        "13": [
+          {
+            "id": "289",
+            "series": "Y",
+            "number": "y-jelly",
+            "url": "/products/y-jelly",
+            "name": "Y 果冻",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/5c913a09338cbfdfbf7da657bfd6e1cc.png",
+            "logo": "//img.niucache.com/service/media/vehicle/4a31c918a99c5aa64b820f85ed777831.svg",
+            "conf": [
+              {
+                "id": "289",
+                "sku_id": "sku_33982",
+                "params": {
+                  "electric_range": "93KM",
+                  "models": "Y 果冻 Citi"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/5c913a09338cbfdfbf7da657bfd6e1cc.png"
+              },
+              {
+                "id": "289",
+                "sku_id": "sku_33986",
+                "params": {
+                  "electric_range": "48KM",
+                  "models": "Y 果冻 One"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/5c913a09338cbfdfbf7da657bfd6e1cc.png"
+              }
+            ]
+          }
+        ],
+        "14": [
+          {
+            "id": "288",
+            "series": "N",
+            "number": "nxt2",
+            "url": "/products/nxt2",
+            "name": "NXT2",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/592d0bddc9ec81b0f5c0b190c6744555.png",
+            "logo": "//img.niucache.com/service/media/vehicle/cf287df8dd023e3222c0fb4bc524ee87.svg",
+            "conf": [
+              {
+                "id": "288",
+                "sku_id": "sku_33799",
+                "params": {
+                  "electric_range": "115KM",
+                  "models": "NXT2 Ultra"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/592d0bddc9ec81b0f5c0b190c6744555.png"
+              },
+              {
+                "id": "288",
+                "sku_id": "sku_33802",
+                "params": {
+                  "electric_range": "57KM",
+                  "models": "NXT2 Sport ABS"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/592d0bddc9ec81b0f5c0b190c6744555.png"
+              },
+              {
+                "id": "288",
+                "sku_id": "sku_33805",
+                "params": {
+                  "electric_range": "57KM",
+                  "models": "NXT2 Citi "
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/592d0bddc9ec81b0f5c0b190c6744555.png"
+              }
+            ]
+          }
+        ],
+        "15": [
+          {
+            "id": "284",
+            "series": "K",
+            "number": "k-sport",
+            "url": "/products/k-sport",
+            "name": "K",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/6335eae334f1fd333ff5ad9d63977a0c.png",
+            "logo": "//img.niucache.com/service/media/vehicle/ec84a736c8bcfa6692e9818982b8f6d1.svg",
+            "conf": [
+              {
+                "id": "284",
+                "sku_id": "sku_33826",
+                "params": {
+                  "electric_range": "95KM",
+                  "models": "K One"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/6335eae334f1fd333ff5ad9d63977a0c.png"
+              },
+              {
+                "id": "284",
+                "sku_id": "sku_33831",
+                "params": {
+                  "electric_range": "105KM",
+                  "models": "K Citi"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/6335eae334f1fd333ff5ad9d63977a0c.png"
+              },
+              {
+                "id": "284",
+                "sku_id": "sku_33836",
+                "params": {
+                  "electric_range": "38KM",
+                  "models": "K Sport"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/6335eae334f1fd333ff5ad9d63977a0c.png"
+              }
+            ]
+          }
+        ],
+        "16": [
+          {
+            "id": "285",
+            "series": "U",
+            "number": "u3",
+            "url": "/products/u3",
+            "name": "U3",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/0df428f91c7df5e29ee61e6fd34e9148.png",
+            "logo": "//img.niucache.com/service/media/vehicle/a9cada31f51d1a5f5e5dc1d5a2c57f84.svg",
+            "conf": [
+              {
+                "id": "285",
+                "sku_id": "sku_33808",
+                "params": {
+                  "electric_range": "110KM",
+                  "models": "U3 citi"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/0df428f91c7df5e29ee61e6fd34e9148.png"
+              },
+              {
+                "id": "285",
+                "sku_id": "sku_33814",
+                "params": {
+                  "electric_range": "110KM",
+                  "models": "U3 sport"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/0df428f91c7df5e29ee61e6fd34e9148.png"
+              },
+              {
+                "id": "285",
+                "sku_id": "sku_33820",
+                "params": {
+                  "electric_range": "107KM",
+                  "models": "U3 pro"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/0df428f91c7df5e29ee61e6fd34e9148.png"
+              }
+            ]
+          }
+        ],
+        "17": [
+          {
+            "id": "281",
+            "series": "F",
+            "number": "fs-wind",
+            "url": "/products/fs-wind",
+            "name": "FS ",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/169dece9ac59ef7c744161c1a2198c5e.png",
+            "logo": "//img.niucache.com/service/media/vehicle/64c443286e16241cb456357c82148abb.svg",
+            "conf": [
+              {
+                "id": "281",
+                "sku_id": "sku_34132",
+                "params": {
+                  "electric_range": "57km / 67km",
+                  "models": "FS"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/169dece9ac59ef7c744161c1a2198c5e.png"
+              },
+              {
+                "id": "281",
+                "sku_id": "sku_34138",
+                "params": {
+                  "electric_range": "50km / 79km",
+                  "models": "FS Citi"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/169dece9ac59ef7c744161c1a2198c5e.png"
+              }
+            ]
+          }
+        ],
+        "18": [
+          {
+            "id": "279",
+            "series": "N",
+            "number": "nx-wind",
+            "url": "/products/nx-wind",
+            "name": "NX 风速",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/1a4457a4e3c9d7334465124854a9355b.png",
+            "logo": "//img.niucache.com/service/media/vehicle/7ce2effa744f3a0ea2fe0e115a426908.svg",
+            "conf": [
+              {
+                "id": "279",
+                "sku_id": "sku_33864",
+                "params": {
+                  "electric_range": "54/41km",
+                  "models": "NX 风速款 "
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/1a4457a4e3c9d7334465124854a9355b.png"
+              }
+            ]
+          }
+        ],
+        "19": [
+          {
+            "id": "282",
+            "series": "M",
+            "number": "mt2026",
+            "url": "/products/mt2026",
+            "name": "MT 2026",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/8e43bb827d5dd0a447ad0ef171a1e394.png",
+            "logo": "//img.niucache.com/service/media/vehicle/b21d4f0d5f159ccae54136aed60faa1c.svg",
+            "conf": [
+              {
+                "id": "282",
+                "sku_id": "sku_33849",
+                "params": {
+                  "electric_range": "110KM",
+                  "models": "MT Sport"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/8e43bb827d5dd0a447ad0ef171a1e394.png"
+              },
+              {
+                "id": "282",
+                "sku_id": "sku_33854",
+                "params": {
+                  "electric_range": "95KM",
+                  "models": "MT Citi（LI）"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/8e43bb827d5dd0a447ad0ef171a1e394.png"
+              },
+              {
+                "id": "282",
+                "sku_id": "sku_33859",
+                "params": {
+                  "electric_range": "48KM",
+                  "models": "MT  Citi（LA）"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/8e43bb827d5dd0a447ad0ef171a1e394.png"
+              }
+            ]
+          }
+        ],
+        "20": [
+          {
+            "id": "276",
+            "series": "U",
+            "number": "u1",
+            "url": "/products/u1",
+            "name": "U1",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/462b6728383b83f69ddc064207038cf2.png",
+            "logo": "//img.niucache.com/service/media/vehicle/4ba917d992743fa74d92bd0d03934067.svg",
+            "conf": [
+              {
+                "id": "276",
+                "sku_id": "sku_33892",
+                "params": {
+                  "electric_range": "90KM",
+                  "models": "U1 One"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/462b6728383b83f69ddc064207038cf2.png"
+              }
+            ]
+          }
+        ],
+        "21": [
+          {
+            "id": "274",
+            "series": "F",
+            "number": "fx-wind",
+            "url": "/product/fx-wind",
+            "name": "FX 风速款",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/efeeda786cadfa2c6b70e149b8a977a1.png",
+            "logo": "//img.niucache.com/service/media/vehicle/10cb1f48ab103727f999f41b6828a491.svg",
+            "conf": [
+              {
+                "id": "274",
+                "sku_id": "sku_33880",
+                "params": {
+                  "electric_range": "80km",
+                  "models": "FX 风速款 ABS版"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/efeeda786cadfa2c6b70e149b8a977a1.png"
+              },
+              {
+                "id": "274",
+                "sku_id": "sku_33886",
+                "params": {
+                  "electric_range": "20km",
+                  "models": "FX 风速款"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/efeeda786cadfa2c6b70e149b8a977a1.png"
+              }
+            ]
+          }
+        ],
+        "22": [
+          {
+            "id": "273",
+            "series": "N",
+            "number": "ns",
+            "url": "/product/ns",
+            "name": "NS",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/2f749de70985edcfd90911f9768138e7.png",
+            "logo": "//img.niucache.com/service/media/vehicle/a862c964eaee837f6ed617b13d8f014b.svg",
+            "conf": [
+              {
+                "id": "273",
+                "sku_id": "sku_33954",
+                "params": {
+                  "electric_range": "52KM",
+                  "models": "NS Citi"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/2f749de70985edcfd90911f9768138e7.png"
+              }
+            ]
+          }
+        ],
+        "23": [
+          {
+            "id": "269",
+            "series": "F",
+            "number": "fxt-2025",
+            "url": "/product/fxt-2025",
+            "name": "FXT 2025",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/cab164c1f23ad66bd8d49294d0ee7bfa.png",
+            "logo": "//img.niucache.com/service/media/vehicle/91fee68cd26ae8150335ec6a003b5267.svg",
+            "conf": [
+              {
+                "id": "269",
+                "sku_id": "sku_33898",
+                "params": {
+                  "electric_range": "105KM",
+                  "models": "FXT Ultra"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/cab164c1f23ad66bd8d49294d0ee7bfa.png"
+              },
+              {
+                "id": "269",
+                "sku_id": "sku_33903",
+                "params": {
+                  "electric_range": "95KM",
+                  "models": "FXT Citi ABS"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/cab164c1f23ad66bd8d49294d0ee7bfa.png"
+              },
+              {
+                "id": "269",
+                "sku_id": "sku_33908",
+                "params": {
+                  "electric_range": "95KM",
+                  "models": "FXT Citi (LI)"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/cab164c1f23ad66bd8d49294d0ee7bfa.png"
+              },
+              {
+                "id": "269",
+                "sku_id": "sku_33913",
+                "params": {
+                  "electric_range": "43KM",
+                  "models": "FXT Sport ABS"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/cab164c1f23ad66bd8d49294d0ee7bfa.png"
+              },
+              {
+                "id": "269",
+                "sku_id": "sku_33918",
+                "params": {
+                  "electric_range": "43KM",
+                  "models": "FXT Sport"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/cab164c1f23ad66bd8d49294d0ee7bfa.png"
+              },
+              {
+                "id": "269",
+                "sku_id": "sku_33923",
+                "params": {
+                  "electric_range": "43KM",
+                  "models": "FXT Citi (LA)"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/cab164c1f23ad66bd8d49294d0ee7bfa.png"
+              }
+            ]
+          }
+        ],
+        "24": [
+          {
+            "id": "268",
+            "series": "N",
+            "number": "nxt-2025",
+            "url": "/product/nxt-2025",
+            "name": "NXT 2025",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/a30ccf1fc7d74e8af4162cfc84eda996.png",
+            "logo": "//img.niucache.com/service/media/vehicle/62f6f7cc2183abb06113b773c8cfc296.svg",
+            "conf": [
+              {
+                "id": "268",
+                "sku_id": "sku_33105",
+                "params": {
+                  "electric_range": "105KM",
+                  "models": "NXT Ultra"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/a30ccf1fc7d74e8af4162cfc84eda996.png"
+              },
+              {
+                "id": "268",
+                "sku_id": "sku_33110",
+                "params": {
+                  "electric_range": "90KM",
+                  "models": "NXT Pro"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/a30ccf1fc7d74e8af4162cfc84eda996.png"
+              }
+            ]
+          }
+        ],
+        "25": [
+          {
+            "id": "264",
+            "series": "N",
+            "number": "nst",
+            "url": "/product/nst",
+            "name": "NST",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/6dc63b31fda36e029ac5699ff458453b.png",
+            "logo": "//img.niucache.com/service/media/vehicle/cc7c923b4ee6136f3ed9ce507574711b.svg",
+            "conf": [
+              {
+                "id": "264",
+                "sku_id": "sku_33946",
+                "params": {
+                  "electric_range": "43KM",
+                  "models": "NST Sport"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/6dc63b31fda36e029ac5699ff458453b.png"
+              },
+              {
+                "id": "264",
+                "sku_id": "sku_33950",
+                "params": {
+                  "electric_range": "43KM",
+                  "models": "NST Citi"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/6dc63b31fda36e029ac5699ff458453b.png"
+              }
+            ]
+          }
+        ],
+        "26": [
+          {
+            "id": "258",
+            "series": "N",
+            "number": "nlt",
+            "url": "/product/nlt",
+            "name": "NLT",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/4d4ef4b2e14c29fc22cd308fc86f2f7f.png",
+            "logo": "//img.niucache.com/service/media/vehicle/8a876333c43e00d50eb525eef1b682dc.svg",
+            "conf": [
+              {
+                "id": "258",
+                "sku_id": "sku_33970",
+                "params": {
+                  "electric_range": "100KM",
+                  "models": "NLT Citi ABS (Li)"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/4d4ef4b2e14c29fc22cd308fc86f2f7f.png"
+              },
+              {
+                "id": "258",
+                "sku_id": "sku_33974",
+                "params": {
+                  "electric_range": "100KM",
+                  "models": "NLT Citi (Li)"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/4d4ef4b2e14c29fc22cd308fc86f2f7f.png"
+              },
+              {
+                "id": "258",
+                "sku_id": "sku_33978",
+                "params": {
+                  "electric_range": "40KM",
+                  "models": "NLT Citi (La)"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/4d4ef4b2e14c29fc22cd308fc86f2f7f.png"
+              }
+            ]
+          }
+        ],
+        "27": [
+          {
+            "id": "229",
+            "series": "N",
+            "number": "nt",
+            "url": "/product/nt",
+            "name": "NT",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/25ef320857cf9c3a8ab71bae5e02f09a.png",
+            "logo": "//img.niucache.com/service/media/vehicle/d7fa6d6d5633e244d12123b898e28687.svg",
+            "conf": [
+              {
+                "id": "229",
+                "sku_id": "sku_31003",
+                "params": {
+                  "electric_range": "100KM",
+                  "models": "NT"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/25ef320857cf9c3a8ab71bae5e02f09a.png"
+              },
+              {
+                "id": "229",
+                "sku_id": "sku_31008",
+                "params": {
+                  "electric_range": "43KM",
+                  "models": "NT Play"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/25ef320857cf9c3a8ab71bae5e02f09a.png"
+              }
+            ]
+          }
+        ],
+        "28": [
+          {
+            "id": "238",
+            "series": "N",
+            "number": "nxt-hyper",
+            "url": "/product/nxt-hyper",
+            "name": "NXT Hyper",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/191a0cc487c794b31289d50d0d01242d.png",
+            "logo": "//img.niucache.com/service/media/vehicle/b47ba83ba0845211fd93ca587049e5fe.svg",
+            "conf": [
+              {
+                "id": "238",
+                "sku_id": "sku_32559",
+                "params": {
+                  "electric_range": "98km",
+                  "models": "NXT Hyper"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/191a0cc487c794b31289d50d0d01242d.png"
+              }
+            ]
+          }
+        ],
+        "29": [
+          {
+            "id": "203",
+            "series": "N",
+            "number": "nxt",
+            "url": "/product/nxt",
+            "name": "NXT",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/428484efab7c178c38d28bc239f1b6f6.png",
+            "logo": "//img.niucache.com/service/media/vehicle/3bfdf622f1b569eec543d16a2976cadf.svg",
+            "conf": [
+              {
+                "id": "203",
+                "sku_id": "sku_33936",
+                "params": {
+                  "electric_range": "105KM",
+                  "models": "NXT Ultra"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/428484efab7c178c38d28bc239f1b6f6.png"
+              },
+              {
+                "id": "203",
+                "sku_id": "sku_33941",
+                "params": {
+                  "electric_range": "90KM",
+                  "models": "NXT Pro"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/428484efab7c178c38d28bc239f1b6f6.png"
+              }
+            ]
+          }
+        ],
+        "31": [
+          {
+            "id": "223",
+            "series": "M",
+            "number": "ms",
+            "url": "https://item.jd.com/10108385917470.html",
+            "name": "Ms",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/f1447fb731cf4989761ca7300eb3e0f1.png",
+            "logo": "//img.niucache.com/service/media/vehicle/b3d4bd2acdfb62b875c65f786bcb9405.svg",
+            "conf": [
+              {
+                "id": "223",
+                "sku_id": "sku_30732",
+                "params": {
+                  "electric_range": "80KM",
+                  "models": "MS"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/f1447fb731cf4989761ca7300eb3e0f1.png"
+              }
+            ]
+          }
+        ],
+        "32": [
+          {
+            "id": "243",
+            "series": "M",
+            "number": "mmt",
+            "url": "/product/mmt",
+            "name": "MMT",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/09a3304df7f1f418947fd87ff661e964.png",
+            "logo": "//img.niucache.com/service/media/vehicle/383e0cd30691d4308ebdc44e9dcc1dfe.svg",
+            "conf": [
+              {
+                "id": "243",
+                "sku_id": "sku_32243",
+                "params": {
+                  "electric_range": "43KM",
+                  "models": "MMT"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/09a3304df7f1f418947fd87ff661e964.png"
+              }
+            ]
+          }
+        ],
+        "33": [
+          {
+            "id": "218",
+            "series": "U",
+            "number": "umax",
+            "url": "/product/umax",
+            "name": "UMAX",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/ddf650f4a65dcc92dfb13f2b2b67d892.png",
+            "logo": "//img.niucache.com/service/media/vehicle/6520cb87505bced6adf02668a6f04825.svg",
+            "conf": [
+              {
+                "id": "218",
+                "sku_id": "sku_30647",
+                "params": {
+                  "electric_range": "90km",
+                  "models": "UMAX动力版"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/ddf650f4a65dcc92dfb13f2b2b67d892.png"
+              },
+              {
+                "id": "218",
+                "sku_id": "sku_30650",
+                "params": {
+                  "electric_range": "160km",
+                  "models": "UMAX顶配版"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/ddf650f4a65dcc92dfb13f2b2b67d892.png"
+              }
+            ]
+          }
+        ],
+        "34": [
+          {
+            "id": "207",
+            "series": "U",
+            "number": "u2024",
+            "url": "/product/u2024",
+            "name": "U",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/1f62e3fd3a17431f06ae906eed1cfc07.png",
+            "logo": "//img.niucache.com/service/media/vehicle/7802e0fc35e6f4566b1a4d4538d5fce6.svg",
+            "conf": [
+              {
+                "id": "207",
+                "sku_id": "sku_30389",
+                "params": {
+                  "electric_range": "85KM",
+                  "models": "U"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/1f62e3fd3a17431f06ae906eed1cfc07.png"
+              }
+            ]
+          }
+        ],
+        "35": [
+          {
+            "id": "98",
+            "series": "UQi",
+            "number": "uqi-plus",
+            "url": "/product/uqi-plus",
+            "name": "UQi+",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/d39bb9f2138cb3315315c9495e3fb960.png",
+            "logo": "//img.niucache.com/service/media/vehicle/120c696e68c99302eb15793722d9dfc7.svg",
+            "conf": [
+              {
+                "id": "98",
+                "sku_id": "sku_32167",
+                "params": {
+                  "electric_range": "60km",
+                  "models": "UQi+ 都市版"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/d39bb9f2138cb3315315c9495e3fb960.png"
+              },
+              {
+                "id": "98",
+                "sku_id": "sku_32170",
+                "params": {
+                  "electric_range": "90km",
+                  "models": "UQi+ 动力版"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/d39bb9f2138cb3315315c9495e3fb960.png"
+              },
+              {
+                "id": "98",
+                "sku_id": "sku_32173",
+                "params": {
+                  "electric_range": "95km",
+                  "models": "UQi+ 顶配版"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/d39bb9f2138cb3315315c9495e3fb960.png"
+              }
+            ]
+          }
+        ],
+        "36": [
+          {
+            "id": "181",
+            "series": "S",
+            "number": "sqi",
+            "url": "/product/sqi",
+            "name": "SQi 2023",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/0b23443f3249fa44a26ef82651f55c4f.png",
+            "logo": "//img.niucache.com/service/media/vehicle/ae948aeb33ca5e203173d8cfa21065bd.svg",
+            "conf": [
+              {
+                "id": "181",
+                "sku_id": "sku_28086",
+                "params": {
+                  "electric_range": "95km",
+                  "models": "SQi"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/0b23443f3249fa44a26ef82651f55c4f.png"
+              }
+            ]
+          }
+        ],
+        "37": [
+          {
+            "id": "221",
+            "series": "O",
+            "number": "ot",
+            "url": "/product/ot",
+            "name": "Ot",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/2407c8196a82c497c119633d59bdd4a0.png",
+            "logo": "//img.niucache.com/service/media/vehicle/478cacbdbbf74af1d390371445e42351.svg",
+            "conf": [
+              {
+                "id": "221",
+                "sku_id": "sku_30706",
+                "params": {
+                  "electric_range": "85km",
+                  "models": "OT"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/2407c8196a82c497c119633d59bdd4a0.png"
+              }
+            ]
+          }
+        ],
+        "39": [
+          {
+            "id": "164",
+            "series": "F",
+            "number": "f100",
+            "url": "/product/f100",
+            "name": "F100",
+            "need_driving": 0,
+            "image": "//img.niucache.com/service/media/vehicle/b530544179bf2551418c7c82ed89b3cc.png",
+            "logo": "//img.niucache.com/service/media/vehicle/543db02a74386f37f7c5721a5e2361a6.svg",
+            "conf": [
+              {
+                "id": "164",
+                "sku_id": "sku_27799",
+                "params": {
+                  "electric_range": "50km",
+                  "models": "F100"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/b530544179bf2551418c7c82ed89b3cc.png"
+              }
+            ]
+          }
+        ],
+        "41": [
+          {
+            "id": "256",
+            "series": "F",
+            "number": "fx-pro",
+            "url": "/product/fx-pro",
+            "name": "FX 2025款",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/a00f0ef91e571f54248f60474241c3b7.png",
+            "logo": "//img.niucache.com/service/media/vehicle/197b36a8736abc9a74641031681eb6b2.svg",
+            "conf": [
+              {
+                "id": "256",
+                "sku_id": "sku_33198",
+                "params": {
+                  "electric_range": "90km",
+                  "models": "FX Pro"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/a00f0ef91e571f54248f60474241c3b7.png"
+              },
+              {
+                "id": "256",
+                "sku_id": "sku_33203",
+                "params": {
+                  "electric_range": "73km",
+                  "models": "FX Sport"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/a00f0ef91e571f54248f60474241c3b7.png"
+              },
+              {
+                "id": "256",
+                "sku_id": "sku_33208",
+                "params": {
+                  "electric_range": "77km",
+                  "models": "FX Citi"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/a00f0ef91e571f54248f60474241c3b7.png"
+              }
+            ]
+          }
+        ],
+        "42": [
+          {
+            "id": "252",
+            "series": "N",
+            "number": "nxl",
+            "url": "/product/nxl",
+            "name": "NXL",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/750aa481bef9b1d39b09918d77bc0ae6.png",
+            "logo": "//img.niucache.com/service/media/vehicle/440a53341605394dc7e8a5e48df31cc8.svg",
+            "conf": [
+              {
+                "id": "252",
+                "sku_id": "sku_34070",
+                "params": {
+                  "electric_range": "工况法：60KM\n等速法：73KM",
+                  "models": "NXL Sport ABS"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/750aa481bef9b1d39b09918d77bc0ae6.png"
+              },
+              {
+                "id": "252",
+                "sku_id": "sku_34074",
+                "params": {
+                  "electric_range": "工况法：60KM\n等速法：73KM",
+                  "models": "NXL Sport"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/750aa481bef9b1d39b09918d77bc0ae6.png"
+              }
+            ]
+          }
+        ],
+        "43": [
+          {
+            "id": "257",
+            "series": "N",
+            "number": "nl",
+            "url": "/products/nl",
+            "name": "NL",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/1e330b1dfd831df9a0e3f3f0bd131e2d.png",
+            "logo": "//img.niucache.com/service/media/vehicle/943684e792ddb5f8f49b0f46fb700fdb.svg",
+            "conf": [
+              {
+                "id": "257",
+                "sku_id": "sku_33868",
+                "params": {
+                  "electric_range": "工况法：98km\n等速法：92KM",
+                  "models": "NL Pro"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/1e330b1dfd831df9a0e3f3f0bd131e2d.png"
+              },
+              {
+                "id": "257",
+                "sku_id": "sku_33872",
+                "params": {
+                  "electric_range": "工况法：68KM\n等速法：73KM",
+                  "models": "NL Sport"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/1e330b1dfd831df9a0e3f3f0bd131e2d.png"
+              },
+              {
+                "id": "257",
+                "sku_id": "sku_33876",
+                "params": {
+                  "electric_range": "工况法：54KM\n等速法：63KM",
+                  "models": "NL Citi"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/1e330b1dfd831df9a0e3f3f0bd131e2d.png"
+              }
+            ]
+          }
+        ],
+        "44": [
+          {
+            "id": "247",
+            "series": "N",
+            "number": "nx-pro",
+            "url": "/product/nx-pro",
+            "name": "NX 2025款",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/b47590d4fb85a1918dcfec2ca46da96b.png",
+            "logo": "//img.niucache.com/service/media/vehicle/a6cfe6237ce26142499601aea9d59447.svg",
+            "conf": [
+              {
+                "id": "247",
+                "sku_id": "sku_32258",
+                "params": {
+                  "electric_range": "90km",
+                  "models": "NX Pro"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/b47590d4fb85a1918dcfec2ca46da96b.png"
+              }
+            ]
+          }
+        ],
+        "45": [
+          {
+            "id": "241",
+            "series": "N",
+            "number": "nx-ultra",
+            "url": "/product/nx-ultra",
+            "name": "NX Ultra",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/c166946ba51f6ec6049ce52b063fa04e.png",
+            "logo": "//img.niucache.com/service/media/vehicle/55b8cbd4f14c5101e11cd1e322efd25e.svg",
+            "conf": [
+              {
+                "id": "241",
+                "sku_id": "sku_31792",
+                "params": {
+                  "electric_range": "80km",
+                  "models": "NX Sport play"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/c166946ba51f6ec6049ce52b063fa04e.png"
+              },
+              {
+                "id": "241",
+                "sku_id": "sku_31795",
+                "params": {
+                  "electric_range": "77km",
+                  "models": "NX Sport"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/c166946ba51f6ec6049ce52b063fa04e.png"
+              },
+              {
+                "id": "241",
+                "sku_id": "sku_31798",
+                "params": {
+                  "electric_range": "130km（工况法）/73km（等速法）",
+                  "models": "NX Ultra"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/c166946ba51f6ec6049ce52b063fa04e.png"
+              }
+            ]
+          }
+        ],
+        "46": [
+          {
+            "id": "219",
+            "series": "N",
+            "number": "n-play",
+            "url": "https://item.jd.com/10098092583823.html",
+            "name": "Npaly",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/b9e6002cc40242840be4070dfcf06ffe.png",
+            "logo": "//img.niucache.com/service/media/vehicle/af36fc505f4744e22c0c2cfd25d3e3e5.svg",
+            "conf": [
+              {
+                "id": "219",
+                "sku_id": "sku_30653",
+                "params": {
+                  "electric_range": "48(工况法)/65（等速法）",
+                  "models": "Nplay"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/b9e6002cc40242840be4070dfcf06ffe.png"
+              }
+            ]
+          }
+        ],
+        "47": [
+          {
+            "id": "6",
+            "series": "NQi",
+            "number": "nqi",
+            "url": "/product/nqi",
+            "name": "NQi",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/81e8219084343ce3071258e648ba96ca.png",
+            "logo": "//img.niucache.com/service/media/vehicle/e3d1422f5a1b7057eaa2a84022c82edd.svg",
+            "conf": [
+              {
+                "id": "6",
+                "sku_id": "sku_27775",
+                "params": {
+                  "electric_range": "工况法/等速法:45/50km",
+                  "models": "NQi 动力版"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/81e8219084343ce3071258e648ba96ca.png"
+              }
+            ]
+          }
+        ],
+        "48": [
+          {
+            "id": "205",
+            "series": "N",
+            "number": "xqi3cn",
+            "url": "/product/xqi3",
+            "name": "X3",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/6d19faef4edcc6173b770dce7924907c.png",
+            "logo": "//img.niucache.com/service/media/vehicle/9cf88652a819a3f7f51264380aa77bd7.svg",
+            "conf": [
+              {
+                "id": "205",
+                "sku_id": "sku_33130",
+                "params": {
+                  "electric_range": "116km*",
+                  "models": "X3 Sport 电轻摩版"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/6d19faef4edcc6173b770dce7924907c.png"
+              },
+              {
+                "id": "205",
+                "sku_id": "sku_33134",
+                "params": {
+                  "electric_range": "64km (工况)*",
+                  "models": "X3 Sport 电摩版"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/6d19faef4edcc6173b770dce7924907c.png"
+              }
+            ]
+          }
+        ],
+        "49": [
+          {
+            "id": "185",
+            "series": "NQi",
+            "number": "rqi-cn",
+            "url": "/product/rqi",
+            "name": "RQi",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/bd19a443c2682dfeeea27525358cfd2e.png",
+            "logo": "//img.niucache.com/service/media/vehicle/9bfa5df8f545a86179f05ae491033cf5.svg",
+            "conf": [
+              {
+                "id": "185",
+                "sku_id": "sku_33064",
+                "params": {
+                  "electric_range": "119km",
+                  "models": "RQi CBS 动力版"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/bd19a443c2682dfeeea27525358cfd2e.png"
+              },
+              {
+                "id": "185",
+                "sku_id": "sku_33068",
+                "params": {
+                  "electric_range": "119km",
+                  "models": "RQi ABS 动力版"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/bd19a443c2682dfeeea27525358cfd2e.png"
+              }
+            ]
+          }
+        ],
+        "50": [
+          {
+            "id": "222",
+            "series": "O",
+            "number": "o",
+            "url": "/product/o",
+            "name": "O",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/aac4f562de1bd61848995633cb3ff946.png",
+            "logo": "//img.niucache.com/service/media/vehicle/2d8f0571bb979d42f629a3f32166ba8a.svg",
+            "conf": [
+              {
+                "id": "222",
+                "sku_id": "sku_30708",
+                "params": {
+                  "electric_range": "工况50km/等速70km",
+                  "models": "O "
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/aac4f562de1bd61848995633cb3ff946.png"
+              }
+            ]
+          }
+        ],
+        "51": [
+          {
+            "id": "133",
+            "series": "GOVA",
+            "number": "g400",
+            "url": "/product/g400",
+            "name": "G400",
+            "need_driving": 1,
+            "image": "//img.niucache.com/service/media/vehicle/e2e5ee9858854b3b8fe32e8a4e2ba333.png",
+            "logo": "//img.niucache.com/service/media/vehicle/cfc4dcfc7c1fd7500f5d2d68e19f439b.svg",
+            "conf": [
+              {
+                "id": "133",
+                "sku_id": "sku_27783",
+                "params": {
+                  "electric_range": "49km(工况法) 67km(等速法)",
+                  "models": "G400 都市版"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/e2e5ee9858854b3b8fe32e8a4e2ba333.png"
+              },
+              {
+                "id": "133",
+                "sku_id": "sku_27787",
+                "params": {
+                  "electric_range": "44km(工况法) 64km(等速法)",
+                  "models": "G400 动力版"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/e2e5ee9858854b3b8fe32e8a4e2ba333.png"
+              }
+            ]
+          }
+        ],
+        "70": [
+          {
+            "id": "105",
+            "series": "KQi",
+            "number": "kqi2",
+            "url": "/product/kqi2",
+            "name": "KQi2",
+            "need_driving": 2,
+            "image": "//img.niucache.com/service/media/vehicle/d21c6092e9f34493915f0bb8e05d19b6.png",
+            "logo": "//img.niucache.com/service/media/vehicle/19f53ed4f4627edffe9a1c086cefaccb.svg",
+            "conf": [
+              {
+                "id": "105",
+                "sku_id": "sku_23414",
+                "params": {
+                  "electric_range": "40km",
+                  "models": "KQi2 Pro"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/d21c6092e9f34493915f0bb8e05d19b6.png"
+              }
+            ]
+          }
+        ],
+        "95": [
+          {
+            "id": "62",
+            "series": "KQi",
+            "number": "kqi3",
+            "url": "/product/kqi3",
+            "name": "KQi3",
+            "need_driving": 2,
+            "image": "//img.niucache.com/service/media/vehicle/87f65c9cf62796bac233a72b56cb735d.png",
+            "logo": "//img.niucache.com/service/media/vehicle/90fab9d767a96a884becf49a2c2ee433.svg",
+            "conf": [
+              {
+                "id": "62",
+                "sku_id": "sku_21804",
+                "params": {
+                  "electric_range": "40km",
+                  "models": "KQi3 Sport"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/87f65c9cf62796bac233a72b56cb735d.png"
+              },
+              {
+                "id": "62",
+                "sku_id": "sku_21808",
+                "params": {
+                  "electric_range": "50km",
+                  "models": "KQi3 Pro"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/87f65c9cf62796bac233a72b56cb735d.png"
+              }
+            ]
+          }
+        ],
+        "96": [
+          {
+            "id": "169",
+            "series": "U",
+            "number": "uqi-mini",
+            "url": "https://detail.tmall.com/item.htm?abbucket=16&id=720384071540&rn=a78d024ea43214e156d2554372f833cd&spm=a1z10.5-b.w4011-23251775641.58.1d2374e2gXw90D",
+            "name": "UQi Mini",
+            "need_driving": 3,
+            "image": "//img.niucache.com/service/media/vehicle/593ae4eec55dd768ee6a158c35591a44.png",
+            "logo": "//img.niucache.com/service/media/vehicle/77c0f84d3b6e710f330113f7e6766acc.svg",
+            "conf": [
+              {
+                "id": "169",
+                "sku_id": "sku_26705",
+                "params": {
+                  "electric_range": "40-60 分钟",
+                  "models": "UQi Mini"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/593ae4eec55dd768ee6a158c35591a44.png"
+              }
+            ]
+          }
+        ],
+        "97": [
+          {
+            "id": "88",
+            "series": "NQi",
+            "number": "nqi-mini",
+            "url": "/product/nqi-mini",
+            "name": "NQi Mini",
+            "need_driving": 3,
+            "image": "//img.niucache.com/service/media/vehicle/2866a66c82235561cfaa4f08653a772e.jpg",
+            "logo": "//img.niucache.com/service/media/vehicle/5b02607afd13503c672ed362240ddb53.svg",
+            "conf": [
+              {
+                "id": "88",
+                "sku_id": "sku_21399",
+                "params": {
+                  "electric_range": "90 分钟",
+                  "models": "NQi Mini"
+                },
+                "iconImg": "//img.niucache.com/service/media/vehicle/2866a66c82235561cfaa4f08653a772e.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "fetch": [],
+  "error": null,
+  "state": {
+    "userId": null,
+    "usId": null,
+    "isMobile": false,
+    "isWechat": false,
+    "isIOS": false,
+    "isSafari": false,
+    "isMac": null,
+    "accesstoken": null,
+    "isSamsung": null,
+    "compareVehicleIds": [],
+    "countryList": [],
+    "openId": null,
+    "isAndroidChrome": false
+  },
+  "serverRendered": true,
+  "routePath": "/vehicle"
+}

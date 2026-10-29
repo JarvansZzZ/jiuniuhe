@@ -1,0 +1,1451 @@
+[
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k17101/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "41b009311ebe16ac4f5a3b0d23d1867ba40530c9502692c0ea5d12b3e7ee894c"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k17101/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "821dbcad776b8b4b0fcceffaa8d094a5907a2daa11adea047843348478e8eea1"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k17101/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "16e617888a62df96f1de2d3decca38ecece84caf88fa4f4f8c391e673ab546b5"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k17101/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "54d20f8ed77ccb072026ea4b8ce7204cc1d0246bdd9978dbf93dc613dd73571f"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k12701/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "f1344ddb8bfd72fd2d1519f2f4c0dea82301653baf43d017993ef117d65b4aa3"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k12701/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "e83b608a9fec12d41ae77b74eb59aee9684e224a7876fbbe857ed753d44a883f"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k12701/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "8e844028078734a0a16e2b4809884b72b1c2753f1da1bd464543d1dcb50f11d4"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k12701/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "bdeb62665fbd55f2116b87c8cf005887a865ad196fa5af6c5a3648bff7bfb981"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20302/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "28b82b53fe13c7c7d65d6baeff5f44df964ab4380cc5615e16a0923bcf1054ed"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20302/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "d4794e24310ec9862b22a496c59fc8da20b8852aebdbab5ccb2897ce77369d5a"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20302/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "539df70ef6e9d075e213f2caee3a07da2daa8ce0bbc4689fc2ebb259a2ee71bc"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15602/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "b75c6f7ded818643978870c423366e9aa510e12ff0f09efaecdb93ae444858a1"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15602/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "958bc8bb05eb7be91a629db1a339073287cf94aa95600f8c45586c49f9066184"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15602/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "9fb871f3948afd73ba032ab8c2f198a736d5749033509fba2b7988749bd38201"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15602/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "9ac74ce7f1c10be468a60f628f8ec3c78f1b8063658e9e6b3f75a18218c842a3"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20901/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "e0d9c39cf052923119b7488e28ebf955ebd8578564d0a22b13444a3d84076d4e"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20901/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "642cb321364d064b527cb28ada4c731010fc41ef69189b360fedb5b466bf3097"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20901/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "219f2c8f96a5f48e65f67e29a544feec27956a991e332561257923afbe157d37"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k14602/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "69722f7f1782abbd703f0c5eb408e7ee9c8dfa9bfc5f1e3a9d1be6644f0db086"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k14602/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "efdb4c4807e5222e65b1d91bb4cd4aab3ae3d788c5dff8fb4214b767ebc3de1c"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k14602/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "610affe9da75ca731f35b738645f8f1bbb6ad3a92249cdf6932f2335bd63be65"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k14602/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "c7fdd726ad9f79862620ccf10ce342c87338cb03a5bef2986919feb82268d94a"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k11903/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "583d8ba1929bcf52a93cec3e8596ea29e76ab206367d9057995cd2cc0028a625"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k11903/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "82c2511e425805e076d70213fe3dceda5d4312018dfdf3df5102d1f3a9762e64"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k11903/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "6ee006ee40af23379dfb44bd3a0cbda655fcc920e56bde194d12918850568814"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k11903/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "64cd76a7125f03c531604af22eb4744ffd911b928c984315330ebff7d94d363e"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k16004/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "a25582a0008ec43195b54db69a6240d8dc9c0a6382a0ac0d3d9a31e7a0940052"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20501/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "9723a7a81f698ffbabb43c294be428af800d616f07ceab6af12661ae656abd0a"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20501/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "f5458fc2c745eee68a6eb8abda47ab3f9db54e6db749d17086ca8c2054ba9e8c"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20501/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "f2d91cb04042b3adfbb09455021e1ee54657620b9a622e448d78687f220643d1"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20501/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "b68a28ee3f7a18c3739144742897c9bfa07f442e1cb3b186e002a42770cce818"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k02430/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "d60b6b348c9fb5a228abb93bd80be9c3b2401dd7a90f3deca9b69dbddf14f06c"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k02430/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "beec52a10692af32ce25ae2daa7d12824bdf7a91bb82b96aa80c27cd5ddaa055"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k22401/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "032c06cc23a332f817cee91596ff2dd2a194f2f308bae13bafa054cf70ac9543"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k22401/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "6708f6d0bb351b974a3cbf8586ab2338aba686379afab9314e105580b1efd8e7"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k22401/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "713ef5e4c57fb7ff302a22a21d2c49eccbf21b0c2d0421a4e7708c9877f2e16a"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k22401/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "35379ba4459306adb0e382110261cfb63941c27aa7bef6627aa26b2179f26423"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15701/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "4cd525a9d493da0b4a4b1c54fa2fbffaab7c83655203e91835014804948e453f"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15701/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "3ee682d2b109772bf5c842d4754ac8d4ea8eb1eb20ef00dbb01f2852a8e2b9e5"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15701/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "aa8400a2f375c16fde37ced647d644adb47250c2810ef8a33e9b43b1ef2eca2f"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15701/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "5aca12fc5deadabcde966548eb1b5507e157863e6e263fda3c97b287d42e7a0f"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k04612/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "bb18a9f83fd009bd98047bfceb7d890cce603dde04aba678c3986a958cffe22a"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k04612/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "d99db3959cbc00856e524cd334f89c78017a400bb79bced14cfa8a8c25d9c1be"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k04612/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "0d5b9d9cc6c01802a8ae2715353790114d7db19a8462382007a4dc4e90d2b4fe"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20701/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "47fa03e5530e1633b5555986160df933cdc3dbd6970561728bb1e6ddf1c304cf"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20701/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "f126e12eee495e112cb30f702631da69fd012db0aec5a94b6192ca6558438309"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20701/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "d09cb0ffc5550a3c0210bc91ff7d12ad626f232b5b15c1967deb7b4fcd2bc099"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15604/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "847752575bd3fa13bafee2823cfebbcc6c144bf14b3d813817a6dea1e02d1582"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k16001/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "95a5a28af85cbefdca9e4a90fd6ccb12698934c508070a942894eda1bea0a71d"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k16001/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "fbb2b90123649f18ccff302b70eaab727b5024b7e3d50507403bd815b2e77537"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k16001/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "288393b2b2787d6236c012360462f8a711218ab8f0e22f7958950bd473f377a3"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k16001/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "87e660ecc10823418fb956b0205166df81e5af6294b9219dd49803d40a1e1b9d"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20503/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "60134348f10e7a69ec23bbf175fefdd3bef197ef399073a50ae21e01798153d7"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20503/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "fc590faa9a6f91135f935fb960a8a9a65b4d6569d16263d6d12a2f838626d1f9"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20503/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "b4edcd4ce99e4851f41cf65e1a1bd78253d26a7642078011464259be82159100"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k16002-2/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "c848f0b7807dd800812b6a4a2f3dec1e01a1c3c60ccf3482be43d437cb9b1132"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k16002-2/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "6db31350c6df57d38b12012dcfdbfc7f28df5d4e77b2de070da28ff33106d275"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k16002-2/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "207bac297b175cc937d0e0539a023539c90a76d80d732aa63294740994f2b053"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k16002-2/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "1ea95d7117814a9b829e95d7013ac02829e5eeeefa6021a1212019d6b2254aec"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15304/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "e2b768a90ab054ac89080dda9c48d4459f6ac5d6e159e8a4d62c2a85ecd0c086"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k11902/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "7f18974bf7a9c9f582001cc58b374c63974a939ddb88d516c930945c88f45b0c"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k11902/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "1ec8fbf2e440b34725a3ce1a22127179cc4059ae6ed57f6ae715fcbd4e59d184"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k11902/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "dba18ba3a63109ffe8140f21290a7a0a940b8396212766114409138d773b3027"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k11902/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "91773a4628cb3d88b1c4e8006d28463c7c3f11408adf04131c819122e4c3e967"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k10401/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "b508f670422041148ad21eea1954b5fbf7e724724e8576d929c22d6038e1bcad"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k10401/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "8769045b85e904c2120c608dc67f968990cc77e17d5b55c990ec35a3b37ce749"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k10401/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "72e874b8cd6176c70c922cad40d813c54f7e1eb8038992f517b14c730a017e77"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k10401/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "ae983ee605277e764160910f7f66383d7369a1961220919c2eafe2411297640b"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k10411/01.webp",
+    "ok": true,
+    "width": 696,
+    "height": 696,
+    "sha256": "1750e137ccc89d796653adbd78290014e929b2030f7daad601e742d4d193f7c7"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k10411/02.webp",
+    "ok": true,
+    "width": 696,
+    "height": 696,
+    "sha256": "cde559e26544b2c2c87c50863ccf077385cd43356a72d6b44953b80bd2cf9169"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k10411/03.webp",
+    "ok": true,
+    "width": 696,
+    "height": 696,
+    "sha256": "f811d73fc9e9db5c593f811bb441c81e9926b1feb1b236e8dffb8975d3a85d9d"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k17102/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "89aa318473b8e831019f05bf399fdabaf4180c4c73839e78080fb60b26bd9fe4"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k17102/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "c123921f2b66ab6ced89f23b1e879bf82c0d3a1bcb0658637b9cb4b04c4f2747"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k17102/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "c8af0c8cdd3d17a8a1cd5eb3839af237c6d72dbbb81d5a656f7ad60047929866"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k17102/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "9b733eef0008fc36b249689b015e93b9d597615ee7c017bd18295c3a1ec35679"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k04601/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "b87792b3fa2f53d51293c50cb4b630393377f384895dd9ff46c29d3436e33f53"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k04601/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "8d26cd77a50ff54acba8a7f5d50d136e45427273ccd2a61f190d5380b4dc7d7c"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k04601/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "b01b49b63d936976fb85243ae88aa2d7526459db24e5457823d7d19a07998d82"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k04601/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "8c10ffaae262f72a3a9d69d55988f6402d4e8c993559ff267104e3aa597e3265"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k10402/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "7b5b89ca71de52565267de045968b3dc0d456169755ae1a42f5e06824110ae1c"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k10402/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "1570ed58f7800c89868ad9bdce28a89539fc331d2196e1a395fd78672153bee4"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k10402/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "a1bc7e226f24264f2ba57bec59d7d93ea62a2e895db5849b099333c5d9723702"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k10402/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "1e2064be6f3c861e2cc43a4b8485a94aed2b22d63a0f8027ccdb597a4e8948b4"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k17202/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "5a2e82153e37a9c3a20b00162a5dda2c92f925d3e8f71f3a5052ce777de43964"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k17202/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "e99a595e50097122dd59358d1ba2dcd5e3306e3d2748854d607960d7272ea42d"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k17202/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "a3bed748bf78f5617fc7aa270887b0bfe77017402cccb675e92a04d10358e862"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k17202/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "cc6fea899e9d7778fb22f611c052db7ccc2162b0b5a656dd10b99d19388bba7d"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15603/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "b01a4c3c4d8a529b7fdc6e3fb4b74534cc4e2387e0c29c173a5b5795eaaca5f1"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20902/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "29ac749d92ffd0592def689b4e222969330ba1e0710e0aac17e4dbde0d661d6a"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20902/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "f03694118169e7365bbd12b6baca9521ba110920818e81953647198c0f2304bc"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20902/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "56562e46f855adce4139a595f5ae9bd3820a395eecdda666bcad74d07cb9f582"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20902/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "2d4e49b088eb267a9b30b4b2b66642d255f04b9084212d9004a38c8a5cdabe34"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k02445/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "97a0d36e9d97e3d6444db07b3063cfb4b06e0abdd1d48836b6b96b96bc0f5434"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20601/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "9d5b6a090bb088638f23c64cf1f0af4cd7c043bfdea01334ba4b80c411af3b4f"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20601/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "4b8b5b82e74d3190a33a4fabffb3db7b7e10c35f7bcff078f32cd73a70f59c88"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20601/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "7c5d49450e249404421e543714d61ad7438a637eac7a067acb3fd6d9d80e669f"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20601/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "37e71714377d9b37754856feff2c2054876d96f961ca303fcc234912cd5a22c6"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k10409/01.webp",
+    "ok": true,
+    "width": 696,
+    "height": 696,
+    "sha256": "dc895b8d7c005b72780ad81eb58a574c4c95772d3a57c4361f3d9ab63260c80b"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k10409/02.webp",
+    "ok": true,
+    "width": 696,
+    "height": 696,
+    "sha256": "64c30f99a1cbeb3ba6a88a107df754bcbfaeae71951678bd1285deef5b38fc52"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k10409/03.webp",
+    "ok": true,
+    "width": 696,
+    "height": 696,
+    "sha256": "8aea8f5608fc6ea19016df3def81056a6657244fd756157af4328d322a192621"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15601/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "d86a34044474518748e19a30f47447f29bc5f2f0d1c08194bd8a65696a5e7c07"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15601/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "dad858761014b7ef5e33c010f212b68a8ea0f1d2c3f0d2cba190aee496ddfb55"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15601/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "a99209d9799a4b4831265b70b79ce3133f82b19edceae1c3b8eeb1e05ec6d238"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15601/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "93652af374720ee60b85754f683725d69efed512407bb89960b23c6f4efdf541"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20303/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "f065aad309b886911711134c16c2d11bfb23ca33def0d2403ca6b3b19a33e92b"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20303/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "2a9e604f24b37103de605c2b80746400b594860d09b92529cffa075873f6dfa3"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20303/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "2a6bfa4512f988482ac0fe53d8898cc133d394e757f7bf92636d2ffbf727a230"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20303/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "d9ebf6a1452eaafd44b506fb8d16d2de7de5f212698e0fb6d8c1066a39e1661b"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k12702/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "a1b90488b455f24f735ec6202c30c660a1516715fe20259e1b37eca406cc8b8c"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k12702/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "50be6e7372973df03662dadf91d006dcc071fdf62038279b3c6afb4ac94c7356"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k12702/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "a377b620e7a29bba42d46dc3ba64c04f915380770876c8024848d409507e133b"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k12702/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "473150e4012684a0c2570e80223e63a7492740604227ab04628a5d7a104baa1a"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k209e/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "b48c0758084a7d8a52f57f900f0b2ec774ce52da766e833540724189c497b62b"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k209e/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "7202c489bd6eec0abe160ba0187855f81f2a498b00bb3b3f5d0affd0e2a908d3"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k19301/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "08d2746fbcf7108e36c5bb1c8f2de294d68c89542c828c96dbc01414045626b1"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k19301/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "6994a75b090e342be48556cedc7e5294e5e6d86337de0cfd95920ae6208a7c1c"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k19301/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "b5aea7e959c7cf65650720e5257708a4a5bc213eb5a9581a3a60ab7db95c81d9"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k202e/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "74e6866b109a848039c3d6d0bd070b6f4059e858d0e992345d1a7997e3008796"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k202e/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "411d00024c37238eb09f5694d1c93b4414f33aba2f613f01c1df792c7f90303b"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k202e/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "a9c554bd18c01c9a03f1a2d655c831497a63065fbb4bacf2b31b1bf708919518"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k14603/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "efff7bd7bb77ea4553446d393f39886bfbaf5361d953a789671a58078e78d0a1"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k14603/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "457ffeece931a7bfb40e4f9c0a21fa78f04b48faae066f39cba712f49880b0ea"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k14603/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "525c30e8a6be05814d27e8b408945277a5267178c3f44778e87496d6ab631455"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k14603/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "e77898e363c664f1f8dcfccdee049cb9e38d73f332dc849cf1217034494ea88c"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20201/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "7cf8c270e7a7a2c20928fc9473c4edcfc4488023eebbeba31f5ae43607554b65"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20201/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "66733a4f661c66411982cfc9be727533994055f4db84d1ab7c54f51ef59bcca9"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20201/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "925827bc601d5f3663cd115dbb76e0f58294d782dafbb0f0de04e354a03d0f28"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20201/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "36420afa0f3ad471e9127f3d7b8edc2f9a2ab68d3076d2d4f34344f71272156b"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20603/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "ef1f75a2185cb0cee5985b5ceaee55564c38a04987ab9d4f3f3e2812b961c82a"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20603/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "4a2444d74e6dae0b0390906aac32efc9c554db25814f029b9d7cc4e2482fa9bb"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20603/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "04e785623c082905d36cf3eae7207f45c1b1069dfaeadebc6df46197c025c23f"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20603/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "234787434b871ee1b11dd2aa2e632758ffefd0b896b3bcb0a568b9df4eef22a1"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15303/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "5151eb7b86ad8950288cc138aa99e1b6c02533c6fcc9813819f0458d5b2f8d99"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k16002-1/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "c848f0b7807dd800812b6a4a2f3dec1e01a1c3c60ccf3482be43d437cb9b1132"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k16002-1/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "6db31350c6df57d38b12012dcfdbfc7f28df5d4e77b2de070da28ff33106d275"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k16002-1/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "207bac297b175cc937d0e0539a023539c90a76d80d732aa63294740994f2b053"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k16002-1/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "1ea95d7117814a9b829e95d7013ac02829e5eeeefa6021a1212019d6b2254aec"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15702/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "9f934c7f0bca314b256b21175e8fdfcf0fa543db7c187572fec29cb6f07349b7"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15702/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "a8248597d5c2ca583d207293d660232b70f9cb2a4ee335d715707093f080c1f0"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15702/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "7e166e4a9d2f5b6b5e2ed720e8b87e5a99b7afd45cb9a213a1a8be41d325f4e8"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15702/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "34e5d4a05a9c6cbfa219d953576d9e770fdfcd890b3b1b5c534e3c9ff866aaad"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k10410/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "f6ec9f242880d51154d790fae6ee20e17787e05161ef4bef3fc1f4c2c1e81dc2"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k10410/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "265469c4791990401e1faefa796c43817e6d7865a92a599855ff8bb7e1e33cea"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k10410/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "edb86e5483646068cc0df26b7727b226b2b614dba2d7cce52c031ba75ff3a93e"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k10410/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "bb09d4efcd5a5cab40651ad34872cddb0a9e2bdad0465056f963b3fbe601a61a"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20301/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "49a277d3a2e0f626fcb9c566f76b28641e991080754d5d06045d86078fb6f3e2"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20301/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "d576e569bcd8e9d74173f4019ad7bc69b2d8484323dc2de2222dd68b480d6e9f"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20301/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "be0f3873bebedb5f7fd9ac0e714335db97e8f6ceb5b10b9553256b382aa76347"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k14601/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "8271366fa4921026f378dab48b81938e1b45ebc2804d39d5afdea580ad11aa4b"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k14601/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "efdb4c4807e5222e65b1d91bb4cd4aab3ae3d788c5dff8fb4214b767ebc3de1c"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k14601/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "cb7408b81e2377c2923a6c6a9d6272734f81db687714412eed152598f6334b28"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k14601/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "86c8b98450fb9eab43ff4a435f5d66e357362385b2e9259fafb62d6914437722"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15703/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "c58c34dcfc87748a215571c7caf093420ffb90111d94df00803c32f3469d7307"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15703/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "b04a9429eb945bea07f5b11af7b0ac5f0f103096742d06114871e949d89bef38"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15703/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "2cf3253b98d505340ae7de9d9d8cbf150a4c3a566670cf9b5c6edb39a9a09650"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15703/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "4e15a56a39c5b46b96a24491cb7ab4098d64705691d3a9da897aafa338fef245"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k202d/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "80ca4c095bf11a2567f9ce84e9006a4b71d599732f95b57ce7956c2f12f97845"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k202d/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "7cc2b4b72ec5689f57a78f5d1b6afecbafc0fb9231280b5c94333b7e19375d67"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15802/01.webp",
+    "ok": true,
+    "width": 696,
+    "height": 696,
+    "sha256": "5dcfc186e3762f7dc62a5cb3cdcc9bc2e7b0fcd59e4bc9cc24d3b3097e1feb77"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15802/02.webp",
+    "ok": true,
+    "width": 696,
+    "height": 696,
+    "sha256": "2fec53bb1a14660025f2cbad76e6f5286e7b376b0748ec4723c1c4a88c781bdf"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15802/03.webp",
+    "ok": true,
+    "width": 696,
+    "height": 696,
+    "sha256": "ec2c1c1b16ea591e73a8237ec9a35e1840c0f34f5ef653c14fe03e7f52613495"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15802/04.webp",
+    "ok": true,
+    "width": 696,
+    "height": 696,
+    "sha256": "cd8d99b065ae7ae43d8736f6f43db1c556365a6eda0aff77fece99debc8688dd"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20102/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "789e5372823fc076237bc5a100585e035b30619982005bd231903f5856cded06"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20102/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "6de9009cfba99c77d6c8d2bb149fc8c72c9e63cd58a8a7536d55a138fe8f45a1"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20102/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "1c19556d88d3a6d290861b7ad433428fa14906f90a4779863712ed57d41c6021"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15301/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "7c63f41154b8d50e02f708c888360d87c568bbbdd6e8249ba8d7e57c7c743e9c"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15301/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "d2c1622d980ef5bd8ec5aa2466249eedb84928ab048a58e501c1d84238d2cf82"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15301/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "6d3f2bc1bad3c96f461348aa8d33c7cf094325d43509095358de89fa3d91295e"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15804/01.webp",
+    "ok": true,
+    "width": 696,
+    "height": 696,
+    "sha256": "202733ae69152b64c32d4a3e6e8e168fc54edda350b9fbc1d591588fef111dfa"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15804/02.webp",
+    "ok": true,
+    "width": 696,
+    "height": 696,
+    "sha256": "68cb86b0dd291b9db1a7efe2bf059d7ecc980bfde5c84fd6dfa1db4cf50d2478"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15804/03.webp",
+    "ok": true,
+    "width": 696,
+    "height": 696,
+    "sha256": "1774d643c745d71e1aa77318b3ceecdedcbabd9debe4126be79b3061ea85969f"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15804/04.webp",
+    "ok": true,
+    "width": 696,
+    "height": 696,
+    "sha256": "f392b04cfbb9566273f559799e23b4b90d3ed4ed2e4f5fa751c3213df09a7cd8"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k09606/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "52956fa4c14390fbcb27c2d0cb76057588ecd908930b93a3be309e27db1450c9"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k09606/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "aa29ee5f18752a509131e9a9d5a53781ac13cb9f0d2dfc9054199a4e5782a572"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k09606/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "9ed793d9b02e2a018845d0505b7b2127bd2bae8e3ea994fee3e7994a83ca3943"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k09606/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "634014b7bae8f582e1081a491686ac478116dd5288b3158a07135f94c465d26e"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20202/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "522e268bcefc219562ba49579590a88738947c187f8bd4004b0e42e6a45022d4"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20202/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "654f8a79b037073a1119d688bcba1ffba645171b91fedcd91be6d3b4aed1caeb"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20202/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "f350f6d3d8e902bdce893e63bd3c759608b612492c118e642fe94cef91c21f84"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20202/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "6a059f673a593609bc49223350520b783ea097d0b661d5c70b3623ecd4a42b32"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15801/01.webp",
+    "ok": true,
+    "width": 696,
+    "height": 696,
+    "sha256": "653f2e31f5ed8a9ad6b5675ec187ff2f519ef62a499fc0624dee569e89c235c7"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15801/02.webp",
+    "ok": true,
+    "width": 696,
+    "height": 696,
+    "sha256": "8ab557769e29e46a25c5c38ffeaf19255cb5813f4cfdb23ec4cc11eecc616dd7"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15801/03.webp",
+    "ok": true,
+    "width": 696,
+    "height": 696,
+    "sha256": "1a26d20c8c755d220fa54045e615804de44b6395c3ab75fc335e5359f64ad2f8"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15801/04.webp",
+    "ok": true,
+    "width": 696,
+    "height": 696,
+    "sha256": "03cae60097f45901f19b8c4e4686ff54245fafadded376cb4122b336c16733ea"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k11901/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "652525fec8e9711af685c01af7cc2a400062d27cbd1e31b9d92fd53c9026ab79"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k11901/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "d1c08e5a33cc41d21d61f1ff05a0811e7053bb3054f03e6935de5d1252c2e35b"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k11901/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "7e2b0074a623648a366b50ec4b402a05bb5bb1e402ada972e89402dbb26bfef6"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k11901/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "f5d639b91821644f4fc3de776c2b1b4bb61ac1df3421c219f159b816d8dffa10"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k17201/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "485746bdfeb5864db568b5bf7d6695c49ade12c89125b61066af49844111e1df"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k17201/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "3491a7cbc09341bfc86eafc67f7d70ea66344add2200defc72e47eaec38b1958"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k17201/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "fadc510687a018f9e66a539f45ba280bd22d9d35fe70ad4866dae1e56c614103"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k17201/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "4c4e325382fb4d7f3bbdd52d83150026c6c5f0eb4bd765b91b465d29e8c22b2c"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k22403/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "3e67eabfc18e12fbee0c4ad36f12bda9f04320402b2c65f1993f4b6be9fd30eb"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k22403/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "dac770f02834f2a5aa7a4dbdd9e787a1f6c0ed34e3b4d2f96e2b97eb96bfc52f"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k201/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "7702b3d44794a4d10421cd39a7b3271f8e90fdf0998eb50006b6171a33f3f9c6"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k201/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "3f8cccbd9dce592d4eae782818dff3771379c0354c6907b17ad5c6da6a77ec09"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k201/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "8a7e7d82dea3d9726c2284b9d529555a7327d4d55eb06d70dc41b16682e10505"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k201/04.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "2cb0955452c5da3200d326a1ffa8dde6d64fd06fe75b09b00ba4750b3d4ea16a"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k20304/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "ceb481f7b64b1ca594f2ed3b0eb3dcb9d4c54c7fe435ac87e08d6e0ecaf49147"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k16003/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "30b856af1ea9f53cc88a935f60fbfb287325e3cdfa17862c997b65a80569f9cc"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k16003/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "93d5791930449844cd286db318e2b0a1b206e412389b3617b861f160431fb174"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15307/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "9ebc02d8ac5fcf1183bec40bd3d490613ebb89b852d33c76f5ad33393453d101"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15307/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "ba09b8600e56bb5da0490b6b192a58386359ff4ad8ce86dc03b8aad317ad768c"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15307/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "1235e60adf3225cde311d35a975be3d4841fc1ec2edab19be75aefa163957130"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15306/01.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "0a896b5aaa5c276add7613f55479390230cd3121818893dbe17e45f293026fe5"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15306/02.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "052f056d540a7403b987c910a320485280ee2372e562f8288fbba719452eca8c"
+  },
+  {
+    "path": "public/images/catalog/ninebot/ninebot-k15306/03.webp",
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "sha256": "d6c64f28b7a7ae62bab04781f2c557a6a746d214fc8acc189d7e3916b8e55319"
+  }
+]

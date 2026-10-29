@@ -1,0 +1,688 @@
+{
+  "layout": "default",
+  "data": [
+    {
+      "parameterList": {
+        "sku_33198": {
+          "sku_id": "sku_33198",
+          "button": {
+            "edition": "FX Pro",
+            "text": "立即购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10143578046322.html"
+          },
+          "button_directions": {
+            "edition": "FX Pro",
+            "text": "立即购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10143578046322.html"
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "FX Pro"
+            },
+            "price": {
+              "name": "指导价",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_0513060916": {
+                  "body_color": "#979CA0",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_1_0513060916": {
+                  "body_color": "#000000",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_2_0513060916": {
+                  "body_color": "#E9E9E9",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_3_0513060916": {
+                  "body_color": "#212121",
+                  "line_color": "#FA6F00",
+                  "select_color": ""
+                },
+                "sku_4_0513060916": {
+                  "body_color": "#46319B",
+                  "line_color": "",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/a00f0ef91e571f54248f60474241c3b7.png",
+                "//img.niucache.com/service/media/vehicle/326b21f1942849ceb86c918478a1c037.png",
+                "//img.niucache.com/service/media/vehicle/569982d50ef76e783883a8fb37d96279.png",
+                "//img.niucache.com/service/media/vehicle/4b3939a6b37e8f6b4118935cf832ec77.png",
+                "//img.niucache.com/service/media/vehicle/1d2cb9658edb1d8eee4b76faf87ef219.png",
+                "//img.niucache.com/service/media/vehicle/b479c9d50db5a5c62b10f9b84d4494db.png",
+                "//img.niucache.com/service/media/vehicle/c35cb58dc6e80029d563b9b83e01271f.png",
+                "//img.niucache.com/service/media/vehicle/374d7f15b89d6fd9d8f922c0938cd5e4.png",
+                "//img.niucache.com/service/media/vehicle/148b66a11af7ee02039f858d0f9c72e9.png",
+                "//img.niucache.com/service/media/vehicle/87f53a413c37a32d46d37710f54022cf.png",
+                "//img.niucache.com/service/media/vehicle/0070a635828e9c5ecc7d755a5becb406.png",
+                "//img.niucache.com/service/media/vehicle/c626899b73b6a9c421bb9fc102fe0c73.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/a00f0ef91e571f54248f60474241c3b7.png",
+              "//img.niucache.com/service/media/vehicle/1d2cb9658edb1d8eee4b76faf87ef219.png",
+              "//img.niucache.com/service/media/vehicle/c35cb58dc6e80029d563b9b83e01271f.png",
+              "//img.niucache.com/service/media/vehicle/148b66a11af7ee02039f858d0f9c72e9.png",
+              "//img.niucache.com/service/media/vehicle/0070a635828e9c5ecc7d755a5becb406.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "理论续航",
+                "value": "90km"
+              },
+              {
+                "name": "电池类型",
+                "value": "锂电"
+              },
+              {
+                "name": "电机功率",
+                "value": "2000W"
+              },
+              {
+                "name": "最高时速",
+                "value": "80km/h"
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "150kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "钢"
+              },
+              {
+                "name": "减震",
+                "value": "前：液压阻尼，80mm液压阻尼减震\n后：无需工具五级可调减震"
+              },
+              {
+                "name": "制动系统",
+                "value": "前：220盘式-碟刹 后：200盘式-碟刹"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "双通道真ABS",
+                "value": 0
+              },
+              {
+                "name": "TCS牵引力控制系统",
+                "value": 0
+              },
+              {
+                "name": "汽车级毫米波雷达",
+                "value": 0
+              },
+              {
+                "name": "汽车级全屏导航",
+                "value": 0
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "72V"
+              },
+              {
+                "name": "电池容量",
+                "value": "42Ah"
+              },
+              {
+                "name": "电池包重量",
+                "value": "28kg"
+              },
+              {
+                "name": "充电时间",
+                "value": "6小时"
+              },
+              {
+                "name": "充电方式",
+                "value": "车身充电"
+              },
+              {
+                "name": "支持速冲",
+                "value": "支持选配"
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1940mm"
+              },
+              {
+                "name": "宽",
+                "value": "755mm"
+              },
+              {
+                "name": "高",
+                "value": "1090mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "135mm"
+              },
+              {
+                "name": "轮圈尺寸",
+                "value": "12英寸"
+              }
+            ]
+          }
+        },
+        "sku_33203": {
+          "sku_id": "sku_33203",
+          "button": {
+            "edition": "FX Sport",
+            "text": "立即购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10154417329965.html"
+          },
+          "button_directions": {
+            "edition": "FX Sport",
+            "text": "",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10154417329965.html"
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "FX Sport"
+            },
+            "price": {
+              "name": "指导价",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_0513060916": {
+                  "body_color": "#979CA0",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_1_0513060916": {
+                  "body_color": "#000000",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_2_0513060916": {
+                  "body_color": "#E9E9E9",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_3_0513060916": {
+                  "body_color": "#212121",
+                  "line_color": "#FA6F00",
+                  "select_color": ""
+                },
+                "sku_4_0513060916": {
+                  "body_color": "#46319B",
+                  "line_color": "",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/a00f0ef91e571f54248f60474241c3b7.png",
+                "//img.niucache.com/service/media/vehicle/326b21f1942849ceb86c918478a1c037.png",
+                "//img.niucache.com/service/media/vehicle/569982d50ef76e783883a8fb37d96279.png",
+                "//img.niucache.com/service/media/vehicle/4b3939a6b37e8f6b4118935cf832ec77.png",
+                "//img.niucache.com/service/media/vehicle/1d2cb9658edb1d8eee4b76faf87ef219.png",
+                "//img.niucache.com/service/media/vehicle/b479c9d50db5a5c62b10f9b84d4494db.png",
+                "//img.niucache.com/service/media/vehicle/c35cb58dc6e80029d563b9b83e01271f.png",
+                "//img.niucache.com/service/media/vehicle/374d7f15b89d6fd9d8f922c0938cd5e4.png",
+                "//img.niucache.com/service/media/vehicle/148b66a11af7ee02039f858d0f9c72e9.png",
+                "//img.niucache.com/service/media/vehicle/87f53a413c37a32d46d37710f54022cf.png",
+                "//img.niucache.com/service/media/vehicle/0070a635828e9c5ecc7d755a5becb406.png",
+                "//img.niucache.com/service/media/vehicle/c626899b73b6a9c421bb9fc102fe0c73.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/a00f0ef91e571f54248f60474241c3b7.png",
+              "//img.niucache.com/service/media/vehicle/1d2cb9658edb1d8eee4b76faf87ef219.png",
+              "//img.niucache.com/service/media/vehicle/c35cb58dc6e80029d563b9b83e01271f.png",
+              "//img.niucache.com/service/media/vehicle/148b66a11af7ee02039f858d0f9c72e9.png",
+              "//img.niucache.com/service/media/vehicle/0070a635828e9c5ecc7d755a5becb406.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "理论续航",
+                "value": "73km"
+              },
+              {
+                "name": "电池类型",
+                "value": "铅酸"
+              },
+              {
+                "name": "电机功率",
+                "value": "1500W"
+              },
+              {
+                "name": "最高时速",
+                "value": "65km/h"
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "150kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "钢"
+              },
+              {
+                "name": "减震",
+                "value": "前：液压阻尼，80mm液压阻尼减震\n后：无需工具五级可调减震"
+              },
+              {
+                "name": "制动系统",
+                "value": "前：220盘式-碟刹 后：200盘式-碟刹"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "双通道真ABS",
+                "value": 0
+              },
+              {
+                "name": "TCS牵引力控制系统",
+                "value": 0
+              },
+              {
+                "name": "汽车级毫米波雷达",
+                "value": "支持选配"
+              },
+              {
+                "name": "汽车级全屏导航",
+                "value": 0
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "72V"
+              },
+              {
+                "name": "电池容量",
+                "value": "35Ah"
+              },
+              {
+                "name": "电池包重量",
+                "value": "60kg"
+              },
+              {
+                "name": "充电时间",
+                "value": "8小时"
+              },
+              {
+                "name": "充电方式",
+                "value": "车身充电"
+              },
+              {
+                "name": "支持速冲",
+                "value": "支持选配"
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1940mm"
+              },
+              {
+                "name": "宽",
+                "value": "755mm"
+              },
+              {
+                "name": "高",
+                "value": "1090mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "135mm"
+              },
+              {
+                "name": "轮圈尺寸",
+                "value": "12英寸"
+              }
+            ]
+          }
+        },
+        "sku_33208": {
+          "sku_id": "sku_33208",
+          "button": {
+            "edition": "FX Citi",
+            "text": "立即购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://3.cn/2gr-fbSf "
+          },
+          "button_directions": {
+            "edition": "FX Citi",
+            "text": "立即购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://3.cn/2gr-fbSf "
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "FX Citi"
+            },
+            "price": {
+              "name": "指导价",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_0513060916": {
+                  "body_color": "#979CA0",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_1_0513060916": {
+                  "body_color": "#000000",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_2_0513060916": {
+                  "body_color": "#E9E9E9",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_3_0513060916": {
+                  "body_color": "#212121",
+                  "line_color": "#FA6F00",
+                  "select_color": ""
+                },
+                "sku_4_0513060916": {
+                  "body_color": "#46319B",
+                  "line_color": "",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/a00f0ef91e571f54248f60474241c3b7.png",
+                "//img.niucache.com/service/media/vehicle/326b21f1942849ceb86c918478a1c037.png",
+                "//img.niucache.com/service/media/vehicle/569982d50ef76e783883a8fb37d96279.png",
+                "//img.niucache.com/service/media/vehicle/4b3939a6b37e8f6b4118935cf832ec77.png",
+                "//img.niucache.com/service/media/vehicle/1d2cb9658edb1d8eee4b76faf87ef219.png",
+                "//img.niucache.com/service/media/vehicle/b479c9d50db5a5c62b10f9b84d4494db.png",
+                "//img.niucache.com/service/media/vehicle/c35cb58dc6e80029d563b9b83e01271f.png",
+                "//img.niucache.com/service/media/vehicle/374d7f15b89d6fd9d8f922c0938cd5e4.png",
+                "//img.niucache.com/service/media/vehicle/148b66a11af7ee02039f858d0f9c72e9.png",
+                "//img.niucache.com/service/media/vehicle/87f53a413c37a32d46d37710f54022cf.png",
+                "//img.niucache.com/service/media/vehicle/0070a635828e9c5ecc7d755a5becb406.png",
+                "//img.niucache.com/service/media/vehicle/c626899b73b6a9c421bb9fc102fe0c73.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/a00f0ef91e571f54248f60474241c3b7.png",
+              "//img.niucache.com/service/media/vehicle/1d2cb9658edb1d8eee4b76faf87ef219.png",
+              "//img.niucache.com/service/media/vehicle/c35cb58dc6e80029d563b9b83e01271f.png",
+              "//img.niucache.com/service/media/vehicle/148b66a11af7ee02039f858d0f9c72e9.png",
+              "//img.niucache.com/service/media/vehicle/0070a635828e9c5ecc7d755a5becb406.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "理论续航",
+                "value": "77km"
+              },
+              {
+                "name": "电池类型",
+                "value": "铅酸"
+              },
+              {
+                "name": "电机功率",
+                "value": "1200W"
+              },
+              {
+                "name": "最高时速",
+                "value": "52km/h"
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "150kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "钢"
+              },
+              {
+                "name": "减震",
+                "value": "前：液压阻尼，80mm液压阻尼减震\n后：无需工具五级可调减震"
+              },
+              {
+                "name": "制动系统",
+                "value": "前：220盘式-碟刹 后：180盘式-碟刹"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "双通道真ABS",
+                "value": 1
+              },
+              {
+                "name": "TCS牵引力控制系统",
+                "value": 0
+              },
+              {
+                "name": "汽车级毫米波雷达",
+                "value": "支持选配"
+              },
+              {
+                "name": "汽车级全屏导航",
+                "value": 0
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "72V"
+              },
+              {
+                "name": "电池容量",
+                "value": "26Ah"
+              },
+              {
+                "name": "电池包重量",
+                "value": "42kg"
+              },
+              {
+                "name": "充电时间",
+                "value": "8小时"
+              },
+              {
+                "name": "充电方式",
+                "value": "车身充电"
+              },
+              {
+                "name": "支持速冲",
+                "value": "支持选配"
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1935mm"
+              },
+              {
+                "name": "宽",
+                "value": "710mm"
+              },
+              {
+                "name": "高",
+                "value": "1115mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "135mm"
+              },
+              {
+                "name": "轮圈尺寸",
+                "value": "12英寸"
+              }
+            ]
+          }
+        }
+      },
+      "parameterImageList": {
+        "all_colors": [
+          {
+            "body_color": "#979CA0",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#000000",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#E9E9E9",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#212121",
+            "line_color": "#FA6F00",
+            "select_color": ""
+          },
+          {
+            "body_color": "#46319B",
+            "line_color": "",
+            "select_color": ""
+          }
+        ],
+        "all_images": [
+          "//img.niucache.com/service/media/vehicle/a00f0ef91e571f54248f60474241c3b7.png",
+          "//img.niucache.com/service/media/vehicle/326b21f1942849ceb86c918478a1c037.png",
+          "//img.niucache.com/service/media/vehicle/569982d50ef76e783883a8fb37d96279.png",
+          "//img.niucache.com/service/media/vehicle/4b3939a6b37e8f6b4118935cf832ec77.png",
+          "//img.niucache.com/service/media/vehicle/1d2cb9658edb1d8eee4b76faf87ef219.png",
+          "//img.niucache.com/service/media/vehicle/b479c9d50db5a5c62b10f9b84d4494db.png",
+          "//img.niucache.com/service/media/vehicle/c35cb58dc6e80029d563b9b83e01271f.png",
+          "//img.niucache.com/service/media/vehicle/374d7f15b89d6fd9d8f922c0938cd5e4.png",
+          "//img.niucache.com/service/media/vehicle/148b66a11af7ee02039f858d0f9c72e9.png",
+          "//img.niucache.com/service/media/vehicle/87f53a413c37a32d46d37710f54022cf.png",
+          "//img.niucache.com/service/media/vehicle/0070a635828e9c5ecc7d755a5becb406.png",
+          "//img.niucache.com/service/media/vehicle/c626899b73b6a9c421bb9fc102fe0c73.png"
+        ],
+        "grey_logo": "//img.niucache.com/service/media/vehicle/857e8dc48bb85d886f5386799f0659f8.svg",
+        "direction_url": "",
+        "logo": "//img.niucache.com/service/media/vehicle/197b36a8736abc9a74641031681eb6b2.svg",
+        "button": {
+          "bg_color": "#df001f",
+          "purchase_link": "https://3.cn/2gre-SCg",
+          "word": "购买",
+          "word_color": "#ffffff"
+        },
+        "price": "",
+        "selling": []
+      }
+    }
+  ],
+  "fetch": [],
+  "error": null,
+  "state": {
+    "userId": null,
+    "usId": null,
+    "isMobile": false,
+    "isWechat": false,
+    "isIOS": false,
+    "isSafari": false,
+    "isMac": null,
+    "accesstoken": null,
+    "isSamsung": null,
+    "compareVehicleIds": null,
+    "countryList": [],
+    "openId": null,
+    "isAndroidChrome": false
+  },
+  "serverRendered": true,
+  "routePath": "/product/fx-pro"
+}

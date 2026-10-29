@@ -1,0 +1,660 @@
+{
+  "layout": "default",
+  "data": [
+    {
+      "parameterList": {
+        "sku_34512": {
+          "sku_id": "sku_34512",
+          "button": {
+            "edition": "O2 氧气 Pro 宋雨琦联名款",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10237077532476.html?pcdk=IXs8MgeNCwsgRUe17Hyw0yqdA1taVJZ-D1rY2vKabeI%3D.M8AW.sbc1"
+          },
+          "button_directions": {
+            "edition": "O2 氧气 Pro 宋雨琦联名款",
+            "text": "",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": ""
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "O2 氧气 Pro 宋雨琦联名款"
+            },
+            "price": {
+              "name": "指导价",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_1015101025": {
+                  "body_color": "#FFE0E6",
+                  "line_color": "#FAB3AE",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/21c0885666fc885796571400396ca075.png",
+                "//img.niucache.com/service/media/vehicle/d24f06a7efc76a45d0cf7e03af8757c3.png",
+                "//img.niucache.com/service/media/vehicle/38c1261778bea38baa349ee40d93fe4c.png",
+                "//img.niucache.com/service/media/vehicle/c9c6956903423ade57cf5ee18c4e1acb.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/21c0885666fc885796571400396ca075.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "理论续航",
+                "value": "108KM"
+              },
+              {
+                "name": "电池科技",
+                "value": "锂电"
+              },
+              {
+                "name": "电机功率",
+                "value": "1200W"
+              },
+              {
+                "name": "最高时速",
+                "value": "52km/h"
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "150kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "碳素钢"
+              },
+              {
+                "name": "减震",
+                "value": "前：液力阻尼式  后：弹簧-液力阻尼式"
+              },
+              {
+                "name": "制动系统",
+                "value": "前后双碟"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "双通道真ABS",
+                "value": 1
+              },
+              {
+                "name": "TCS牵引力控制系统",
+                "value": 0
+              },
+              {
+                "name": "汽车级毫米波雷达",
+                "value": 0
+              },
+              {
+                "name": "汽车级全屏导航",
+                "value": 0
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "72V"
+              },
+              {
+                "name": "电池包重量",
+                "value": "17kg"
+              },
+              {
+                "name": "充电时间",
+                "value": "8小时"
+              },
+              {
+                "name": "充电方式",
+                "value": "车身充电"
+              },
+              {
+                "name": "支持速充",
+                "value": 1
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1565mm"
+              },
+              {
+                "name": "宽",
+                "value": "750mm"
+              },
+              {
+                "name": "高",
+                "value": "1090mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "110mm"
+              },
+              {
+                "name": "轮圈尺寸",
+                "value": "前:3.0-8 后:80/80-10"
+              }
+            ]
+          }
+        },
+        "sku_34513": {
+          "sku_id": "sku_34513",
+          "button": {
+            "edition": "O2 氧气 Sport 宋雨琦联名款",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10237076636634.html?pcdk=IXs8MgeNCwsgRUe17Hyw057r2XIAsZMdWZrdiRxcBww%3D.M8AW.sbc1"
+          },
+          "button_directions": {
+            "edition": "",
+            "text": "",
+            "text_color": "",
+            "button_color": "",
+            "link": ""
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "O2 氧气 Sport 宋雨琦联名款"
+            },
+            "price": {
+              "name": "指导价",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_1015101025": {
+                  "body_color": "#FFE0E6",
+                  "line_color": "#FAB3AE",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/21c0885666fc885796571400396ca075.png",
+                "//img.niucache.com/service/media/vehicle/d24f06a7efc76a45d0cf7e03af8757c3.png",
+                "//img.niucache.com/service/media/vehicle/38c1261778bea38baa349ee40d93fe4c.png",
+                "//img.niucache.com/service/media/vehicle/c9c6956903423ade57cf5ee18c4e1acb.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/21c0885666fc885796571400396ca075.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "理论续航",
+                "value": "70KM"
+              },
+              {
+                "name": "电池科技",
+                "value": "铅酸"
+              },
+              {
+                "name": "电机功率",
+                "value": "1200W"
+              },
+              {
+                "name": "最高时速",
+                "value": "52km/h"
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "150kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "碳素钢"
+              },
+              {
+                "name": "减震",
+                "value": "前：液力阻尼式  后：弹簧-液力阻尼式"
+              },
+              {
+                "name": "制动系统",
+                "value": "前后双碟"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "双通道真ABS",
+                "value": 1
+              },
+              {
+                "name": "TCS牵引力控制系统",
+                "value": 0
+              },
+              {
+                "name": "汽车级毫米波雷达",
+                "value": 1
+              },
+              {
+                "name": "汽车级全屏导航",
+                "value": 0
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "72V"
+              },
+              {
+                "name": "电池包重量",
+                "value": "38.4kg"
+              },
+              {
+                "name": "充电时间",
+                "value": "8小时"
+              },
+              {
+                "name": "充电方式",
+                "value": "车身充电"
+              },
+              {
+                "name": "支持速充",
+                "value": 1
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1565mm"
+              },
+              {
+                "name": "宽",
+                "value": "750mm"
+              },
+              {
+                "name": "高",
+                "value": "1090mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "110mm"
+              },
+              {
+                "name": "轮圈尺寸",
+                "value": "前:3.0-8 后:80/80-10"
+              }
+            ]
+          }
+        }
+      },
+      "parameterImageList": {
+        "all_colors": [
+          {
+            "body_color": "#FFE0E6",
+            "line_color": "#FAB3AE",
+            "select_color": ""
+          }
+        ],
+        "all_images": [
+          "//img.niucache.com/service/media/vehicle/21c0885666fc885796571400396ca075.png",
+          "//img.niucache.com/service/media/vehicle/d24f06a7efc76a45d0cf7e03af8757c3.png",
+          "//img.niucache.com/service/media/vehicle/38c1261778bea38baa349ee40d93fe4c.png",
+          "//img.niucache.com/service/media/vehicle/c9c6956903423ade57cf5ee18c4e1acb.png"
+        ],
+        "grey_logo": "//img.niucache.com/service/media/vehicle/ae323f4d09cc238996fe05fc79b9c139.svg",
+        "direction_url": "",
+        "logo": "//img.niucache.com/service/media/vehicle/0fe9557235619a655739bef296b3401e.svg",
+        "button": {
+          "bg_color": "#DF001F",
+          "purchase_link": "https://item.jd.com/10237077532476.html?pcdk=IXs8MgeNCwsgRUe17Hyw0yqdA1taVJZ-D1rY2vKabeI%3D.M8AW.sbc1",
+          "word": "购买",
+          "word_color": "#FFFFFF"
+        },
+        "price": "",
+        "selling": []
+      },
+      "type": "o2-oxygen-yuqi",
+      "typetitle": "O2 Oxygen",
+      "urllist": [
+        {
+          "id": 2704,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/10/e37d4ff567d1cbfabf42096d80fed94a.jpg",
+          "sort": 1
+        },
+        {
+          "id": 2705,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/23e0e7645fbff6d20de99a5256e23990.jpg",
+          "sort": 2
+        },
+        {
+          "id": 2706,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/14a827580be640e5c71c654c714f8fbb.jpg",
+          "sort": 3
+        },
+        {
+          "id": 2707,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/e697e6b55881ddae4cfbbf45bbfc338b.jpg",
+          "sort": 4
+        },
+        {
+          "id": 2708,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/8696dcad8006cca352ae60eb2424ba65.jpg",
+          "sort": 5
+        },
+        {
+          "id": 2709,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/b7911556989c019ace2d08b431e97db0.jpg",
+          "sort": 6
+        },
+        {
+          "id": 2710,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/bf03adb1c4f15d07c96b2e41562000d3.jpg",
+          "sort": 7
+        },
+        {
+          "id": 2711,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/5da3c4217446c51263b4b21fdda4a9ff.jpg",
+          "sort": 8
+        },
+        {
+          "id": 2712,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/d7ec02bdc2e94ef6c2eb7ba237dc9fbd.jpg",
+          "sort": 9
+        },
+        {
+          "id": 2713,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/09a26dd20c9a7d84a5cddf29325ac374.jpg",
+          "sort": 10
+        },
+        {
+          "id": 2714,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/931018fb200238846348d38b4dd26d55.jpg",
+          "sort": 11
+        },
+        {
+          "id": 2715,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/87b3dacdff889d956f12d0fbb158bd86.jpg",
+          "sort": 12
+        },
+        {
+          "id": 2716,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/4173aa767334465ea17815287fa144ca.jpg",
+          "sort": 13
+        },
+        {
+          "id": 2717,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/67eedb2840907e3297bd7d3d4f3cd3db.jpg",
+          "sort": 14
+        },
+        {
+          "id": 2718,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/b85c3d2c04d46b1f39b91904cd2120eb.jpg",
+          "sort": 15
+        },
+        {
+          "id": 2719,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/50295cf9c0269d67d6f9b4181aed485e.jpg",
+          "sort": 16
+        },
+        {
+          "id": 2720,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/ad2b7aa4c10f3f64e7e876bde28cb678.jpg",
+          "sort": 17
+        },
+        {
+          "id": 2721,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/3cd2fc6929d7309cac9b522a55e09a60.jpg",
+          "sort": 18
+        },
+        {
+          "id": 2722,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/d8f1761659887334c40d108207936eb7.jpg",
+          "sort": 19
+        },
+        {
+          "id": 2723,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/1334556278433595ac8c0a5c803ccdde.jpg",
+          "sort": 20
+        },
+        {
+          "id": 2724,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/8c8de70691b18197ed9b5165f77bc8b5.jpg",
+          "sort": 21
+        },
+        {
+          "id": 2725,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/e45134564506efc546c89f1c2e7ed383.jpg",
+          "sort": 22
+        },
+        {
+          "id": 2726,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/141e880440d63c91c2bd428e3eb3e6a8.jpg",
+          "sort": 23
+        },
+        {
+          "id": 2727,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/7d69d008b5eabd7d3be4be933fb8c0c1.jpg",
+          "sort": 24
+        },
+        {
+          "id": 2728,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/4c8c2448fdfdb10678c44bdcf02b33de.jpg",
+          "sort": 25
+        },
+        {
+          "id": 2729,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/7b567c6a393efafd1a59ebb7fa3161fe.jpg",
+          "sort": 26
+        },
+        {
+          "id": 2730,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/dfd8d3c678fd2fa7c8e21b449b56b267.jpg",
+          "sort": 27
+        },
+        {
+          "id": 2731,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/ee0269408cc742e758a45dc93359d0b4.jpg",
+          "sort": 28
+        },
+        {
+          "id": 2732,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/9c63c958d2d48a8dff804b30b68cb2ff.jpg",
+          "sort": 29
+        },
+        {
+          "id": 2733,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/43afa909326a51b63787214f97d411b7.jpg",
+          "sort": 30
+        }
+      ]
+    }
+  ],
+  "fetch": [],
+  "error": null,
+  "state": {
+    "userId": null,
+    "usId": null,
+    "isMobile": false,
+    "isWechat": false,
+    "isIOS": false,
+    "isSafari": false,
+    "isMac": null,
+    "accesstoken": null,
+    "isSamsung": null,
+    "compareVehicleIds": null,
+    "countryList": [],
+    "openId": null,
+    "isAndroidChrome": false
+  },
+  "serverRendered": true,
+  "routePath": "/products/o2-oxygen-yuqi"
+}

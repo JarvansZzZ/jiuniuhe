@@ -1,0 +1,279 @@
+{
+  "layout": "default",
+  "data": [
+    {
+      "parameterList": {
+        "sku_33954": {
+          "sku_id": "sku_33954",
+          "button": {
+            "edition": "NS Citi",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://detail.tmall.com/item.htm?abbucket=5&id=960759299128&pisk=gpAiDIN47MZWDaN_IqfsCbN3i4MLC11fDnFADsIqLMSQDFH16KcDy38t5EnXmKxPvSBtCn3DKn-CBGRDlSb2ung1DVMp5F1fg0nJmbL65-f4CnAggy8eRayV7vBwDdkjo0n-wjDa8smi2nQn5BvFra5V7tPV82bczP5VQGzE-Z7YbiSw0euhAZQ47NPaLk7fyo54QZ8UYaQGuPyNQ9zFAZ5V0n5q-6SCusS20slOTRSJgLREmv3WY56peBbGIg8nFSPcu7BO4BSQg0RhS0sy7MV4gGhWy2820mVAaLtHiT-jiW19rp5FSp04LGWkQhQBmbVNbBYw_GdZv5Iw1eJJMHu4giveUTswdDGfQLt9U9AKjWsyLeYAKpgbBip5un6WM0N1bE8WNLCoirbHEe5h4wyUUDM8GwuvT-wfQw_h24BbDfHyfp4--22JlO7CPg3n--abVSP1x203eAWNRasR.&rn=01e39f33e44de19063ffa5fe28b4f449&spm=a1z10.3-b.w4011-23251775644.12.419c2200YE8r3k&skuId=5896584436382"
+          },
+          "button_directions": {
+            "edition": "NS Citi",
+            "text": "",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": ""
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "NS Citi"
+            },
+            "price": {
+              "name": "指导价",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_0815112911": {
+                  "body_color": "#FF7D00",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_1_0815112911": {
+                  "body_color": "#F5F5F5",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_2_0815112911": {
+                  "body_color": "#606060",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_3_0815112911": {
+                  "body_color": "#969695",
+                  "line_color": "",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/2f749de70985edcfd90911f9768138e7.png",
+                "//img.niucache.com/service/media/vehicle/0749e523d344023c2f51ec6095337eab.png",
+                "//img.niucache.com/service/media/vehicle/d64a7ffa4541b2f3f8e57b743dcd991b.png",
+                "//img.niucache.com/service/media/vehicle/d1bfbe1918b3d156b37e679e689a3245.png",
+                "//img.niucache.com/service/media/vehicle/aea19f31daf73f57f2835b4d299c7513.png",
+                "//img.niucache.com/service/media/vehicle/628bcf0762784080640b6a001017716c.png",
+                "//img.niucache.com/service/media/vehicle/a28e04d4b16c59b926ff4a5b0c9cd830.png",
+                "//img.niucache.com/service/media/vehicle/c9ac819f0617cd65057e5b09727b52ec.png",
+                "//img.niucache.com/service/media/vehicle/77529d82caae0dd44b431b5ab7f84806.png",
+                "//img.niucache.com/service/media/vehicle/0045b815c676ddca16a5103bef3041ac.png",
+                "//img.niucache.com/service/media/vehicle/025731665c78c1c8edb79914bcd6d4d7.png",
+                "//img.niucache.com/service/media/vehicle/54b3acf608ea404cc501a982e320ea18.png",
+                "//img.niucache.com/service/media/vehicle/d832cc6e66d566ba19061f97f57e9d7d.png",
+                "//img.niucache.com/service/media/vehicle/cd09c1d31f0f991d9ef6f4dd0b3e56e5.png",
+                "//img.niucache.com/service/media/vehicle/4c4619d31c7e3b64d53a92902563e9d3.png",
+                "//img.niucache.com/service/media/vehicle/b642dd489e305da70b3dec1dd0e717b8.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/2f749de70985edcfd90911f9768138e7.png",
+              "//img.niucache.com/service/media/vehicle/aea19f31daf73f57f2835b4d299c7513.png",
+              "//img.niucache.com/service/media/vehicle/77529d82caae0dd44b431b5ab7f84806.png",
+              "//img.niucache.com/service/media/vehicle/d832cc6e66d566ba19061f97f57e9d7d.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "理论续航",
+                "value": "52KM"
+              },
+              {
+                "name": "电池科技",
+                "value": "铅酸"
+              },
+              {
+                "name": "电机功率",
+                "value": "1200W"
+              },
+              {
+                "name": "最高时速",
+                "value": "52km/h"
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "75kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "碳素钢"
+              },
+              {
+                "name": "减震",
+                "value": "前：液压阻尼式\n后：套筒油阻尼式"
+              },
+              {
+                "name": "制动系统",
+                "value": "前碟后鼓"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "双通道真ABS",
+                "value": 1
+              },
+              {
+                "name": "TCS牵引力控制系统",
+                "value": 0
+              },
+              {
+                "name": "汽车级毫米波雷达",
+                "value": 1
+              },
+              {
+                "name": "汽车级全屏导航",
+                "value": 0
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "72V"
+              },
+              {
+                "name": "电池包重量",
+                "value": "15.6kg"
+              },
+              {
+                "name": "充电时间",
+                "value": "7小时"
+              },
+              {
+                "name": "充电方式",
+                "value": "车身充电"
+              },
+              {
+                "name": "支持速充",
+                "value": 1
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1774mm"
+              },
+              {
+                "name": "宽",
+                "value": "725mm"
+              },
+              {
+                "name": "高",
+                "value": "1100mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "130mm"
+              },
+              {
+                "name": "轮圈尺寸",
+                "value": "12英寸"
+              }
+            ]
+          }
+        }
+      },
+      "parameterImageList": {
+        "all_colors": [
+          {
+            "body_color": "#FF7D00",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#F5F5F5",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#606060",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#969695",
+            "line_color": "",
+            "select_color": ""
+          }
+        ],
+        "all_images": [
+          "//img.niucache.com/service/media/vehicle/2f749de70985edcfd90911f9768138e7.png",
+          "//img.niucache.com/service/media/vehicle/0749e523d344023c2f51ec6095337eab.png",
+          "//img.niucache.com/service/media/vehicle/d64a7ffa4541b2f3f8e57b743dcd991b.png",
+          "//img.niucache.com/service/media/vehicle/d1bfbe1918b3d156b37e679e689a3245.png",
+          "//img.niucache.com/service/media/vehicle/aea19f31daf73f57f2835b4d299c7513.png",
+          "//img.niucache.com/service/media/vehicle/628bcf0762784080640b6a001017716c.png",
+          "//img.niucache.com/service/media/vehicle/a28e04d4b16c59b926ff4a5b0c9cd830.png",
+          "//img.niucache.com/service/media/vehicle/c9ac819f0617cd65057e5b09727b52ec.png",
+          "//img.niucache.com/service/media/vehicle/77529d82caae0dd44b431b5ab7f84806.png",
+          "//img.niucache.com/service/media/vehicle/0045b815c676ddca16a5103bef3041ac.png",
+          "//img.niucache.com/service/media/vehicle/025731665c78c1c8edb79914bcd6d4d7.png",
+          "//img.niucache.com/service/media/vehicle/54b3acf608ea404cc501a982e320ea18.png",
+          "//img.niucache.com/service/media/vehicle/d832cc6e66d566ba19061f97f57e9d7d.png",
+          "//img.niucache.com/service/media/vehicle/cd09c1d31f0f991d9ef6f4dd0b3e56e5.png",
+          "//img.niucache.com/service/media/vehicle/4c4619d31c7e3b64d53a92902563e9d3.png",
+          "//img.niucache.com/service/media/vehicle/b642dd489e305da70b3dec1dd0e717b8.png"
+        ],
+        "grey_logo": "//img.niucache.com/service/media/vehicle/f408c62618391d2ad664f1ed787e99c4.svg",
+        "direction_url": "",
+        "logo": "//img.niucache.com/service/media/vehicle/a862c964eaee837f6ed617b13d8f014b.svg",
+        "button": {
+          "bg_color": "#DF001F",
+          "purchase_link": "https://detail.tmall.com/item.htm?abbucket=5&id=960759299128&pisk=gpAiDIN47MZWDaN_IqfsCbN3i4MLC11fDnFADsIqLMSQDFH16KcDy38t5EnXmKxPvSBtCn3DKn-CBGRDlSb2ung1DVMp5F1fg0nJmbL65-f4CnAggy8eRayV7vBwDdkjo0n-wjDa8smi2nQn5BvFra5V7tPV82bczP5VQGzE-Z7YbiSw0euhAZQ47NPaLk7fyo54QZ8UYaQGuPyNQ9zFAZ5V0n5q-6SCusS20slOTRSJgLREmv3WY56peBbGIg8nFSPcu7BO4BSQg0RhS0sy7MV4gGhWy2820mVAaLtHiT-jiW19rp5FSp04LGWkQhQBmbVNbBYw_GdZv5Iw1eJJMHu4giveUTswdDGfQLt9U9AKjWsyLeYAKpgbBip5un6WM0N1bE8WNLCoirbHEe5h4wyUUDM8GwuvT-wfQw_h24BbDfHyfp4--22JlO7CPg3n--abVSP1x203eAWNRasR.&rn=01e39f33e44de19063ffa5fe28b4f449&spm=a1z10.3-b.w4011-23251775644.12.419c2200YE8r3k&skuId=5896584436382",
+          "word": "购买",
+          "word_color": "#FFFFFF"
+        },
+        "price": "",
+        "selling": []
+      },
+      "type": "ns",
+      "typetitle": "NS"
+    }
+  ],
+  "fetch": [],
+  "error": null,
+  "state": {
+    "userId": null,
+    "usId": null,
+    "isMobile": false,
+    "isWechat": false,
+    "isIOS": false,
+    "isSafari": false,
+    "isMac": null,
+    "accesstoken": null,
+    "isSamsung": null,
+    "compareVehicleIds": null,
+    "countryList": [],
+    "openId": null,
+    "isAndroidChrome": false
+  },
+  "serverRendered": true,
+  "routePath": "/product/ns"
+}

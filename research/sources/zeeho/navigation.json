@@ -1,0 +1,294 @@
+[
+  {
+    "name": "products-dm",
+    "title": "电动摩托车",
+    "categories": [
+      {
+        "name": "ae",
+        "title": "AE系列",
+        "pageLink": "/content/zeeho/cn/products-dm/ae.html",
+        "products": [
+          {
+            "image": "/content/dam/zeeho/china/products/dm/ae/ae8-s--my25/model/正右_暮光紫_ToClient.png",
+            "title": "AE8 S+ MY25",
+            "desc": "高端科技全能领袖",
+            "pageLink": "/content/zeeho/cn/products-dm/ae/ae8_s_my25.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dm/ae/ae8/model/231229_ZEEHO-AE8S+-MY24_几何灰_正左.png",
+            "title": "AE8 S+ MY24",
+            "desc": "全能 超控玩家",
+            "pageLink": "/content/zeeho/cn/products-dm/ae/ae8.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dm/ae/ae7/model/_0008_电镀银.png",
+            "title": "AE7",
+            "desc": "零帧起手",
+            "pageLink": "/content/zeeho/cn/products-dm/ae/ae7.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dm/ae/ae6/model/01_Vibran White.png",
+            "title": "AE6",
+            "desc": "潮玩，可颜可玩",
+            "pageLink": "/content/zeeho/cn/products-dm/ae/ae6.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dm/ae/ae4/model/Velocity Gray.png",
+            "title": "AE4",
+            "desc": "天生，超会跑。",
+            "pageLink": "/content/zeeho/cn/products-dm/ae/ae4.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dm/ae/ae4-my25/model/20250311_ZEEHO AE4 正左 速感灰 高配_ToClient.png",
+            "title": "AE4 MY25",
+            "desc": "低空飞行",
+            "pageLink": "/content/zeeho/cn/products-dm/ae/ae4-my25.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dm/ae/ae4-se-/棚拍图/icon.png",
+            "title": "AE4 SE+",
+            "desc": "天生超会跑",
+            "pageLink": "/content/zeeho/cn/products-dm/ae/ae4-se-.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dm/ae/ae4/2026/20260408_AE4 MAX2+ 正左 星云灰 拷贝 2.png",
+            "title": "AE4 26款",
+            "desc": "",
+            "pageLink": "/content/zeeho/cn/products-dm/ae/ae4-my26.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dm/ae/ae3/20260420_ZEEHO AE3电摩_Left_月光银.png",
+            "title": "AE3 Pro",
+            "desc": "全新AE3【 三好学生 】\r\n重新定义城市自在穿行新体验",
+            "pageLink": "/content/zeeho/cn/products-dm/ae/ae3-pro.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dm/ae/ae2-pro/20260526_ZEEHO AE2电摩_Left_钛钢灰 拷贝 2_先高760_裁宽1140.png",
+            "title": "AE2 Pro",
+            "desc": "超频时刻",
+            "pageLink": "/content/zeeho/cn/products-dm/ae/ae2-pro.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dm/ae/ae6/2026/20260725_ZEEHO AE6Ultra_Left 速感灰 拷贝 2.png",
+            "title": "AE6 26款",
+            "desc": "绝对的强者，\r\n无需喧嚣来证明存在。\r\n因为真正的统治，\r\n是于静默中，定义未来前行的姿态。\r\n\r\n我们塑造的，不止是形态。\r\n是一种，静默统治道路的姿态。\r\n\r\nAE6/为统治级的从容而生。",
+            "pageLink": "/content/zeeho/cn/products-dm/ae/ae6-26_.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dm/ae/ae3-lr/20260829_ZEEHO AE3电摩_Left 格雷灰 拷贝 2.png",
+            "title": "AE3 LR",
+            "desc": "LR，是极核长续航产品的专属标识。\r\n\r\n在延续极核驾控乐趣、设计风格与智能体验的基础上，\r\n以更充足的续航，拓展骑行的边界。\r\n从每天熟悉的路线，到收藏已久的远方，\r\n少一些充电的牵挂，多一些出发的自由。\r\n\r\n让想去的地方，成为骑得到的日常。",
+            "pageLink": "/content/zeeho/cn/products-dm/ae/ae3-lr.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dm/ae/ae4-se--升级款/20261009_ZEEHO AE4 SE+ ABS 正左 速感灰 拷贝 2.png",
+            "title": "AE4 SE+ 升级版",
+            "desc": "",
+            "pageLink": "/content/zeeho/cn/products-dm/ae/ae4-se--_.html"
+          }
+        ]
+      },
+      {
+        "name": "ez",
+        "title": "EZ系列",
+        "pageLink": "/content/zeeho/cn/products-dm/ez.html",
+        "products": [
+          {
+            "image": "/content/dam/zeeho/china/products/dm/ez/ez3/my2026/icon1.png",
+            "title": "EZ3",
+            "desc": "开新的 玩大的",
+            "pageLink": "/content/zeeho/cn/products-dm/ez/ez3.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dm/ez/ez4/model/_0000_速感灰.png",
+            "title": "EZ4",
+            "desc": "大才大用",
+            "pageLink": "/content/zeeho/cn/products-dm/ez/ez4.html"
+          }
+        ]
+      },
+      {
+        "name": "mo",
+        "title": "MO系列",
+        "pageLink": "/content/zeeho/cn/products-dm/mo.html",
+        "products": [
+          {
+            "image": "/content/dam/zeeho/china/products/dm/mo系列/mo1/model/_0002_橙.png",
+            "title": "MO1",
+            "desc": "",
+            "pageLink": "/content/zeeho/cn/products-dm/mo/mo1.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dm/mo系列/mo3/260610_ZEEHO MO3电摩_宝藏红.png",
+            "title": "MO3 Pro",
+            "desc": "尽智尽美",
+            "pageLink": "/content/zeeho/cn/products-dm/mo/mo3-pro.html"
+          }
+        ]
+      },
+      {
+        "name": "concept",
+        "title": "概念车",
+        "pageLink": "/content/zeeho/cn/products-dm/concept.html",
+        "products": [
+          {
+            "image": "/content/dam/zeeho/china/products/dm/concept/magnet/model/20250123152918.png",
+            "title": "Magnet",
+            "desc": "天生有实力 纯电新物种",
+            "pageLink": "/content/zeeho/cn/products-dm/concept/magnet.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dm/concept/cyber/model/CYBER-Concept1.png",
+            "title": "Cyber",
+            "desc": "",
+            "pageLink": "/content/zeeho/cn/products-dm/concept/cyber.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "products-dqm",
+    "title": "电动轻便摩托车",
+    "categories": [
+      {
+        "name": "ae",
+        "title": "AE系列",
+        "pageLink": "/content/zeeho/cn/products-dqm/ae.html",
+        "products": [
+          {
+            "image": "/content/dam/zeeho/china/products/dqm/ae/ae5i/model/20241028-zeeho-ae5-正左-高配版-速感灰.png",
+            "title": "AE5i Pro",
+            "desc": "生怀绝技",
+            "pageLink": "/content/zeeho/cn/products-dqm/ae/ae5i.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dqm/ae/ae7/model/_0001_电镀银.png",
+            "title": "AE7",
+            "desc": "零帧起手",
+            "pageLink": "/content/zeeho/cn/products-dqm/ae/ae7.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dqm/ae/ae3/20260422_ZEEHO AE3电轻摩_Left_月光银.png",
+            "title": "AE3 Pro",
+            "desc": "全新AE3【 三好学生 】\r\n重新定义城市自在穿行新体验",
+            "pageLink": "/content/zeeho/cn/products-dqm/ae/ae3-pro.html"
+          }
+        ]
+      },
+      {
+        "name": "ez",
+        "title": "EZ系列",
+        "pageLink": "/content/zeeho/cn/products-dqm/ez.html",
+        "products": [
+          {
+            "image": "/content/dam/zeeho/china/products/dqm/ez/ez3/model/my2026/icon.png",
+            "title": "EZ3",
+            "desc": "开新的 玩大的",
+            "pageLink": "/content/zeeho/cn/products-dqm/ez/ez3.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dqm/ez/ez4/model/_0000_速感灰.png",
+            "title": "EZ4",
+            "desc": "大才大用",
+            "pageLink": "/content/zeeho/cn/products-dqm/ez/ez4.html"
+          }
+        ]
+      },
+      {
+        "name": "mo",
+        "title": "MO系列",
+        "pageLink": "/content/zeeho/cn/products-dqm/mo.html",
+        "products": [
+          {
+            "image": "/content/dam/zeeho/china/products/dqm/mo/mo1/model/orange.png",
+            "title": "MO1",
+            "desc": "",
+            "pageLink": "/content/zeeho/cn/products-dqm/mo/mo1.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dqm/mo/mo3/260610_ZEEHO MO3电摩_樱桃红低配_Left_先高760_裁宽1140.png",
+            "title": "MO3",
+            "desc": "",
+            "pageLink": "/content/zeeho/cn/products-dqm/mo/mo3.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "products-dz",
+    "title": "新国标电动自行车",
+    "categories": [
+      {
+        "name": "ae",
+        "title": "AE系列",
+        "pageLink": "/content/zeeho/cn/products-dz/ae.html",
+        "products": [
+          {
+            "image": "/content/dam/zeeho/china/products/dz/ae/ae5i/2026/icon.png",
+            "title": "AE5i",
+            "desc": "生怀绝技",
+            "pageLink": "/content/zeeho/cn/products-dz/ae/ae5i.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dz/ae/ae-one/20260717_ZEEHO AE1_Left_赛博黄.png",
+            "title": "AE ONE",
+            "desc": "一号新秀",
+            "pageLink": "/content/zeeho/cn/products-dz/ae/ae-one.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dz/ae/ae4i/2026/星河银_Left.png",
+            "title": "AE4i Pro+",
+            "desc": "",
+            "pageLink": "/content/zeeho/cn/products-dz/ae/ae4i-pro-.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dz/ae/ae3i/AE3i_月光银_Left.png",
+            "title": "AE3i Pro",
+            "desc": "自在穿行",
+            "pageLink": "/content/zeeho/cn/products-dz/ae/ae3i.html"
+          }
+        ]
+      },
+      {
+        "name": "ez",
+        "title": "EZ系列",
+        "pageLink": "/content/zeeho/cn/products-dz/ez.html",
+        "products": [
+          {
+            "image": "/content/dam/zeeho/china/products/dz/ez/ez2i/棚拍图/EZ2i.png",
+            "title": "EZ2i",
+            "desc": "",
+            "pageLink": "/content/zeeho/cn/products-dz/ez/ez2i.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dz/ez/ez1i/棚拍图/icon.png",
+            "title": "EZ1i",
+            "desc": "EZ1i",
+            "pageLink": "/content/zeeho/cn/products-dz/ez/ez1i.html"
+          }
+        ]
+      },
+      {
+        "name": "mo",
+        "title": "MO系列",
+        "pageLink": "/content/zeeho/cn/products-dz/mo.html",
+        "products": [
+          {
+            "image": "/content/dam/zeeho/china/products/dz/mo/model/green新.png",
+            "title": "MO1i",
+            "desc": "",
+            "pageLink": "/content/zeeho/cn/products-dz/mo/mo1i.html"
+          },
+          {
+            "image": "/content/dam/zeeho/china/products/dz/mo/mo2i/260603_ZEEHO MO2i_椰奶白.png",
+            "title": "MO2i",
+            "desc": "即刻心动",
+            "pageLink": "/content/zeeho/cn/products-dz/mo/mo2i.html"
+          }
+        ]
+      }
+    ]
+  }
+]

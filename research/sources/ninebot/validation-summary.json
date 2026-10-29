@@ -1,0 +1,29 @@
+{
+  "models": 79,
+  "modelsWithSpecs": 63,
+  "saleStatus": {
+    "on_sale": 60,
+    "unconfirmed": 19
+  },
+  "vehicleClass": {
+    "motorcycle_unspecified": 3,
+    "moped": 14,
+    "motorcycle": 62
+  },
+  "priced": 4,
+  "unknownPrice": 75,
+  "galleryImages": 218,
+  "imageKinds": {
+    "official_render": 207,
+    "photo": 11
+  },
+  "imageStatus": {
+    "partial": 63,
+    "missing": 14,
+    "complete": 2
+  },
+  "sources": 61,
+  "exclusions": 75,
+  "numericSpecFieldsChecked": 504,
+  "errors": []
+}

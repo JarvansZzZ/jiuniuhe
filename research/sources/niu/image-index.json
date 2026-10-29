@@ -1,0 +1,1619 @@
+[
+  {
+    "family": "fx-marathon-plus",
+    "sku": "sku_34531",
+    "name": "FX马拉松Plus",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/c975572626113c2e070424551344f0a7.png",
+    "path": "public/images/catalog/niu/c975572626113c2e070424551344f0a7.webp"
+  },
+  {
+    "family": "fx-marathon-plus",
+    "sku": "sku_34531",
+    "name": "FX马拉松Plus",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/559c4a338395483f5612abe96ce8ad8f.png",
+    "path": "public/images/catalog/niu/559c4a338395483f5612abe96ce8ad8f.webp"
+  },
+  {
+    "family": "fx-marathon-plus",
+    "sku": "sku_34531",
+    "name": "FX马拉松Plus",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/649a2f02f7ab680a02501952d54523f3.png",
+    "path": "public/images/catalog/niu/649a2f02f7ab680a02501952d54523f3.webp"
+  },
+  {
+    "family": "fx-marathon-plus",
+    "sku": "sku_34531",
+    "name": "FX马拉松Plus",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/659d2dbe902039c84f582e1390cf9565.png",
+    "path": "public/images/catalog/niu/659d2dbe902039c84f582e1390cf9565.webp"
+  },
+  {
+    "family": "o2-oxygen-yuqi",
+    "sku": "sku_34512",
+    "name": "O2 氧气 Pro 宋雨琦联名款",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/21c0885666fc885796571400396ca075.png",
+    "path": "public/images/catalog/niu/21c0885666fc885796571400396ca075.webp"
+  },
+  {
+    "family": "o2-oxygen-yuqi",
+    "sku": "sku_34512",
+    "name": "O2 氧气 Pro 宋雨琦联名款",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/d24f06a7efc76a45d0cf7e03af8757c3.png",
+    "path": "public/images/catalog/niu/d24f06a7efc76a45d0cf7e03af8757c3.webp"
+  },
+  {
+    "family": "o2-oxygen-yuqi",
+    "sku": "sku_34512",
+    "name": "O2 氧气 Pro 宋雨琦联名款",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/38c1261778bea38baa349ee40d93fe4c.png",
+    "path": "public/images/catalog/niu/38c1261778bea38baa349ee40d93fe4c.webp"
+  },
+  {
+    "family": "o2-oxygen-yuqi",
+    "sku": "sku_34512",
+    "name": "O2 氧气 Pro 宋雨琦联名款",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/c9c6956903423ade57cf5ee18c4e1acb.png",
+    "path": "public/images/catalog/niu/c9c6956903423ade57cf5ee18c4e1acb.webp"
+  },
+  {
+    "family": "o2-oxygen-yuqi",
+    "sku": "sku_34513",
+    "name": "O2 氧气 Sport 宋雨琦联名款",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/21c0885666fc885796571400396ca075.png",
+    "path": "public/images/catalog/niu/21c0885666fc885796571400396ca075.webp"
+  },
+  {
+    "family": "o2-oxygen-yuqi",
+    "sku": "sku_34513",
+    "name": "O2 氧气 Sport 宋雨琦联名款",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/d24f06a7efc76a45d0cf7e03af8757c3.png",
+    "path": "public/images/catalog/niu/d24f06a7efc76a45d0cf7e03af8757c3.webp"
+  },
+  {
+    "family": "o2-oxygen-yuqi",
+    "sku": "sku_34513",
+    "name": "O2 氧气 Sport 宋雨琦联名款",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/38c1261778bea38baa349ee40d93fe4c.png",
+    "path": "public/images/catalog/niu/38c1261778bea38baa349ee40d93fe4c.webp"
+  },
+  {
+    "family": "o2-oxygen-yuqi",
+    "sku": "sku_34513",
+    "name": "O2 氧气 Sport 宋雨琦联名款",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/c9c6956903423ade57cf5ee18c4e1acb.png",
+    "path": "public/images/catalog/niu/c9c6956903423ade57cf5ee18c4e1acb.webp"
+  },
+  {
+    "family": "o2-oxygen-yuqi",
+    "type": "scene",
+    "index": 1,
+    "url": "https://img.niucache.com/urm/2026/10/e37d4ff567d1cbfabf42096d80fed94a.jpg",
+    "path": "research/sources/niu/scene-o2-oxygen-yuqi-1.webp"
+  },
+  {
+    "family": "o2-oxygen-yuqi",
+    "type": "scene",
+    "index": 2,
+    "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/23e0e7645fbff6d20de99a5256e23990.jpg",
+    "path": "research/sources/niu/scene-o2-oxygen-yuqi-2.webp"
+  },
+  {
+    "family": "o2-oxygen-yuqi",
+    "type": "scene",
+    "index": 3,
+    "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/14a827580be640e5c71c654c714f8fbb.jpg",
+    "path": "research/sources/niu/scene-o2-oxygen-yuqi-3.webp"
+  },
+  {
+    "family": "o2-oxygen",
+    "sku": "sku_34497",
+    "name": "O2 氧气 Pro",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/dd04ffbd9776f77f65cfd45189484119.png",
+    "path": "public/images/catalog/niu/dd04ffbd9776f77f65cfd45189484119.webp"
+  },
+  {
+    "family": "o2-oxygen",
+    "sku": "sku_34497",
+    "name": "O2 氧气 Pro",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/e8464cb4705059336c28e7f61404976d.png",
+    "path": "public/images/catalog/niu/e8464cb4705059336c28e7f61404976d.webp"
+  },
+  {
+    "family": "o2-oxygen",
+    "sku": "sku_34497",
+    "name": "O2 氧气 Pro",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/705c4c354e18e0241a32cfb3f426eeab.png",
+    "path": "public/images/catalog/niu/705c4c354e18e0241a32cfb3f426eeab.webp"
+  },
+  {
+    "family": "o2-oxygen",
+    "sku": "sku_34497",
+    "name": "O2 氧气 Pro",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/b5f409f661f9f9299d8ef7dbe3a9e2db.png",
+    "path": "public/images/catalog/niu/b5f409f661f9f9299d8ef7dbe3a9e2db.webp"
+  },
+  {
+    "family": "o2-oxygen",
+    "sku": "sku_34502",
+    "name": "O2 氧气 Sport",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/dd04ffbd9776f77f65cfd45189484119.png",
+    "path": "public/images/catalog/niu/dd04ffbd9776f77f65cfd45189484119.webp"
+  },
+  {
+    "family": "o2-oxygen",
+    "sku": "sku_34502",
+    "name": "O2 氧气 Sport",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/e8464cb4705059336c28e7f61404976d.png",
+    "path": "public/images/catalog/niu/e8464cb4705059336c28e7f61404976d.webp"
+  },
+  {
+    "family": "o2-oxygen",
+    "sku": "sku_34502",
+    "name": "O2 氧气 Sport",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/705c4c354e18e0241a32cfb3f426eeab.png",
+    "path": "public/images/catalog/niu/705c4c354e18e0241a32cfb3f426eeab.webp"
+  },
+  {
+    "family": "o2-oxygen",
+    "sku": "sku_34502",
+    "name": "O2 氧气 Sport",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/b5f409f661f9f9299d8ef7dbe3a9e2db.png",
+    "path": "public/images/catalog/niu/b5f409f661f9f9299d8ef7dbe3a9e2db.webp"
+  },
+  {
+    "family": "o2-oxygen",
+    "sku": "sku_34507",
+    "name": "O2 氧气 Citi",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/dd04ffbd9776f77f65cfd45189484119.png",
+    "path": "public/images/catalog/niu/dd04ffbd9776f77f65cfd45189484119.webp"
+  },
+  {
+    "family": "o2-oxygen",
+    "sku": "sku_34507",
+    "name": "O2 氧气 Citi",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/e8464cb4705059336c28e7f61404976d.png",
+    "path": "public/images/catalog/niu/e8464cb4705059336c28e7f61404976d.webp"
+  },
+  {
+    "family": "o2-oxygen",
+    "sku": "sku_34507",
+    "name": "O2 氧气 Citi",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/705c4c354e18e0241a32cfb3f426eeab.png",
+    "path": "public/images/catalog/niu/705c4c354e18e0241a32cfb3f426eeab.webp"
+  },
+  {
+    "family": "o2-oxygen",
+    "sku": "sku_34507",
+    "name": "O2 氧气 Citi",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/b5f409f661f9f9299d8ef7dbe3a9e2db.png",
+    "path": "public/images/catalog/niu/b5f409f661f9f9299d8ef7dbe3a9e2db.webp"
+  },
+  {
+    "family": "o2-oxygen",
+    "type": "scene",
+    "index": 1,
+    "url": "https://img.niucache.com/urm/2026/10/fc1b1c88300c2c52a0d8ad43e3ff6bfb.jpg",
+    "path": "research/sources/niu/scene-o2-oxygen-1.webp"
+  },
+  {
+    "family": "o2-oxygen",
+    "type": "scene",
+    "index": 2,
+    "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/1cf743e7ff390cfbeee69910ca93c15b.jpg",
+    "path": "research/sources/niu/scene-o2-oxygen-2.webp"
+  },
+  {
+    "family": "o2-oxygen",
+    "type": "scene",
+    "index": 3,
+    "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/d53586c6f4c45f9e9ef44d776fee0bb9.jpg",
+    "path": "research/sources/niu/scene-o2-oxygen-3.webp"
+  },
+  {
+    "family": "o2-oxygen-heartopia",
+    "sku": "sku_34514",
+    "name": "O2 氧气 Sport 心动小镇联名款",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/311de67d1f226688f1b62bca64828525.png",
+    "path": "public/images/catalog/niu/311de67d1f226688f1b62bca64828525.webp"
+  },
+  {
+    "family": "o2-oxygen-heartopia",
+    "sku": "sku_34514",
+    "name": "O2 氧气 Sport 心动小镇联名款",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/702ae605fc5d41a26756d66bb5e7b6b6.png",
+    "path": "public/images/catalog/niu/702ae605fc5d41a26756d66bb5e7b6b6.webp"
+  },
+  {
+    "family": "o2-oxygen-heartopia",
+    "sku": "sku_34514",
+    "name": "O2 氧气 Sport 心动小镇联名款",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/6b68fac5edb5d0092b3e7fdbe644e6d5.png",
+    "path": "public/images/catalog/niu/6b68fac5edb5d0092b3e7fdbe644e6d5.webp"
+  },
+  {
+    "family": "o2-oxygen-heartopia",
+    "sku": "sku_34514",
+    "name": "O2 氧气 Sport 心动小镇联名款",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/dc72d237911d33364d3839ba706847cc.png",
+    "path": "public/images/catalog/niu/dc72d237911d33364d3839ba706847cc.webp"
+  },
+  {
+    "family": "o2-oxygen-heartopia",
+    "type": "scene",
+    "index": 1,
+    "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/33f1323219d9570df48a096b61d2c472.jpg",
+    "path": "research/sources/niu/scene-o2-oxygen-heartopia-1.webp"
+  },
+  {
+    "family": "o2-oxygen-heartopia",
+    "type": "scene",
+    "index": 2,
+    "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/a4e0997bfa9d7aa0d3a2e9176e5e96e1.jpg",
+    "path": "research/sources/niu/scene-o2-oxygen-heartopia-2.webp"
+  },
+  {
+    "family": "o2-oxygen-heartopia",
+    "type": "scene",
+    "index": 3,
+    "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/a442af10cbee64070b4b52d6dec5741c.jpg",
+    "path": "research/sources/niu/scene-o2-oxygen-heartopia-3.webp"
+  },
+  {
+    "family": "nx-wind-pro",
+    "sku": "sku_34469",
+    "name": "NX 风速Pro",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/6c1745202dd7c52b4c132acdda1f24e4.png",
+    "path": "public/images/catalog/niu/6c1745202dd7c52b4c132acdda1f24e4.webp"
+  },
+  {
+    "family": "nx-wind-pro",
+    "sku": "sku_34469",
+    "name": "NX 风速Pro",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/d300ffaeb7332e2538683a2002e8cb90.png",
+    "path": "public/images/catalog/niu/d300ffaeb7332e2538683a2002e8cb90.webp"
+  },
+  {
+    "family": "nx-wind-pro",
+    "sku": "sku_34469",
+    "name": "NX 风速Pro",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/0cc4e925ebec9245a16b46f704ed0737.png",
+    "path": "public/images/catalog/niu/0cc4e925ebec9245a16b46f704ed0737.webp"
+  },
+  {
+    "family": "nx-wind-pro",
+    "sku": "sku_34469",
+    "name": "NX 风速Pro",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/4c229db66acd3325db5e94efe35144df.png",
+    "path": "public/images/catalog/niu/4c229db66acd3325db5e94efe35144df.webp"
+  },
+  {
+    "family": "nx-wind-pro",
+    "type": "scene",
+    "index": 1,
+    "url": "https://img.niucache.com/urm/2026/09/758a57a7f92ebeaabec698eb2b408c73.jpg",
+    "path": "research/sources/niu/scene-nx-wind-pro-1.webp"
+  },
+  {
+    "family": "nx-wind-pro",
+    "type": "scene",
+    "index": 2,
+    "url": "https://img.niucache.com/urm/2026/09/a3243af8c73422af6fb491385af8efaf.jpg",
+    "path": "research/sources/niu/scene-nx-wind-pro-2.webp"
+  },
+  {
+    "family": "nx-wind-pro",
+    "type": "scene",
+    "index": 3,
+    "url": "https://img.niucache.com/urm/2026/09/199de16e5cfba9b95fcaf52db6588143.jpg",
+    "path": "research/sources/niu/scene-nx-wind-pro-3.webp"
+  },
+  {
+    "family": "nx100",
+    "sku": "sku_34238",
+    "name": "NX 100",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/9bfaa652d946421e557f0f74524b728b.png",
+    "path": "public/images/catalog/niu/9bfaa652d946421e557f0f74524b728b.webp"
+  },
+  {
+    "family": "nx100",
+    "sku": "sku_34238",
+    "name": "NX 100",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/e696f5840ba37bbc6543a0cb8d4db96f.png",
+    "path": "public/images/catalog/niu/e696f5840ba37bbc6543a0cb8d4db96f.webp"
+  },
+  {
+    "family": "nx100",
+    "sku": "sku_34238",
+    "name": "NX 100",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/f628849b75b27bd5bccd8c36721ab72d.png",
+    "path": "public/images/catalog/niu/f628849b75b27bd5bccd8c36721ab72d.webp"
+  },
+  {
+    "family": "nx100",
+    "sku": "sku_34238",
+    "name": "NX 100",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/d5f84c1f7d4b18cdac8f4cca2cfa9eea.png",
+    "path": "public/images/catalog/niu/d5f84c1f7d4b18cdac8f4cca2cfa9eea.webp"
+  },
+  {
+    "family": "nx100",
+    "sku": "sku_34242",
+    "name": "NX 70",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/9bfaa652d946421e557f0f74524b728b.png",
+    "path": "public/images/catalog/niu/9bfaa652d946421e557f0f74524b728b.webp"
+  },
+  {
+    "family": "nx100",
+    "sku": "sku_34242",
+    "name": "NX 70",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/e696f5840ba37bbc6543a0cb8d4db96f.png",
+    "path": "public/images/catalog/niu/e696f5840ba37bbc6543a0cb8d4db96f.webp"
+  },
+  {
+    "family": "nx100",
+    "sku": "sku_34242",
+    "name": "NX 70",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/f628849b75b27bd5bccd8c36721ab72d.png",
+    "path": "public/images/catalog/niu/f628849b75b27bd5bccd8c36721ab72d.webp"
+  },
+  {
+    "family": "nx100",
+    "sku": "sku_34242",
+    "name": "NX 70",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/d5f84c1f7d4b18cdac8f4cca2cfa9eea.png",
+    "path": "public/images/catalog/niu/d5f84c1f7d4b18cdac8f4cca2cfa9eea.webp"
+  },
+  {
+    "family": "nx100",
+    "type": "scene",
+    "index": 1,
+    "url": "https://img.niucache.com/urm/2026/07/a9d9cccbd74fdbc4b92ac95d8cbfeeba.jpg",
+    "path": "research/sources/niu/scene-nx100-1.webp"
+  },
+  {
+    "family": "nx100",
+    "type": "scene",
+    "index": 2,
+    "url": "https://img.niucache.com/urm/2026/07/d2eee0b8a8e14d653a1751c6e5006d63.jpg",
+    "path": "research/sources/niu/scene-nx100-2.webp"
+  },
+  {
+    "family": "nx100",
+    "type": "scene",
+    "index": 3,
+    "url": "https://img.niucache.com/urm/2026/07/8e0f186fdc8db35c4cd2d3bca5c2b548.jpg",
+    "path": "research/sources/niu/scene-nx100-3.webp"
+  },
+  {
+    "family": "fx-wind-plus",
+    "sku": "sku_34515",
+    "name": "FX 风速款 Plus ABS版",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/e6993f6c3002838314d9c831b5352e39.png",
+    "path": "public/images/catalog/niu/e6993f6c3002838314d9c831b5352e39.webp"
+  },
+  {
+    "family": "fx-wind-plus",
+    "sku": "sku_34515",
+    "name": "FX 风速款 Plus ABS版",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/564b40461d8e183b3edcb0b593760ce3.png",
+    "path": "public/images/catalog/niu/564b40461d8e183b3edcb0b593760ce3.webp"
+  },
+  {
+    "family": "fx-wind-plus",
+    "sku": "sku_34515",
+    "name": "FX 风速款 Plus ABS版",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/b737529d1afc60463902b937bd68c685.png",
+    "path": "public/images/catalog/niu/b737529d1afc60463902b937bd68c685.webp"
+  },
+  {
+    "family": "fx-wind-plus",
+    "sku": "sku_34515",
+    "name": "FX 风速款 Plus ABS版",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/af104ab014949cca7c356410af4ef190.png",
+    "path": "public/images/catalog/niu/af104ab014949cca7c356410af4ef190.webp"
+  },
+  {
+    "family": "fx-wind-plus",
+    "sku": "sku_34520",
+    "name": "FX 风速款 Plus",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/e6993f6c3002838314d9c831b5352e39.png",
+    "path": "public/images/catalog/niu/e6993f6c3002838314d9c831b5352e39.webp"
+  },
+  {
+    "family": "fx-wind-plus",
+    "sku": "sku_34520",
+    "name": "FX 风速款 Plus",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/564b40461d8e183b3edcb0b593760ce3.png",
+    "path": "public/images/catalog/niu/564b40461d8e183b3edcb0b593760ce3.webp"
+  },
+  {
+    "family": "fx-wind-plus",
+    "sku": "sku_34520",
+    "name": "FX 风速款 Plus",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/b737529d1afc60463902b937bd68c685.png",
+    "path": "public/images/catalog/niu/b737529d1afc60463902b937bd68c685.webp"
+  },
+  {
+    "family": "fx-wind-plus",
+    "sku": "sku_34520",
+    "name": "FX 风速款 Plus",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/af104ab014949cca7c356410af4ef190.png",
+    "path": "public/images/catalog/niu/af104ab014949cca7c356410af4ef190.webp"
+  },
+  {
+    "family": "fx-wind-plus",
+    "type": "scene",
+    "index": 1,
+    "url": "https://img.niucache.com/urm/2026/09/e50ffb3675fbdcee23dbd85f070c049a.jpg",
+    "path": "research/sources/niu/scene-fx-wind-plus-1.webp"
+  },
+  {
+    "family": "fx-wind-plus",
+    "type": "scene",
+    "index": 2,
+    "url": "https://img.niucache.com/urm/2026/09/47f7402cf61ee31c3d2e8cbbf666c8b1.jpg",
+    "path": "research/sources/niu/scene-fx-wind-plus-2.webp"
+  },
+  {
+    "family": "fx-wind-plus",
+    "type": "scene",
+    "index": 3,
+    "url": "https://img.niucache.com/urm/2026/09/86c06f4465c8c0d3431cd6d9f875d27a.jpg",
+    "path": "research/sources/niu/scene-fx-wind-plus-3.webp"
+  },
+  {
+    "family": "fs-sprint",
+    "sku": "sku_34429",
+    "name": "FS 风驰",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/1d6bc71cd5b1d589823907542c1f1541.png",
+    "path": "public/images/catalog/niu/1d6bc71cd5b1d589823907542c1f1541.webp"
+  },
+  {
+    "family": "fs-sprint",
+    "sku": "sku_34429",
+    "name": "FS 风驰",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/52ebb90964ceca14fab4b381235fd555.png",
+    "path": "public/images/catalog/niu/52ebb90964ceca14fab4b381235fd555.webp"
+  },
+  {
+    "family": "fs-sprint",
+    "sku": "sku_34429",
+    "name": "FS 风驰",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/dc4882f55a895955dbeda36428a1132c.png",
+    "path": "public/images/catalog/niu/dc4882f55a895955dbeda36428a1132c.webp"
+  },
+  {
+    "family": "fs-sprint",
+    "sku": "sku_34429",
+    "name": "FS 风驰",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/23e9a0594d0cb97a35c2d474656efa41.png",
+    "path": "public/images/catalog/niu/23e9a0594d0cb97a35c2d474656efa41.webp"
+  },
+  {
+    "family": "fs-sprint",
+    "type": "scene",
+    "index": 1,
+    "url": "https://img.niucache.com/urm/2026/09/6e36f110dcafe32c29557b72c92d410c.jpg",
+    "path": "research/sources/niu/scene-fs-sprint-1.webp"
+  },
+  {
+    "family": "fs-sprint",
+    "type": "scene",
+    "index": 2,
+    "url": "https://img.niucache.com/urm/2026/09/c59dc90dd2a786713de365c181ca02e5.jpg",
+    "path": "research/sources/niu/scene-fs-sprint-2.webp"
+  },
+  {
+    "family": "fs-sprint",
+    "type": "scene",
+    "index": 3,
+    "url": "https://img.niucache.com/urm/2026/09/f1dddd34dfba7537b2aeb6ce81e3699f.jpg",
+    "path": "research/sources/niu/scene-fs-sprint-3.webp"
+  },
+  {
+    "family": "n-sprint",
+    "sku": "sku_34227",
+    "name": "N 风驰",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/a186bd45c68a60d4421848ff0bfc1892.png",
+    "path": "public/images/catalog/niu/a186bd45c68a60d4421848ff0bfc1892.webp"
+  },
+  {
+    "family": "n-sprint",
+    "sku": "sku_34227",
+    "name": "N 风驰",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/21a2c265badc48579450f92a53a66b33.png",
+    "path": "public/images/catalog/niu/21a2c265badc48579450f92a53a66b33.webp"
+  },
+  {
+    "family": "n-sprint",
+    "sku": "sku_34227",
+    "name": "N 风驰",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/850f771e39363aa1200d9211208435fc.png",
+    "path": "public/images/catalog/niu/850f771e39363aa1200d9211208435fc.webp"
+  },
+  {
+    "family": "n-sprint",
+    "sku": "sku_34227",
+    "name": "N 风驰",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/f432368fb1f1253719a30c8f48803984.png",
+    "path": "public/images/catalog/niu/f432368fb1f1253719a30c8f48803984.webp"
+  },
+  {
+    "family": "n-sprint",
+    "type": "scene",
+    "index": 1,
+    "url": "https://img.niucache.com/urm/2026/07/bcf10fde12906380eb92779e1c09a04e.jpg",
+    "path": "research/sources/niu/scene-n-sprint-1.webp"
+  },
+  {
+    "family": "n-sprint",
+    "type": "scene",
+    "index": 2,
+    "url": "https://img.niucache.com/urm/2026/07/43a07a44c7b3e62d55c8518826db84fd.jpg",
+    "path": "research/sources/niu/scene-n-sprint-2.webp"
+  },
+  {
+    "family": "n-sprint",
+    "type": "scene",
+    "index": 3,
+    "url": "https://img.niucache.com/urm/2026/07/e2072182ea795da269dd3bed09a000d7.jpeg",
+    "path": "research/sources/niu/scene-n-sprint-3.webp"
+  },
+  {
+    "family": "nx-marathon",
+    "sku": "sku_34084",
+    "name": "NX 马拉松",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/1fd3defbeec86910e0f9556ed1c071ba.png",
+    "path": "public/images/catalog/niu/1fd3defbeec86910e0f9556ed1c071ba.webp"
+  },
+  {
+    "family": "nx-marathon",
+    "sku": "sku_34084",
+    "name": "NX 马拉松",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/22cbaf06494cf37390b902c1a198f7b4.png",
+    "path": "public/images/catalog/niu/22cbaf06494cf37390b902c1a198f7b4.webp"
+  },
+  {
+    "family": "nx-marathon",
+    "sku": "sku_34084",
+    "name": "NX 马拉松",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/0d9520d4cbb09f81eca3b5e16fdaf1cd.png",
+    "path": "public/images/catalog/niu/0d9520d4cbb09f81eca3b5e16fdaf1cd.webp"
+  },
+  {
+    "family": "nx-marathon",
+    "sku": "sku_34084",
+    "name": "NX 马拉松",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/60ddf0b3ffbb7369521fdf6c62d56e2b.png",
+    "path": "public/images/catalog/niu/60ddf0b3ffbb7369521fdf6c62d56e2b.webp"
+  },
+  {
+    "family": "nx-marathon",
+    "type": "scene",
+    "index": 1,
+    "url": "https://img.niucache.com/urm/2026/04/2c6772e9c02a11990bbb42fc75a154d3.jpg",
+    "path": "research/sources/niu/scene-nx-marathon-1.webp"
+  },
+  {
+    "family": "nx-marathon",
+    "type": "scene",
+    "index": 2,
+    "url": "https://img.niucache.com/urm/2026/04/5198c0a591334dd3523e39b0545e40dc.jpg",
+    "path": "research/sources/niu/scene-nx-marathon-2.webp"
+  },
+  {
+    "family": "nx-marathon",
+    "type": "scene",
+    "index": 3,
+    "url": "https://img.niucache.com/urm/2026/04/5690245480f5b5a1af8a61b91dd19a9b.jpg",
+    "path": "research/sources/niu/scene-nx-marathon-3.webp"
+  },
+  {
+    "family": "n-one",
+    "sku": "sku_34144",
+    "name": "N One",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/076f624d9e3656bfe13ac13d9d408b24.png",
+    "path": "public/images/catalog/niu/076f624d9e3656bfe13ac13d9d408b24.webp"
+  },
+  {
+    "family": "n-one",
+    "sku": "sku_34144",
+    "name": "N One",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/0bca107a8fced2c9237b0f8aa23db867.png",
+    "path": "public/images/catalog/niu/0bca107a8fced2c9237b0f8aa23db867.webp"
+  },
+  {
+    "family": "n-one",
+    "sku": "sku_34144",
+    "name": "N One",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/c8c9d97d8c3acb8bd9f35c31a939e8b7.png",
+    "path": "public/images/catalog/niu/c8c9d97d8c3acb8bd9f35c31a939e8b7.webp"
+  },
+  {
+    "family": "n-one",
+    "sku": "sku_34144",
+    "name": "N One",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/ac496aafc0d03d5fb09303fda976bdfe.png",
+    "path": "public/images/catalog/niu/ac496aafc0d03d5fb09303fda976bdfe.webp"
+  },
+  {
+    "family": "n-one",
+    "type": "scene",
+    "index": 1,
+    "url": "https://img.niucache.com/urm/2026/04/3cbb6edee3b3598a03d1915d8bfcc1f1.jpg",
+    "path": "research/sources/niu/scene-n-one-1.webp"
+  },
+  {
+    "family": "n-one",
+    "type": "scene",
+    "index": 2,
+    "url": "https://img.niucache.com/urm/2026/04/5fca8a30758c026d84a4d608ca28cf28.jpg",
+    "path": "research/sources/niu/scene-n-one-2.webp"
+  },
+  {
+    "family": "n-one",
+    "type": "scene",
+    "index": 3,
+    "url": "https://img.niucache.com/urm/2026/04/723924c66572d576b2026816ca953037.jpg",
+    "path": "research/sources/niu/scene-n-one-3.webp"
+  },
+  {
+    "family": "fs-wind",
+    "sku": "sku_34132",
+    "name": "FS",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/169dece9ac59ef7c744161c1a2198c5e.png",
+    "path": "public/images/catalog/niu/169dece9ac59ef7c744161c1a2198c5e.webp"
+  },
+  {
+    "family": "fs-wind",
+    "sku": "sku_34132",
+    "name": "FS",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/59234e650522d842080ac553208435c9.png",
+    "path": "public/images/catalog/niu/59234e650522d842080ac553208435c9.webp"
+  },
+  {
+    "family": "fs-wind",
+    "sku": "sku_34132",
+    "name": "FS",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/bc2b7c9797d08fbc931a588395920245.png",
+    "path": "public/images/catalog/niu/bc2b7c9797d08fbc931a588395920245.webp"
+  },
+  {
+    "family": "fs-wind",
+    "sku": "sku_34132",
+    "name": "FS",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/97aaa3b484bf881b59575940975b1963.png",
+    "path": "public/images/catalog/niu/97aaa3b484bf881b59575940975b1963.webp"
+  },
+  {
+    "family": "fs-wind",
+    "sku": "sku_34138",
+    "name": "FS Citi",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/169dece9ac59ef7c744161c1a2198c5e.png",
+    "path": "public/images/catalog/niu/169dece9ac59ef7c744161c1a2198c5e.webp"
+  },
+  {
+    "family": "fs-wind",
+    "sku": "sku_34138",
+    "name": "FS Citi",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/59234e650522d842080ac553208435c9.png",
+    "path": "public/images/catalog/niu/59234e650522d842080ac553208435c9.webp"
+  },
+  {
+    "family": "fs-wind",
+    "sku": "sku_34138",
+    "name": "FS Citi",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/bc2b7c9797d08fbc931a588395920245.png",
+    "path": "public/images/catalog/niu/bc2b7c9797d08fbc931a588395920245.webp"
+  },
+  {
+    "family": "fs-wind",
+    "sku": "sku_34138",
+    "name": "FS Citi",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/97aaa3b484bf881b59575940975b1963.png",
+    "path": "public/images/catalog/niu/97aaa3b484bf881b59575940975b1963.webp"
+  },
+  {
+    "family": "fs-wind",
+    "type": "scene",
+    "index": 1,
+    "url": "https://img.niucache.com/urm/2026/05/3ef70076d17350edcff2f71b4e13c69e.jpg",
+    "path": "research/sources/niu/scene-fs-wind-1.webp"
+  },
+  {
+    "family": "fs-wind",
+    "type": "scene",
+    "index": 2,
+    "url": "https://img.niucache.com/urm/2026/05/486fef1ff6f0385cc55bf7f95227d5bc.jpg",
+    "path": "research/sources/niu/scene-fs-wind-2.webp"
+  },
+  {
+    "family": "fs-wind",
+    "type": "scene",
+    "index": 3,
+    "url": "https://img.niucache.com/urm/2026/05/00ab2730ad7fa7e90817d6adb83be85e.jpg",
+    "path": "research/sources/niu/scene-fs-wind-3.webp"
+  },
+  {
+    "family": "nx-wind",
+    "sku": "sku_33864",
+    "name": "NX 风速款 ",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/1a4457a4e3c9d7334465124854a9355b.png",
+    "path": "public/images/catalog/niu/1a4457a4e3c9d7334465124854a9355b.webp"
+  },
+  {
+    "family": "nx-wind",
+    "sku": "sku_33864",
+    "name": "NX 风速款 ",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/4a5d0f017025bff5f07b8549d08b6bea.png",
+    "path": "public/images/catalog/niu/4a5d0f017025bff5f07b8549d08b6bea.webp"
+  },
+  {
+    "family": "nx-wind",
+    "sku": "sku_33864",
+    "name": "NX 风速款 ",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/c9e7a9cfe480b25540f0d0a9125c8795.png",
+    "path": "public/images/catalog/niu/c9e7a9cfe480b25540f0d0a9125c8795.webp"
+  },
+  {
+    "family": "nx-wind",
+    "sku": "sku_33864",
+    "name": "NX 风速款 ",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/97ba63adfd94b643509bcb1553ad3f92.png",
+    "path": "public/images/catalog/niu/97ba63adfd94b643509bcb1553ad3f92.webp"
+  },
+  {
+    "family": "nx-wind",
+    "type": "scene",
+    "index": 1,
+    "url": "https://img.niucache.com/urm/2026/01/4dc5c66e1687aa6201be63a2baf9d877.jpg",
+    "path": "research/sources/niu/scene-nx-wind-1.webp"
+  },
+  {
+    "family": "nx-wind",
+    "type": "scene",
+    "index": 2,
+    "url": "https://img.niucache.com/urm/2026/01/b8483695a861686a236b6e501099ee2a.jpg",
+    "path": "research/sources/niu/scene-nx-wind-2.webp"
+  },
+  {
+    "family": "nx-wind",
+    "type": "scene",
+    "index": 3,
+    "url": "https://img.niucache.com/urm/2026/01/0ab447a01310fa7be8ac1846013616b1.jpg",
+    "path": "research/sources/niu/scene-nx-wind-3.webp"
+  },
+  {
+    "family": "fx-wind",
+    "sku": "sku_33880",
+    "name": "FX 风速款 ABS版",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/efeeda786cadfa2c6b70e149b8a977a1.png",
+    "path": "public/images/catalog/niu/efeeda786cadfa2c6b70e149b8a977a1.webp"
+  },
+  {
+    "family": "fx-wind",
+    "sku": "sku_33880",
+    "name": "FX 风速款 ABS版",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/003e65a9552548e6b4aca69ce0ef7e0d.png",
+    "path": "public/images/catalog/niu/003e65a9552548e6b4aca69ce0ef7e0d.webp"
+  },
+  {
+    "family": "fx-wind",
+    "sku": "sku_33880",
+    "name": "FX 风速款 ABS版",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/b9d82097237d70cc3ebc49c2085aa7ba.png",
+    "path": "public/images/catalog/niu/b9d82097237d70cc3ebc49c2085aa7ba.webp"
+  },
+  {
+    "family": "fx-wind",
+    "sku": "sku_33880",
+    "name": "FX 风速款 ABS版",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/416f841eea5d4ab64ccef27c0dfbbd84.png",
+    "path": "public/images/catalog/niu/416f841eea5d4ab64ccef27c0dfbbd84.webp"
+  },
+  {
+    "family": "fx-wind",
+    "sku": "sku_33886",
+    "name": "FX 风速款",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/efeeda786cadfa2c6b70e149b8a977a1.png",
+    "path": "public/images/catalog/niu/efeeda786cadfa2c6b70e149b8a977a1.webp"
+  },
+  {
+    "family": "fx-wind",
+    "sku": "sku_33886",
+    "name": "FX 风速款",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/003e65a9552548e6b4aca69ce0ef7e0d.png",
+    "path": "public/images/catalog/niu/003e65a9552548e6b4aca69ce0ef7e0d.webp"
+  },
+  {
+    "family": "fx-wind",
+    "sku": "sku_33886",
+    "name": "FX 风速款",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/b9d82097237d70cc3ebc49c2085aa7ba.png",
+    "path": "public/images/catalog/niu/b9d82097237d70cc3ebc49c2085aa7ba.webp"
+  },
+  {
+    "family": "fx-wind",
+    "sku": "sku_33886",
+    "name": "FX 风速款",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/416f841eea5d4ab64ccef27c0dfbbd84.png",
+    "path": "public/images/catalog/niu/416f841eea5d4ab64ccef27c0dfbbd84.webp"
+  },
+  {
+    "family": "ns",
+    "sku": "sku_33954",
+    "name": "NS Citi",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/2f749de70985edcfd90911f9768138e7.png",
+    "path": "public/images/catalog/niu/2f749de70985edcfd90911f9768138e7.webp"
+  },
+  {
+    "family": "ns",
+    "sku": "sku_33954",
+    "name": "NS Citi",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/0749e523d344023c2f51ec6095337eab.png",
+    "path": "public/images/catalog/niu/0749e523d344023c2f51ec6095337eab.webp"
+  },
+  {
+    "family": "ns",
+    "sku": "sku_33954",
+    "name": "NS Citi",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/d64a7ffa4541b2f3f8e57b743dcd991b.png",
+    "path": "public/images/catalog/niu/d64a7ffa4541b2f3f8e57b743dcd991b.webp"
+  },
+  {
+    "family": "ns",
+    "sku": "sku_33954",
+    "name": "NS Citi",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/d1bfbe1918b3d156b37e679e689a3245.png",
+    "path": "public/images/catalog/niu/d1bfbe1918b3d156b37e679e689a3245.webp"
+  },
+  {
+    "family": "fx-pro",
+    "sku": "sku_33198",
+    "name": "FX Pro",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/a00f0ef91e571f54248f60474241c3b7.png",
+    "path": "public/images/catalog/niu/a00f0ef91e571f54248f60474241c3b7.webp"
+  },
+  {
+    "family": "fx-pro",
+    "sku": "sku_33198",
+    "name": "FX Pro",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/326b21f1942849ceb86c918478a1c037.png",
+    "path": "public/images/catalog/niu/326b21f1942849ceb86c918478a1c037.webp"
+  },
+  {
+    "family": "fx-pro",
+    "sku": "sku_33198",
+    "name": "FX Pro",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/569982d50ef76e783883a8fb37d96279.png",
+    "path": "public/images/catalog/niu/569982d50ef76e783883a8fb37d96279.webp"
+  },
+  {
+    "family": "fx-pro",
+    "sku": "sku_33198",
+    "name": "FX Pro",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/4b3939a6b37e8f6b4118935cf832ec77.png",
+    "path": "public/images/catalog/niu/4b3939a6b37e8f6b4118935cf832ec77.webp"
+  },
+  {
+    "family": "fx-pro",
+    "sku": "sku_33203",
+    "name": "FX Sport",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/a00f0ef91e571f54248f60474241c3b7.png",
+    "path": "public/images/catalog/niu/a00f0ef91e571f54248f60474241c3b7.webp"
+  },
+  {
+    "family": "fx-pro",
+    "sku": "sku_33203",
+    "name": "FX Sport",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/326b21f1942849ceb86c918478a1c037.png",
+    "path": "public/images/catalog/niu/326b21f1942849ceb86c918478a1c037.webp"
+  },
+  {
+    "family": "fx-pro",
+    "sku": "sku_33203",
+    "name": "FX Sport",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/569982d50ef76e783883a8fb37d96279.png",
+    "path": "public/images/catalog/niu/569982d50ef76e783883a8fb37d96279.webp"
+  },
+  {
+    "family": "fx-pro",
+    "sku": "sku_33203",
+    "name": "FX Sport",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/4b3939a6b37e8f6b4118935cf832ec77.png",
+    "path": "public/images/catalog/niu/4b3939a6b37e8f6b4118935cf832ec77.webp"
+  },
+  {
+    "family": "fx-pro",
+    "sku": "sku_33208",
+    "name": "FX Citi",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/a00f0ef91e571f54248f60474241c3b7.png",
+    "path": "public/images/catalog/niu/a00f0ef91e571f54248f60474241c3b7.webp"
+  },
+  {
+    "family": "fx-pro",
+    "sku": "sku_33208",
+    "name": "FX Citi",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/326b21f1942849ceb86c918478a1c037.png",
+    "path": "public/images/catalog/niu/326b21f1942849ceb86c918478a1c037.webp"
+  },
+  {
+    "family": "fx-pro",
+    "sku": "sku_33208",
+    "name": "FX Citi",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/569982d50ef76e783883a8fb37d96279.png",
+    "path": "public/images/catalog/niu/569982d50ef76e783883a8fb37d96279.webp"
+  },
+  {
+    "family": "fx-pro",
+    "sku": "sku_33208",
+    "name": "FX Citi",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/4b3939a6b37e8f6b4118935cf832ec77.png",
+    "path": "public/images/catalog/niu/4b3939a6b37e8f6b4118935cf832ec77.webp"
+  },
+  {
+    "family": "nxl",
+    "sku": "sku_34070",
+    "name": "NXL Sport ABS",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/750aa481bef9b1d39b09918d77bc0ae6.png",
+    "path": "public/images/catalog/niu/750aa481bef9b1d39b09918d77bc0ae6.webp"
+  },
+  {
+    "family": "nxl",
+    "sku": "sku_34070",
+    "name": "NXL Sport ABS",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/f7c938b23f583c335a418c0549069707.png",
+    "path": "public/images/catalog/niu/f7c938b23f583c335a418c0549069707.webp"
+  },
+  {
+    "family": "nxl",
+    "sku": "sku_34070",
+    "name": "NXL Sport ABS",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/1add52c734a2931479ee453220c4f1b8.jpg",
+    "path": "public/images/catalog/niu/1add52c734a2931479ee453220c4f1b8.webp"
+  },
+  {
+    "family": "nxl",
+    "sku": "sku_34070",
+    "name": "NXL Sport ABS",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/f8462bdddbf1f71d7a9d3513420fc385.jpg",
+    "path": "public/images/catalog/niu/f8462bdddbf1f71d7a9d3513420fc385.webp"
+  },
+  {
+    "family": "nxl",
+    "sku": "sku_34074",
+    "name": "NXL Sport",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/750aa481bef9b1d39b09918d77bc0ae6.png",
+    "path": "public/images/catalog/niu/750aa481bef9b1d39b09918d77bc0ae6.webp"
+  },
+  {
+    "family": "nxl",
+    "sku": "sku_34074",
+    "name": "NXL Sport",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/f7c938b23f583c335a418c0549069707.png",
+    "path": "public/images/catalog/niu/f7c938b23f583c335a418c0549069707.webp"
+  },
+  {
+    "family": "nxl",
+    "sku": "sku_34074",
+    "name": "NXL Sport",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/1add52c734a2931479ee453220c4f1b8.jpg",
+    "path": "public/images/catalog/niu/1add52c734a2931479ee453220c4f1b8.webp"
+  },
+  {
+    "family": "nxl",
+    "sku": "sku_34074",
+    "name": "NXL Sport",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/f8462bdddbf1f71d7a9d3513420fc385.jpg",
+    "path": "public/images/catalog/niu/f8462bdddbf1f71d7a9d3513420fc385.webp"
+  },
+  {
+    "family": "nl",
+    "sku": "sku_33868",
+    "name": "NL Pro",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/1e330b1dfd831df9a0e3f3f0bd131e2d.png",
+    "path": "public/images/catalog/niu/1e330b1dfd831df9a0e3f3f0bd131e2d.webp"
+  },
+  {
+    "family": "nl",
+    "sku": "sku_33868",
+    "name": "NL Pro",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/305cb20d33f2e300ad1eb5d50ac14569.png",
+    "path": "public/images/catalog/niu/305cb20d33f2e300ad1eb5d50ac14569.webp"
+  },
+  {
+    "family": "nl",
+    "sku": "sku_33868",
+    "name": "NL Pro",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/3e063b1187b1ad9b8a2ae81ed02ee1fa.jpg",
+    "path": "public/images/catalog/niu/3e063b1187b1ad9b8a2ae81ed02ee1fa.webp"
+  },
+  {
+    "family": "nl",
+    "sku": "sku_33868",
+    "name": "NL Pro",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/822c427283a2232bbb5cb83d420b4f5a.jpg",
+    "path": "public/images/catalog/niu/822c427283a2232bbb5cb83d420b4f5a.webp"
+  },
+  {
+    "family": "nl",
+    "sku": "sku_33872",
+    "name": "NL Sport",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/1e330b1dfd831df9a0e3f3f0bd131e2d.png",
+    "path": "public/images/catalog/niu/1e330b1dfd831df9a0e3f3f0bd131e2d.webp"
+  },
+  {
+    "family": "nl",
+    "sku": "sku_33872",
+    "name": "NL Sport",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/305cb20d33f2e300ad1eb5d50ac14569.png",
+    "path": "public/images/catalog/niu/305cb20d33f2e300ad1eb5d50ac14569.webp"
+  },
+  {
+    "family": "nl",
+    "sku": "sku_33872",
+    "name": "NL Sport",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/3e063b1187b1ad9b8a2ae81ed02ee1fa.jpg",
+    "path": "public/images/catalog/niu/3e063b1187b1ad9b8a2ae81ed02ee1fa.webp"
+  },
+  {
+    "family": "nl",
+    "sku": "sku_33872",
+    "name": "NL Sport",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/822c427283a2232bbb5cb83d420b4f5a.jpg",
+    "path": "public/images/catalog/niu/822c427283a2232bbb5cb83d420b4f5a.webp"
+  },
+  {
+    "family": "nl",
+    "sku": "sku_33876",
+    "name": "NL Citi",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/1e330b1dfd831df9a0e3f3f0bd131e2d.png",
+    "path": "public/images/catalog/niu/1e330b1dfd831df9a0e3f3f0bd131e2d.webp"
+  },
+  {
+    "family": "nl",
+    "sku": "sku_33876",
+    "name": "NL Citi",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/305cb20d33f2e300ad1eb5d50ac14569.png",
+    "path": "public/images/catalog/niu/305cb20d33f2e300ad1eb5d50ac14569.webp"
+  },
+  {
+    "family": "nl",
+    "sku": "sku_33876",
+    "name": "NL Citi",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/3e063b1187b1ad9b8a2ae81ed02ee1fa.jpg",
+    "path": "public/images/catalog/niu/3e063b1187b1ad9b8a2ae81ed02ee1fa.webp"
+  },
+  {
+    "family": "nl",
+    "sku": "sku_33876",
+    "name": "NL Citi",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/822c427283a2232bbb5cb83d420b4f5a.jpg",
+    "path": "public/images/catalog/niu/822c427283a2232bbb5cb83d420b4f5a.webp"
+  },
+  {
+    "family": "nl",
+    "type": "scene",
+    "index": 1,
+    "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2025/12/b4db487a49682ff3b76a6c8c8cd8a23c.jpg",
+    "path": "research/sources/niu/scene-nl-1.webp"
+  },
+  {
+    "family": "nl",
+    "type": "scene",
+    "index": 2,
+    "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2025/12/e699d38a70a66508e01a8bccbaddb703.jpg",
+    "path": "research/sources/niu/scene-nl-2.webp"
+  },
+  {
+    "family": "nl",
+    "type": "scene",
+    "index": 3,
+    "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2025/12/f4fc86ee2b42104c712abf8e0ef9f90b.jpg",
+    "path": "research/sources/niu/scene-nl-3.webp"
+  },
+  {
+    "family": "nx-pro",
+    "sku": "sku_32258",
+    "name": "NX Pro",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/b47590d4fb85a1918dcfec2ca46da96b.png",
+    "path": "public/images/catalog/niu/b47590d4fb85a1918dcfec2ca46da96b.webp"
+  },
+  {
+    "family": "nx-pro",
+    "sku": "sku_32258",
+    "name": "NX Pro",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/c6e328f5c4fb32a72b81b4871766f98b.png",
+    "path": "public/images/catalog/niu/c6e328f5c4fb32a72b81b4871766f98b.webp"
+  },
+  {
+    "family": "nx-pro",
+    "sku": "sku_32258",
+    "name": "NX Pro",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/5a56612ffd3c2cde6c509870660e6c6d.png",
+    "path": "public/images/catalog/niu/5a56612ffd3c2cde6c509870660e6c6d.webp"
+  },
+  {
+    "family": "nx-pro",
+    "sku": "sku_32258",
+    "name": "NX Pro",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/636373038acd484ca5655278aaeb41de.png",
+    "path": "public/images/catalog/niu/636373038acd484ca5655278aaeb41de.webp"
+  },
+  {
+    "family": "nx-ultra",
+    "sku": "sku_31792",
+    "name": "NX Sport play",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/c166946ba51f6ec6049ce52b063fa04e.png",
+    "path": "public/images/catalog/niu/c166946ba51f6ec6049ce52b063fa04e.webp"
+  },
+  {
+    "family": "nx-ultra",
+    "sku": "sku_31792",
+    "name": "NX Sport play",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/68dd6585698c1e39c6cf65ab4c95b236.png",
+    "path": "public/images/catalog/niu/68dd6585698c1e39c6cf65ab4c95b236.webp"
+  },
+  {
+    "family": "nx-ultra",
+    "sku": "sku_31792",
+    "name": "NX Sport play",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/2b130e89153a9869dae1ba27516e10d8.png",
+    "path": "public/images/catalog/niu/2b130e89153a9869dae1ba27516e10d8.webp"
+  },
+  {
+    "family": "nx-ultra",
+    "sku": "sku_31792",
+    "name": "NX Sport play",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/f9c8192136c80d2702571fe4423a3764.png",
+    "path": "public/images/catalog/niu/f9c8192136c80d2702571fe4423a3764.webp"
+  },
+  {
+    "family": "nx-ultra",
+    "sku": "sku_31795",
+    "name": "NX Sport",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/c166946ba51f6ec6049ce52b063fa04e.png",
+    "path": "public/images/catalog/niu/c166946ba51f6ec6049ce52b063fa04e.webp"
+  },
+  {
+    "family": "nx-ultra",
+    "sku": "sku_31795",
+    "name": "NX Sport",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/68dd6585698c1e39c6cf65ab4c95b236.png",
+    "path": "public/images/catalog/niu/68dd6585698c1e39c6cf65ab4c95b236.webp"
+  },
+  {
+    "family": "nx-ultra",
+    "sku": "sku_31795",
+    "name": "NX Sport",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/2b130e89153a9869dae1ba27516e10d8.png",
+    "path": "public/images/catalog/niu/2b130e89153a9869dae1ba27516e10d8.webp"
+  },
+  {
+    "family": "nx-ultra",
+    "sku": "sku_31795",
+    "name": "NX Sport",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/f9c8192136c80d2702571fe4423a3764.png",
+    "path": "public/images/catalog/niu/f9c8192136c80d2702571fe4423a3764.webp"
+  },
+  {
+    "family": "nx-ultra",
+    "sku": "sku_31798",
+    "name": "NX Ultra",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/c166946ba51f6ec6049ce52b063fa04e.png",
+    "path": "public/images/catalog/niu/c166946ba51f6ec6049ce52b063fa04e.webp"
+  },
+  {
+    "family": "nx-ultra",
+    "sku": "sku_31798",
+    "name": "NX Ultra",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/68dd6585698c1e39c6cf65ab4c95b236.png",
+    "path": "public/images/catalog/niu/68dd6585698c1e39c6cf65ab4c95b236.webp"
+  },
+  {
+    "family": "nx-ultra",
+    "sku": "sku_31798",
+    "name": "NX Ultra",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/2b130e89153a9869dae1ba27516e10d8.png",
+    "path": "public/images/catalog/niu/2b130e89153a9869dae1ba27516e10d8.webp"
+  },
+  {
+    "family": "nx-ultra",
+    "sku": "sku_31798",
+    "name": "NX Ultra",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/f9c8192136c80d2702571fe4423a3764.png",
+    "path": "public/images/catalog/niu/f9c8192136c80d2702571fe4423a3764.webp"
+  },
+  {
+    "family": "nqi",
+    "sku": "sku_27775",
+    "name": "NQi 动力版",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/81e8219084343ce3071258e648ba96ca.png",
+    "path": "public/images/catalog/niu/81e8219084343ce3071258e648ba96ca.webp"
+  },
+  {
+    "family": "nqi",
+    "sku": "sku_27775",
+    "name": "NQi 动力版",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/dcce99d097e4a7681f93666f530ff5bf.png",
+    "path": "public/images/catalog/niu/dcce99d097e4a7681f93666f530ff5bf.webp"
+  },
+  {
+    "family": "nqi",
+    "sku": "sku_27775",
+    "name": "NQi 动力版",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/010415ea05b2342e32ce962309e1bcf6.png",
+    "path": "public/images/catalog/niu/010415ea05b2342e32ce962309e1bcf6.webp"
+  },
+  {
+    "family": "nqi",
+    "sku": "sku_27775",
+    "name": "NQi 动力版",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/819c4c1e66ecf1c8e591f8af3bdef5a7.png",
+    "path": "public/images/catalog/niu/819c4c1e66ecf1c8e591f8af3bdef5a7.webp"
+  },
+  {
+    "family": "xqi3cn",
+    "sku": "sku_33130",
+    "name": "X3 Sport 电轻摩版",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/6d19faef4edcc6173b770dce7924907c.png",
+    "path": "public/images/catalog/niu/6d19faef4edcc6173b770dce7924907c.webp"
+  },
+  {
+    "family": "xqi3cn",
+    "sku": "sku_33130",
+    "name": "X3 Sport 电轻摩版",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/9533c70c61f2643b9677fcd73dcb82ae.png",
+    "path": "public/images/catalog/niu/9533c70c61f2643b9677fcd73dcb82ae.webp"
+  },
+  {
+    "family": "xqi3cn",
+    "sku": "sku_33130",
+    "name": "X3 Sport 电轻摩版",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/ed9da7684a99b3625c0c4f148e8d40dd.png",
+    "path": "public/images/catalog/niu/ed9da7684a99b3625c0c4f148e8d40dd.webp"
+  },
+  {
+    "family": "xqi3cn",
+    "sku": "sku_33130",
+    "name": "X3 Sport 电轻摩版",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/c7a215c965a85f6db3adb8bff800f04c.png",
+    "path": "public/images/catalog/niu/c7a215c965a85f6db3adb8bff800f04c.webp"
+  },
+  {
+    "family": "xqi3cn",
+    "sku": "sku_33134",
+    "name": "X3 Sport 电摩版",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/6d19faef4edcc6173b770dce7924907c.png",
+    "path": "public/images/catalog/niu/6d19faef4edcc6173b770dce7924907c.webp"
+  },
+  {
+    "family": "xqi3cn",
+    "sku": "sku_33134",
+    "name": "X3 Sport 电摩版",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/9533c70c61f2643b9677fcd73dcb82ae.png",
+    "path": "public/images/catalog/niu/9533c70c61f2643b9677fcd73dcb82ae.webp"
+  },
+  {
+    "family": "xqi3cn",
+    "sku": "sku_33134",
+    "name": "X3 Sport 电摩版",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/ed9da7684a99b3625c0c4f148e8d40dd.png",
+    "path": "public/images/catalog/niu/ed9da7684a99b3625c0c4f148e8d40dd.webp"
+  },
+  {
+    "family": "xqi3cn",
+    "sku": "sku_33134",
+    "name": "X3 Sport 电摩版",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/c7a215c965a85f6db3adb8bff800f04c.png",
+    "path": "public/images/catalog/niu/c7a215c965a85f6db3adb8bff800f04c.webp"
+  },
+  {
+    "family": "rqi-cn",
+    "sku": "sku_33064",
+    "name": "RQi CBS 动力版",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/bd19a443c2682dfeeea27525358cfd2e.png",
+    "path": "public/images/catalog/niu/bd19a443c2682dfeeea27525358cfd2e.webp"
+  },
+  {
+    "family": "rqi-cn",
+    "sku": "sku_33064",
+    "name": "RQi CBS 动力版",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/b0d92e5f10f425756638ee93665e23ef.png",
+    "path": "public/images/catalog/niu/b0d92e5f10f425756638ee93665e23ef.webp"
+  },
+  {
+    "family": "rqi-cn",
+    "sku": "sku_33064",
+    "name": "RQi CBS 动力版",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/7642d16ffd370c05a9b6b44ad29645d6.png",
+    "path": "public/images/catalog/niu/7642d16ffd370c05a9b6b44ad29645d6.webp"
+  },
+  {
+    "family": "rqi-cn",
+    "sku": "sku_33064",
+    "name": "RQi CBS 动力版",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/9fb882ba633d5a19023641f71908bba8.png",
+    "path": "public/images/catalog/niu/9fb882ba633d5a19023641f71908bba8.webp"
+  },
+  {
+    "family": "rqi-cn",
+    "sku": "sku_33068",
+    "name": "RQi ABS 动力版",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/bd19a443c2682dfeeea27525358cfd2e.png",
+    "path": "public/images/catalog/niu/bd19a443c2682dfeeea27525358cfd2e.webp"
+  },
+  {
+    "family": "rqi-cn",
+    "sku": "sku_33068",
+    "name": "RQi ABS 动力版",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/b0d92e5f10f425756638ee93665e23ef.png",
+    "path": "public/images/catalog/niu/b0d92e5f10f425756638ee93665e23ef.webp"
+  },
+  {
+    "family": "rqi-cn",
+    "sku": "sku_33068",
+    "name": "RQi ABS 动力版",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/7642d16ffd370c05a9b6b44ad29645d6.png",
+    "path": "public/images/catalog/niu/7642d16ffd370c05a9b6b44ad29645d6.webp"
+  },
+  {
+    "family": "rqi-cn",
+    "sku": "sku_33068",
+    "name": "RQi ABS 动力版",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/9fb882ba633d5a19023641f71908bba8.png",
+    "path": "public/images/catalog/niu/9fb882ba633d5a19023641f71908bba8.webp"
+  },
+  {
+    "family": "o",
+    "sku": "sku_30708",
+    "name": "O ",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/aac4f562de1bd61848995633cb3ff946.png",
+    "path": "public/images/catalog/niu/aac4f562de1bd61848995633cb3ff946.webp"
+  },
+  {
+    "family": "o",
+    "sku": "sku_30708",
+    "name": "O ",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/524322b07e4959291eb430823602a867.png",
+    "path": "public/images/catalog/niu/524322b07e4959291eb430823602a867.webp"
+  },
+  {
+    "family": "o",
+    "sku": "sku_30708",
+    "name": "O ",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/048b36d7f9c4821cc342413958f2e83c.png",
+    "path": "public/images/catalog/niu/048b36d7f9c4821cc342413958f2e83c.webp"
+  },
+  {
+    "family": "o",
+    "sku": "sku_30708",
+    "name": "O ",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/c10e5d73295dadadff1b30dcda724488.png",
+    "path": "public/images/catalog/niu/c10e5d73295dadadff1b30dcda724488.webp"
+  },
+  {
+    "family": "g400",
+    "sku": "sku_27783",
+    "name": "G400 都市版",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/e2e5ee9858854b3b8fe32e8a4e2ba333.png",
+    "path": "public/images/catalog/niu/e2e5ee9858854b3b8fe32e8a4e2ba333.webp"
+  },
+  {
+    "family": "g400",
+    "sku": "sku_27783",
+    "name": "G400 都市版",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/3e7c8668c430f0c5f51cf32466cfc2d6.png",
+    "path": "public/images/catalog/niu/3e7c8668c430f0c5f51cf32466cfc2d6.webp"
+  },
+  {
+    "family": "g400",
+    "sku": "sku_27783",
+    "name": "G400 都市版",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/fbbcfec3952619a91d105ebbdc1cf7f4.png",
+    "path": "public/images/catalog/niu/fbbcfec3952619a91d105ebbdc1cf7f4.webp"
+  },
+  {
+    "family": "g400",
+    "sku": "sku_27783",
+    "name": "G400 都市版",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/f6a8322105b3c23a16a257d409df43cc.png",
+    "path": "public/images/catalog/niu/f6a8322105b3c23a16a257d409df43cc.webp"
+  },
+  {
+    "family": "g400",
+    "sku": "sku_27787",
+    "name": "G400 动力版",
+    "index": 0,
+    "url": "https://img.niucache.com/service/media/vehicle/e2e5ee9858854b3b8fe32e8a4e2ba333.png",
+    "path": "public/images/catalog/niu/e2e5ee9858854b3b8fe32e8a4e2ba333.webp"
+  },
+  {
+    "family": "g400",
+    "sku": "sku_27787",
+    "name": "G400 动力版",
+    "index": 1,
+    "url": "https://img.niucache.com/service/media/vehicle/3e7c8668c430f0c5f51cf32466cfc2d6.png",
+    "path": "public/images/catalog/niu/3e7c8668c430f0c5f51cf32466cfc2d6.webp"
+  },
+  {
+    "family": "g400",
+    "sku": "sku_27787",
+    "name": "G400 动力版",
+    "index": 2,
+    "url": "https://img.niucache.com/service/media/vehicle/fbbcfec3952619a91d105ebbdc1cf7f4.png",
+    "path": "public/images/catalog/niu/fbbcfec3952619a91d105ebbdc1cf7f4.webp"
+  },
+  {
+    "family": "g400",
+    "sku": "sku_27787",
+    "name": "G400 动力版",
+    "index": 3,
+    "url": "https://img.niucache.com/service/media/vehicle/f6a8322105b3c23a16a257d409df43cc.png",
+    "path": "public/images/catalog/niu/f6a8322105b3c23a16a257d409df43cc.webp"
+  }
+]

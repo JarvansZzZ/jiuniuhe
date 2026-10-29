@@ -1,0 +1,430 @@
+{
+  "layout": "default",
+  "data": [
+    {
+      "parameterList": {
+        "sku_33130": {
+          "sku_id": "sku_33130",
+          "button": {
+            "edition": "版本1",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#999999",
+            "link": ""
+          },
+          "button_directions": {
+            "edition": "版本1",
+            "text": "",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": ""
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "X3 Sport 电轻摩版"
+            },
+            "price": {
+              "name": "指导价",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_0304044428": {
+                  "body_color": "#e5b800",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_1_0304044428": {
+                  "body_color": "#f3f3f3",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_2_0304044428": {
+                  "body_color": "#880bfd",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_3_0304044428": {
+                  "body_color": "#070707",
+                  "line_color": "",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/6d19faef4edcc6173b770dce7924907c.png",
+                "//img.niucache.com/service/media/vehicle/9533c70c61f2643b9677fcd73dcb82ae.png",
+                "//img.niucache.com/service/media/vehicle/ed9da7684a99b3625c0c4f148e8d40dd.png",
+                "//img.niucache.com/service/media/vehicle/c7a215c965a85f6db3adb8bff800f04c.png",
+                "//img.niucache.com/service/media/vehicle/8a86179543f76c137934b830174c93a1.png",
+                "//img.niucache.com/service/media/vehicle/2747c9320b6d9efd46fec0252ea33275.png",
+                "//img.niucache.com/service/media/vehicle/e74a2ef94ff80360160a45924bd22a66.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/6d19faef4edcc6173b770dce7924907c.png",
+              "//img.niucache.com/service/media/vehicle/8a86179543f76c137934b830174c93a1.png",
+              "//img.niucache.com/service/media/vehicle/2747c9320b6d9efd46fec0252ea33275.png",
+              "//img.niucache.com/service/media/vehicle/e74a2ef94ff80360160a45924bd22a66.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "电池科技",
+                "value": "NIU ENERGY™"
+              },
+              {
+                "name": "理论续航",
+                "value": "116km*"
+              },
+              {
+                "name": "电池类型",
+                "value": "锂电"
+              },
+              {
+                "name": "最大输出功率",
+                "value": "8000W"
+              },
+              {
+                "name": "最高时速",
+                "value": "100km/h"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "146kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "锻造铝车架"
+              },
+              {
+                "name": "减震",
+                "value": "前-阻尼预载可调倒置减震\n后-阻尼预载可调减震"
+              },
+              {
+                "name": "制动系统",
+                "value": "前220mm碟刹 后203mm碟刹"
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "72V"
+              },
+              {
+                "name": "电池容量",
+                "value": "36Ah"
+              },
+              {
+                "name": "电池包重量",
+                "value": "15kg"
+              },
+              {
+                "name": "充电时间",
+                "value": "5.3h"
+              },
+              {
+                "name": "充电方式",
+                "value": "车身充电"
+              },
+              {
+                "name": "支持速冲",
+                "value": 0
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1995mm"
+              },
+              {
+                "name": "宽",
+                "value": "785mm"
+              },
+              {
+                "name": "高",
+                "value": "1036mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "237mm"
+              },
+              {
+                "name": "轮圈尺寸",
+                "value": "70/100-19越野胎"
+              }
+            ]
+          }
+        },
+        "sku_33134": {
+          "sku_id": "sku_33134",
+          "button": {
+            "edition": "版本2",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10102858871830.html"
+          },
+          "button_directions": {
+            "edition": "",
+            "text": "",
+            "text_color": "",
+            "button_color": "",
+            "link": ""
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "X3 Sport 电摩版"
+            },
+            "price": {
+              "name": "指导价",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_0304044428": {
+                  "body_color": "#e5b800",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_1_0304044428": {
+                  "body_color": "#f3f3f3",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_2_0304044428": {
+                  "body_color": "#880bfd",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_3_0304044428": {
+                  "body_color": "#070707",
+                  "line_color": "",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/6d19faef4edcc6173b770dce7924907c.png",
+                "//img.niucache.com/service/media/vehicle/9533c70c61f2643b9677fcd73dcb82ae.png",
+                "//img.niucache.com/service/media/vehicle/ed9da7684a99b3625c0c4f148e8d40dd.png",
+                "//img.niucache.com/service/media/vehicle/c7a215c965a85f6db3adb8bff800f04c.png",
+                "//img.niucache.com/service/media/vehicle/8a86179543f76c137934b830174c93a1.png",
+                "//img.niucache.com/service/media/vehicle/2747c9320b6d9efd46fec0252ea33275.png",
+                "//img.niucache.com/service/media/vehicle/e74a2ef94ff80360160a45924bd22a66.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/6d19faef4edcc6173b770dce7924907c.png",
+              "//img.niucache.com/service/media/vehicle/8a86179543f76c137934b830174c93a1.png",
+              "//img.niucache.com/service/media/vehicle/2747c9320b6d9efd46fec0252ea33275.png",
+              "//img.niucache.com/service/media/vehicle/e74a2ef94ff80360160a45924bd22a66.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "电池科技",
+                "value": "NIU ENERGY™"
+              },
+              {
+                "name": "理论续航",
+                "value": "64km (工况)*"
+              },
+              {
+                "name": "电池类型",
+                "value": "锂电"
+              },
+              {
+                "name": "最大输出功率",
+                "value": "8000W"
+              },
+              {
+                "name": "最高时速",
+                "value": "75km/h"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "151kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "锻造铝车架"
+              },
+              {
+                "name": "减震",
+                "value": "前-阻尼预载可调倒置减震\n后-阻尼预载可调减震"
+              },
+              {
+                "name": "制动系统",
+                "value": "前220mm碟刹 后203mm碟刹"
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "72V"
+              },
+              {
+                "name": "电池容量",
+                "value": "32Ah"
+              },
+              {
+                "name": "电池包重量",
+                "value": "15kg"
+              },
+              {
+                "name": "充电时间",
+                "value": "5.3h"
+              },
+              {
+                "name": "充电方式",
+                "value": "车身充电"
+              },
+              {
+                "name": "支持速冲",
+                "value": 0
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "2015mm"
+              },
+              {
+                "name": "宽",
+                "value": "835mm"
+              },
+              {
+                "name": "高",
+                "value": "1090mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "237mm"
+              },
+              {
+                "name": "轮圈尺寸",
+                "value": "70/100-19越野胎"
+              }
+            ]
+          }
+        }
+      },
+      "parameterImageList": {
+        "all_colors": [
+          {
+            "body_color": "#e5b800",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#f3f3f3",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#880bfd",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#070707",
+            "line_color": "",
+            "select_color": ""
+          }
+        ],
+        "all_images": [
+          "//img.niucache.com/service/media/vehicle/6d19faef4edcc6173b770dce7924907c.png",
+          "//img.niucache.com/service/media/vehicle/9533c70c61f2643b9677fcd73dcb82ae.png",
+          "//img.niucache.com/service/media/vehicle/ed9da7684a99b3625c0c4f148e8d40dd.png",
+          "//img.niucache.com/service/media/vehicle/c7a215c965a85f6db3adb8bff800f04c.png",
+          "//img.niucache.com/service/media/vehicle/8a86179543f76c137934b830174c93a1.png",
+          "//img.niucache.com/service/media/vehicle/2747c9320b6d9efd46fec0252ea33275.png",
+          "//img.niucache.com/service/media/vehicle/e74a2ef94ff80360160a45924bd22a66.png"
+        ],
+        "grey_logo": "//img.niucache.com/service/media/vehicle/9c7d6fcc6a39ed7e87f3eb26d87e74a2.svg",
+        "direction_url": "",
+        "logo": "//img.niucache.com/service/media/vehicle/9cf88652a819a3f7f51264380aa77bd7.svg",
+        "button": {
+          "bg_color": "#df001f",
+          "purchase_link": "https://item.jd.com/10102858871830.html",
+          "word": "购买",
+          "word_color": "#ffffff"
+        },
+        "price": "",
+        "selling": []
+      }
+    }
+  ],
+  "fetch": [],
+  "error": null,
+  "state": {
+    "userId": null,
+    "usId": null,
+    "isMobile": false,
+    "isWechat": false,
+    "isIOS": false,
+    "isSafari": false,
+    "isMac": null,
+    "accesstoken": null,
+    "isSamsung": null,
+    "compareVehicleIds": null,
+    "countryList": [],
+    "openId": null,
+    "isAndroidChrome": false
+  },
+  "serverRendered": true,
+  "routePath": "/product/xqi3"
+}

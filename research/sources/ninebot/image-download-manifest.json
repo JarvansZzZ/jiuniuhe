@@ -1,0 +1,1244 @@
+[
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-M85C_MK2-jingyahui.png",
+    "path": "public/images/catalog/ninebot/ninebot-k17101/01.webp",
+    "model": "ninebot-k17101",
+    "caption": "M85c+ MK2 静雅灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-M85C_MK2-jiliyin.png",
+    "path": "public/images/catalog/ninebot/ninebot-k17101/02.webp",
+    "model": "ninebot-k17101",
+    "caption": "M85c+ MK2 吉利银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-M85C_MK2-zhenzhubai.png",
+    "path": "public/images/catalog/ninebot/ninebot-k17101/03.webp",
+    "model": "ninebot-k17101",
+    "caption": "M85c+ MK2 珍珠白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-M85C_MK2-zhandouhei.png",
+    "path": "public/images/catalog/ninebot/ninebot-k17101/04.webp",
+    "model": "ninebot-k17101",
+    "caption": "M85c+ MK2 战斗黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/C80C-以太银.png",
+    "path": "public/images/catalog/ninebot/ninebot-k12701/01.webp",
+    "model": "ninebot-k12701",
+    "caption": "C80c 以太银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/C80C-冰晶粉.png",
+    "path": "public/images/catalog/ninebot/ninebot-k12701/02.webp",
+    "model": "ninebot-k12701",
+    "caption": "C80c 冰晶粉"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/C80C-暖碳绿.png",
+    "path": "public/images/catalog/ninebot/ninebot-k12701/03.webp",
+    "model": "ninebot-k12701",
+    "caption": "C80c 暖碳绿"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/C80C-珍珠白.png",
+    "path": "public/images/catalog/ninebot/ninebot-k12701/04.webp",
+    "model": "ninebot-k12701",
+    "caption": "C80c 珍珠白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninbot_escooter_N1_70_yellow.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20302/01.webp",
+    "model": "ninebot-k20302",
+    "caption": "N1 70 脉冲黄"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninbot_escooter_N1_70_gray.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20302/02.webp",
+    "model": "ninebot-k20302",
+    "caption": "N1 70 星云灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninbot_escooter_N1_70_red.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20302/03.webp",
+    "model": "ninebot-k20302",
+    "caption": "N1 70 竞速红"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-Q3_85C-xiyoubingsha.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15602/01.webp",
+    "model": "ninebot-k15602",
+    "caption": "Q3 85c 西柚冰沙"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-Q3_85C-ningmengqipao.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15602/02.webp",
+    "model": "ninebot-k15602",
+    "caption": "Q3 85c 柠檬气泡"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-Q3_85C-nuonuoyehui.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15602/03.webp",
+    "model": "ninebot-k15602",
+    "caption": "Q3 85c 糯糯椰灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-Q3_85C-jiaojiaonatie.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15602/04.webp",
+    "model": "ninebot-k15602",
+    "caption": "Q3 85c 焦焦拿铁"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninebot_escooter_M1_85_PhantomSilver.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20901/01.webp",
+    "model": "ninebot-k20901",
+    "caption": "M1 85 幻影银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninebot_escooter_M1_85_black.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20901/02.webp",
+    "model": "ninebot-k20901",
+    "caption": "M1 85 战斗黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninebot_escooter_M1_85_white.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20901/03.webp",
+    "model": "ninebot-k20901",
+    "caption": "M1 85 光谱白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/M85c+英伦绿.png",
+    "path": "public/images/catalog/ninebot/ninebot-k14602/01.webp",
+    "model": "ninebot-k14602",
+    "caption": "M85c+ 英伦绿"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/M85c+吉利银.png",
+    "path": "public/images/catalog/ninebot/ninebot-k14602/02.webp",
+    "model": "ninebot-k14602",
+    "caption": "M85c+ 吉利银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/M85c+金刚灰.png",
+    "path": "public/images/catalog/ninebot/ninebot-k14602/03.webp",
+    "model": "ninebot-k14602",
+    "caption": "M85c+ 金刚灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/M85c+沙漠黄.png",
+    "path": "public/images/catalog/ninebot/ninebot-k14602/04.webp",
+    "model": "ninebot-k14602",
+    "caption": "M85c+ 沙漠黄"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/E125 MK2-松绿.png",
+    "path": "public/images/catalog/ninebot/ninebot-k11903/01.webp",
+    "model": "ninebot-k11903",
+    "caption": "E125 MK2 松绿"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/E125 MK2-吉利银.png",
+    "path": "public/images/catalog/ninebot/ninebot-k11903/02.webp",
+    "model": "ninebot-k11903",
+    "caption": "E125 MK2 吉利银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/E125 MK2-战斗黑.png",
+    "path": "public/images/catalog/ninebot/ninebot-k11903/03.webp",
+    "model": "ninebot-k11903",
+    "caption": "E125 MK2 战斗黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/E125 MK2-静谧粉.png",
+    "path": "public/images/catalog/ninebot/ninebot-k11903/04.webp",
+    "model": "ninebot-k11903",
+    "caption": "E125 MK2 静谧粉"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-M5P.png",
+    "path": "public/images/catalog/ninebot/ninebot-k16004/01.webp",
+    "model": "ninebot-k16004",
+    "caption": "M5 P 千万台纪念版 纪念版"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_A2_60_BubbleGreen-0005.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20501/01.webp",
+    "model": "ninebot-k20501",
+    "caption": "A2 60 泡泡绿"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_A2_60_GrayWhite-0005.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20501/02.webp",
+    "model": "ninebot-k20501",
+    "caption": "A2 60 初雪白灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_A2_60_SweetheartPink-0005.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20501/03.webp",
+    "model": "ninebot-k20501",
+    "caption": "A2 60 甜心粉"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_A2_60_Mustard-0005.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20501/04.webp",
+    "model": "ninebot-k20501",
+    "caption": "A2 60 芥末绿"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/E200P_MK2_亮岩灰.png",
+    "path": "public/images/catalog/ninebot/ninebot-k02430/01.webp",
+    "model": "ninebot-k02430",
+    "caption": "E200P MK2 亮岩灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/E200P_MK2_枪色.png",
+    "path": "public/images/catalog/ninebot/ninebot-k02430/02.webp",
+    "model": "ninebot-k02430",
+    "caption": "E200P MK2 枪色"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/Escooter_Q3_70_PC_green.png",
+    "path": "public/images/catalog/ninebot/ninebot-k22401/01.webp",
+    "model": "ninebot-k22401",
+    "caption": "Q3 70 茉莉奶绿"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/Escooter_Q3_70_PC_grapefruit.png",
+    "path": "public/images/catalog/ninebot/ninebot-k22401/02.webp",
+    "model": "ninebot-k22401",
+    "caption": "Q3 70 西柚冰沙"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/Escooter_Q3_70_PC_gray.png",
+    "path": "public/images/catalog/ninebot/ninebot-k22401/03.webp",
+    "model": "ninebot-k22401",
+    "caption": "Q3 70 糯糯椰灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/Escooter_Q3_70_PC_strawberry.png",
+    "path": "public/images/catalog/ninebot/ninebot-k22401/04.webp",
+    "model": "ninebot-k22401",
+    "caption": "Q3 70 芝芝莓莓"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_Q580C_liuxingyin.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15701/01.webp",
+    "model": "ninebot-k15701",
+    "caption": "Q5 80c 流星银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_Q580C_mikafei.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15701/02.webp",
+    "model": "ninebot-k15701",
+    "caption": "Q5 80c 米咖啡"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_Q580C_yaoyelv.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15701/03.webp",
+    "model": "ninebot-k15701",
+    "caption": "Q5 80c 耀夜绿"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_Q580C_yanshihui.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15701/04.webp",
+    "model": "ninebot-k15701",
+    "caption": "Q5 80c 岩石灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/N85C-银灰.png",
+    "path": "public/images/catalog/ninebot/ninebot-k04612/01.webp",
+    "model": "ninebot-k04612",
+    "caption": "N85c 量子银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/N85C-白色.png",
+    "path": "public/images/catalog/ninebot/ninebot-k04612/02.webp",
+    "model": "ninebot-k04612",
+    "caption": "N85c 珍珠白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/N85C-黑色.png",
+    "path": "public/images/catalog/ninebot/ninebot-k04612/03.webp",
+    "model": "ninebot-k04612",
+    "caption": "N85c 战斗黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_V70_GardeniaGreen_005.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20701/01.webp",
+    "model": "ninebot-k20701",
+    "caption": "V70 栀子绿"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_V70_DarkNightGray_005.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20701/02.webp",
+    "model": "ninebot-k20701",
+    "caption": "V70 暗夜灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_V70_MustardGreen_005.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20701/03.webp",
+    "model": "ninebot-k20701",
+    "caption": "V70 芥末绿"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_Q3eggparty_danxiaofen.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15604/01.webp",
+    "model": "ninebot-k15604",
+    "caption": "Q3 85c 《蛋仔派对》联名款 蛋小粉"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter-M5-100-silver.png",
+    "path": "public/images/catalog/ninebot/ninebot-k16001/01.webp",
+    "model": "ninebot-k16001",
+    "caption": "M5 100 幻影银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter-M5-100-black.png",
+    "path": "public/images/catalog/ninebot/ninebot-k16001/02.webp",
+    "model": "ninebot-k16001",
+    "caption": "M5 100 莹夜黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter-M5-100-red.png",
+    "path": "public/images/catalog/ninebot/ninebot-k16001/03.webp",
+    "model": "ninebot-k16001",
+    "caption": "M5 100 脉冲红"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter-M5-100-orange.png",
+    "path": "public/images/catalog/ninebot/ninebot-k16001/04.webp",
+    "model": "ninebot-k16001",
+    "caption": "M5 100 光子橙"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/CN_eScooter_A2_60_Egg_yellow.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20503/01.webp",
+    "model": "ninebot-k20503",
+    "caption": "A2 60《蛋仔派对》联名款 蛋小黄"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/CN_eScooter_A2_60_Egg_pink.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20503/02.webp",
+    "model": "ninebot-k20503",
+    "caption": "A2 60《蛋仔派对》联名款 蛋小粉"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/CN_eScooter_A2_60_Egg_blue.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20503/03.webp",
+    "model": "ninebot-k20503",
+    "caption": "A2 60《蛋仔派对》联名款 蛋小蓝"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter-M5-125-silver.png",
+    "path": "public/images/catalog/ninebot/ninebot-k16002-2/01.webp",
+    "model": "ninebot-k16002-2",
+    "caption": "M5 125（双电版） 幻影银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter-M5-125-black.png",
+    "path": "public/images/catalog/ninebot/ninebot-k16002-2/02.webp",
+    "model": "ninebot-k16002-2",
+    "caption": "M5 125（双电版） 莹夜黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter-M5-125-red.png",
+    "path": "public/images/catalog/ninebot/ninebot-k16002-2/03.webp",
+    "model": "ninebot-k16002-2",
+    "caption": "M5 125（双电版） 脉冲红"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter-M5-125-orange.png",
+    "path": "public/images/catalog/ninebot/ninebot-k16002-2/04.webp",
+    "model": "ninebot-k16002-2",
+    "caption": "M5 125（双电版） 光子橙"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/M395CMAX-hok-p.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15304/01.webp",
+    "model": "ninebot-k15304",
+    "caption": "M3 95c MAX裴擒虎款 裴擒虎款"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/E80c MK2-松绿.png",
+    "path": "public/images/catalog/ninebot/ninebot-k11902/01.webp",
+    "model": "ninebot-k11902",
+    "caption": "E80c MK2 松绿"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/E80c MK2-吉利银.png",
+    "path": "public/images/catalog/ninebot/ninebot-k11902/02.webp",
+    "model": "ninebot-k11902",
+    "caption": "E80c MK2 吉利银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/E80c MK2-战斗黑.png",
+    "path": "public/images/catalog/ninebot/ninebot-k11902/03.webp",
+    "model": "ninebot-k11902",
+    "caption": "E80c MK2 战斗黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/E80c MK2-静谧粉.png",
+    "path": "public/images/catalog/ninebot/ninebot-k11902/04.webp",
+    "model": "ninebot-k11902",
+    "caption": "E80c MK2 静谧粉"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/Q80c_F45_柠檬黄_v04.png",
+    "path": "public/images/catalog/ninebot/ninebot-k10401/01.webp",
+    "model": "ninebot-k10401",
+    "caption": "Q80c 柠檬黄"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/Q80c_F45_咖白_v04.png",
+    "path": "public/images/catalog/ninebot/ninebot-k10401/02.webp",
+    "model": "ninebot-k10401",
+    "caption": "Q80c 奶咖"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/Q80c_F45_天青蓝_v04.png",
+    "path": "public/images/catalog/ninebot/ninebot-k10401/03.webp",
+    "model": "ninebot-k10401",
+    "caption": "Q80c 天青蓝"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/Q80c_F45_灵动粉_v04.png",
+    "path": "public/images/catalog/ninebot/ninebot-k10401/04.webp",
+    "model": "ninebot-k10401",
+    "caption": "Q80c 灵动粉"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-Q85C-Danzai-Yellow.png",
+    "path": "public/images/catalog/ninebot/ninebot-k10411/01.webp",
+    "model": "ninebot-k10411",
+    "caption": "Q85c 蛋仔派对联名版 蛋小黄"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-Q85C-Danzai-Pink.png",
+    "path": "public/images/catalog/ninebot/ninebot-k10411/02.webp",
+    "model": "ninebot-k10411",
+    "caption": "Q85c 蛋仔派对联名版 蛋小粉"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-Q85C-Danzai-Black.png",
+    "path": "public/images/catalog/ninebot/ninebot-k10411/03.webp",
+    "model": "ninebot-k10411",
+    "caption": "Q85c 蛋仔派对联名版 蛋小黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-M95C_MK2-jingyahui.png",
+    "path": "public/images/catalog/ninebot/ninebot-k17102/01.webp",
+    "model": "ninebot-k17102",
+    "caption": "M95c+ MK2 静雅灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-M95C_MK2-jiliyin.png",
+    "path": "public/images/catalog/ninebot/ninebot-k17102/02.webp",
+    "model": "ninebot-k17102",
+    "caption": "M95c+ MK2 吉利银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-M95C_MK2-zhenzhubai.png",
+    "path": "public/images/catalog/ninebot/ninebot-k17102/03.webp",
+    "model": "ninebot-k17102",
+    "caption": "M95c+ MK2 珍珠白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-M95C_MK2-zhandouhei.png",
+    "path": "public/images/catalog/ninebot/ninebot-k17102/04.webp",
+    "model": "ninebot-k17102",
+    "caption": "M95c+ MK2 战斗黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/N70C-吉利银.png",
+    "path": "public/images/catalog/ninebot/ninebot-k04601/01.webp",
+    "model": "ninebot-k04601",
+    "caption": "N70c 银色"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/N70C-战斗黑.png",
+    "path": "public/images/catalog/ninebot/ninebot-k04601/02.webp",
+    "model": "ninebot-k04601",
+    "caption": "N70c 黑色"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/N70C-熔岩红.png",
+    "path": "public/images/catalog/ninebot/ninebot-k04601/03.webp",
+    "model": "ninebot-k04601",
+    "caption": "N70c 橙色"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/N70C-孔雀蓝.png",
+    "path": "public/images/catalog/ninebot/ninebot-k04601/04.webp",
+    "model": "ninebot-k04601",
+    "caption": "N70c 蓝色"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/Q85c_F45_柠檬黄_v04.png",
+    "path": "public/images/catalog/ninebot/ninebot-k10402/01.webp",
+    "model": "ninebot-k10402",
+    "caption": "Q85c 柠檬黄"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/Q85c_F45_咖白_v04.png",
+    "path": "public/images/catalog/ninebot/ninebot-k10402/02.webp",
+    "model": "ninebot-k10402",
+    "caption": "Q85c 奶咖"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/Q85c_F45_天青蓝_v04.png",
+    "path": "public/images/catalog/ninebot/ninebot-k10402/03.webp",
+    "model": "ninebot-k10402",
+    "caption": "Q85c 天青蓝"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/Q85c_F45_灵动粉_v04.png",
+    "path": "public/images/catalog/ninebot/ninebot-k10402/04.webp",
+    "model": "ninebot-k10402",
+    "caption": "Q85c 灵动粉"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-M3-95C-liangziyin.png",
+    "path": "public/images/catalog/ninebot/ninebot-k17202/01.webp",
+    "model": "ninebot-k17202",
+    "caption": "M3 95c 量子银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-M3-95C-jingyahui.png",
+    "path": "public/images/catalog/ninebot/ninebot-k17202/02.webp",
+    "model": "ninebot-k17202",
+    "caption": "M3 95c 静雅灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-M3-95C-jiliyin.png",
+    "path": "public/images/catalog/ninebot/ninebot-k17202/03.webp",
+    "model": "ninebot-k17202",
+    "caption": "M3 95c 吉利银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-M3-95C-zhenzhubai.png",
+    "path": "public/images/catalog/ninebot/ninebot-k17202/04.webp",
+    "model": "ninebot-k17202",
+    "caption": "M3 95c 珍珠白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_Q3LF_bulangxiongzong.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15603/01.webp",
+    "model": "ninebot-k15603",
+    "caption": "Q3 85c LINE FRIENDS联名款 布朗熊棕"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninebot_escooter_M1_100_QuantumSilver.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20902/01.webp",
+    "model": "ninebot-k20902",
+    "caption": "M1 100 量子银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninebot_escooter_M1_100_PhantomSilver.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20902/02.webp",
+    "model": "ninebot-k20902",
+    "caption": "M1 100 幻影银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninebot_escooter_M1_100_black.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20902/03.webp",
+    "model": "ninebot-k20902",
+    "caption": "M1 100 战斗黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninebot_escooter_M1_100_white.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20902/04.webp",
+    "model": "ninebot-k20902",
+    "caption": "M1 100 光谱白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/E300P MK2.png",
+    "path": "public/images/catalog/ninebot/ninebot-k02445/01.webp",
+    "model": "ninebot-k02445",
+    "caption": "E300P MK2 量子银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/Escooter_N3_70_PC_gray.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20601/01.webp",
+    "model": "ninebot-k20601",
+    "caption": "N3 70 2026 静雅灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/Escooter_N3_70_PC_white.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20601/02.webp",
+    "model": "ninebot-k20601",
+    "caption": "N3 70 2026 珍珠白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/Escooter_N3_70_PC_silver.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20601/03.webp",
+    "model": "ninebot-k20601",
+    "caption": "N3 70 2026 吉利银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/Escooter_N3_70_PC_black.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20601/04.webp",
+    "model": "ninebot-k20601",
+    "caption": "N3 70 2026 战斗黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-Q80C-Danzai-Yellow.png",
+    "path": "public/images/catalog/ninebot/ninebot-k10409/01.webp",
+    "model": "ninebot-k10409",
+    "caption": "Q80c 蛋仔派对联名版 蛋小黄"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-Q80C-Danzai-Pink.png",
+    "path": "public/images/catalog/ninebot/ninebot-k10409/02.webp",
+    "model": "ninebot-k10409",
+    "caption": "Q80c 蛋仔派对联名版 蛋小粉"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-Q80C-Danzai-Black.png",
+    "path": "public/images/catalog/ninebot/ninebot-k10409/03.webp",
+    "model": "ninebot-k10409",
+    "caption": "Q80c 蛋仔派对联名版 蛋小黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-Q3_80C-xiyoubingsha.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15601/01.webp",
+    "model": "ninebot-k15601",
+    "caption": "Q3 80c 西柚冰沙"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-Q3_80C-ningmengqipao.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15601/02.webp",
+    "model": "ninebot-k15601",
+    "caption": "Q3 80c 柠檬气泡"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-Q3_80C-nuonuoyehui.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15601/03.webp",
+    "model": "ninebot-k15601",
+    "caption": "Q3 80c 糯糯椰灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-Q3_80C-jiaojiaonatie.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15601/04.webp",
+    "model": "ninebot-k15601",
+    "caption": "Q3 80c 焦焦拿铁"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninbot_escooter_N1_90_yellow.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20303/01.webp",
+    "model": "ninebot-k20303",
+    "caption": "N1 90 脉冲黄"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninbot_escooter_N1_90_gray.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20303/02.webp",
+    "model": "ninebot-k20303",
+    "caption": "N1 90 星云灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninbot_escooter_N1_90_red.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20303/03.webp",
+    "model": "ninebot-k20303",
+    "caption": "N1 90 竞速红"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninbot_escooter_N1_90_black.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20303/04.webp",
+    "model": "ninebot-k20303",
+    "caption": "N1 90 武士黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/C85C-以太银.png",
+    "path": "public/images/catalog/ninebot/ninebot-k12702/01.webp",
+    "model": "ninebot-k12702",
+    "caption": "C85c 以太银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/C85C-冰晶粉.png",
+    "path": "public/images/catalog/ninebot/ninebot-k12702/02.webp",
+    "model": "ninebot-k12702",
+    "caption": "C85c 冰晶粉"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/C85C-暖碳绿.png",
+    "path": "public/images/catalog/ninebot/ninebot-k12702/03.webp",
+    "model": "ninebot-k12702",
+    "caption": "C85c 暖碳绿"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/C85C-珍珠白.png",
+    "path": "public/images/catalog/ninebot/ninebot-k12702/04.webp",
+    "model": "ninebot-k12702",
+    "caption": "C85c 珍珠白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/CN_eScooter_M1_100_flash_rider_Purple.png",
+    "path": "public/images/catalog/ninebot/ninebot-k209e/01.webp",
+    "model": "ninebot-k209e",
+    "caption": "M1 100 闪骑 暗武紫"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/CN_eScooter_M1_100_flash_rider_Silver.png",
+    "path": "public/images/catalog/ninebot/ninebot-k209e/02.webp",
+    "model": "ninebot-k209e",
+    "caption": "M1 100 闪骑 量子银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/general/escooter/e95c/eScooter_E95C_MK2_jiliying.png",
+    "path": "public/images/catalog/ninebot/ninebot-k19301/01.webp",
+    "model": "ninebot-k19301",
+    "caption": "E95c MK2 吉利银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/general/escooter/e95c/eScooter_E95C_MK2_zhenzhubai.png",
+    "path": "public/images/catalog/ninebot/ninebot-k19301/02.webp",
+    "model": "ninebot-k19301",
+    "caption": "E95c MK2 珍珠白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/general/escooter/e95c/eScooter_E95C_MK2_zhandouhei.png",
+    "path": "public/images/catalog/ninebot/ninebot-k19301/03.webp",
+    "model": "ninebot-k19301",
+    "caption": "E95c MK2 战斗黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/M3_100_A_800.png",
+    "path": "public/images/catalog/ninebot/ninebot-k202e/01.webp",
+    "model": "ninebot-k202e",
+    "caption": "M3 100 闪骑 幻影银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/M3_100_B_800.png",
+    "path": "public/images/catalog/ninebot/ninebot-k202e/02.webp",
+    "model": "ninebot-k202e",
+    "caption": "M3 100 闪骑 护甲绿"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_M3_100_flash_rider_white.png",
+    "path": "public/images/catalog/ninebot/ninebot-k202e/03.webp",
+    "model": "ninebot-k202e",
+    "caption": "M3 100 闪骑 光谱白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/M95c+英伦绿.png",
+    "path": "public/images/catalog/ninebot/ninebot-k14603/01.webp",
+    "model": "ninebot-k14603",
+    "caption": "M95c+ 英伦绿"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/M95c+吉利银.png",
+    "path": "public/images/catalog/ninebot/ninebot-k14603/02.webp",
+    "model": "ninebot-k14603",
+    "caption": "M95c+ 吉利银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/M95c+金刚灰.png",
+    "path": "public/images/catalog/ninebot/ninebot-k14603/03.webp",
+    "model": "ninebot-k14603",
+    "caption": "M95c+ 金刚灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/M95c+沙漠黄.png",
+    "path": "public/images/catalog/ninebot/ninebot-k14603/04.webp",
+    "model": "ninebot-k14603",
+    "caption": "M95c+ 沙漠黄"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninebot_escooter_M3_100_PhantomSilver.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20201/01.webp",
+    "model": "ninebot-k20201",
+    "caption": "M3 100 幻影银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninebot_escooter_M3_100_black.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20201/02.webp",
+    "model": "ninebot-k20201",
+    "caption": "M3 100 战斗黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninebot_escooter_M3_100_white.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20201/03.webp",
+    "model": "ninebot-k20201",
+    "caption": "M3 100 光谱白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninebot_escooter_M3_100_orange.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20201/04.webp",
+    "model": "ninebot-k20201",
+    "caption": "M3 100 熔岩橙"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/Escooter_N3_85_PC_gray.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20603/01.webp",
+    "model": "ninebot-k20603",
+    "caption": "N3 85 2026 静雅灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/Escooter_N3_85_PC_white.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20603/02.webp",
+    "model": "ninebot-k20603",
+    "caption": "N3 85 2026 珍珠白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/Escooter_N3_85_PC_silver.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20603/03.webp",
+    "model": "ninebot-k20603",
+    "caption": "N3 85 2026 吉利银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/Escooter_N3_85_PC_black.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20603/04.webp",
+    "model": "ninebot-k20603",
+    "caption": "N3 85 2026 战斗黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/M395CMAX-hok-g.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15303/01.webp",
+    "model": "ninebot-k15303",
+    "caption": "M3 95c MAX公孙离款 公孙离款"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter-M5-125-silver.png",
+    "path": "public/images/catalog/ninebot/ninebot-k16002-1/01.webp",
+    "model": "ninebot-k16002-1",
+    "caption": "M5 125（单电版） 幻影银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter-M5-125-black.png",
+    "path": "public/images/catalog/ninebot/ninebot-k16002-1/02.webp",
+    "model": "ninebot-k16002-1",
+    "caption": "M5 125（单电版） 莹夜黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter-M5-125-red.png",
+    "path": "public/images/catalog/ninebot/ninebot-k16002-1/03.webp",
+    "model": "ninebot-k16002-1",
+    "caption": "M5 125（单电版） 脉冲红"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter-M5-125-orange.png",
+    "path": "public/images/catalog/ninebot/ninebot-k16002-1/04.webp",
+    "model": "ninebot-k16002-1",
+    "caption": "M5 125（单电版） 光子橙"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_Q585C_liuxingyin.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15702/01.webp",
+    "model": "ninebot-k15702",
+    "caption": "Q5 85c 流星银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_Q585C_mikafei.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15702/02.webp",
+    "model": "ninebot-k15702",
+    "caption": "Q5 85c 米咖啡"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_Q585C_yaoyelv.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15702/03.webp",
+    "model": "ninebot-k15702",
+    "caption": "Q5 85c 耀夜绿"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_Q585C_yanshihui.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15702/04.webp",
+    "model": "ninebot-k15702",
+    "caption": "Q5 85c 岩石灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-Q70c-mochanailv.png",
+    "path": "public/images/catalog/ninebot/ninebot-k10410/01.webp",
+    "model": "ninebot-k10410",
+    "caption": "Q70c 抹茶奶绿"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-Q70c-shengshihui.png",
+    "path": "public/images/catalog/ninebot/ninebot-k10410/02.webp",
+    "model": "ninebot-k10410",
+    "caption": "Q70c 绅士灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-Q70c-ningmenghuang.png",
+    "path": "public/images/catalog/ninebot/ninebot-k10410/03.webp",
+    "model": "ninebot-k10410",
+    "caption": "Q70c 柠檬黄"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-Q70c-naika.png",
+    "path": "public/images/catalog/ninebot/ninebot-k10410/04.webp",
+    "model": "ninebot-k10410",
+    "caption": "Q70c 奶咖"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninbot_escooter_N1_85_yellow.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20301/01.webp",
+    "model": "ninebot-k20301",
+    "caption": "N1 85 脉冲黄"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninbot_escooter_N1_85_gray.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20301/02.webp",
+    "model": "ninebot-k20301",
+    "caption": "N1 85 星云灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninbot_escooter_N1_85_red.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20301/03.webp",
+    "model": "ninebot-k20301",
+    "caption": "N1 85 竞速红"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/M80c+英伦绿.png",
+    "path": "public/images/catalog/ninebot/ninebot-k14601/01.webp",
+    "model": "ninebot-k14601",
+    "caption": "M80c+ 英伦绿"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/M85c+吉利银.png",
+    "path": "public/images/catalog/ninebot/ninebot-k14601/02.webp",
+    "model": "ninebot-k14601",
+    "caption": "M80c+ 吉利银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/M80c+金刚灰.png",
+    "path": "public/images/catalog/ninebot/ninebot-k14601/03.webp",
+    "model": "ninebot-k14601",
+    "caption": "M80c+ 金刚灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/M80c+沙漠黄.png",
+    "path": "public/images/catalog/ninebot/ninebot-k14601/04.webp",
+    "model": "ninebot-k14601",
+    "caption": "M80c+ 沙漠黄"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_Q595C_liuxingyin.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15703/01.webp",
+    "model": "ninebot-k15703",
+    "caption": "Q5 95c 流星银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_Q595C_mikafei.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15703/02.webp",
+    "model": "ninebot-k15703",
+    "caption": "Q5 95c 米咖啡"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_Q595C_yaoyelv.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15703/03.webp",
+    "model": "ninebot-k15703",
+    "caption": "Q5 95c 耀夜绿"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_Q595C_yanshihui.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15703/04.webp",
+    "model": "ninebot-k15703",
+    "caption": "Q5 95c 岩石灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/M3_85_B_800.png",
+    "path": "public/images/catalog/ninebot/ninebot-k202d/01.webp",
+    "model": "ninebot-k202d",
+    "caption": "M3 85 闪骑 幻影银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/M3_85_A_800.png",
+    "path": "public/images/catalog/ninebot/ninebot-k202d/02.webp",
+    "model": "ninebot-k202d",
+    "caption": "M3 85 闪骑 护甲绿"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter_N3-80C_gray.webp",
+    "path": "public/images/catalog/ninebot/ninebot-k15802/01.webp",
+    "model": "ninebot-k15802",
+    "caption": "N3 80c 静雅灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter_N3-80C_silver.webp",
+    "path": "public/images/catalog/ninebot/ninebot-k15802/02.webp",
+    "model": "ninebot-k15802",
+    "caption": "N3 80c 吉利银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter_N3-80C_white.webp",
+    "path": "public/images/catalog/ninebot/ninebot-k15802/03.webp",
+    "model": "ninebot-k15802",
+    "caption": "N3 80c 珍珠白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter_N3-80C_black.webp",
+    "path": "public/images/catalog/ninebot/ninebot-k15802/04.webp",
+    "model": "ninebot-k15802",
+    "caption": "N3 80c 战斗黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_QL85_white-v05.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20102/01.webp",
+    "model": "ninebot-k20102",
+    "caption": "QL 85 家庭版 古德白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_QL85_gray-v05.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20102/02.webp",
+    "model": "ninebot-k20102",
+    "caption": "QL 85 家庭版 天灰灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_QL85_yellow-v05.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20102/03.webp",
+    "model": "ninebot-k20102",
+    "caption": "QL 85 家庭版 柠檬黄"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/M3 95c max-吉利银.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15301/01.webp",
+    "model": "ninebot-k15301",
+    "caption": "M3 95c MAX 吉利银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/M3 95c max-战斗黑.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15301/02.webp",
+    "model": "ninebot-k15301",
+    "caption": "M3 95c MAX 战斗黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/M3 95c max-珍珠白.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15301/03.webp",
+    "model": "ninebot-k15301",
+    "caption": "M3 95c MAX 珍珠白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter_N3-70C_gray.webp",
+    "path": "public/images/catalog/ninebot/ninebot-k15804/01.webp",
+    "model": "ninebot-k15804",
+    "caption": "N3 70c 静雅灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter_N3-70C_sliver.webp",
+    "path": "public/images/catalog/ninebot/ninebot-k15804/02.webp",
+    "model": "ninebot-k15804",
+    "caption": "N3 70c 吉利银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter_N3-70C_white.webp",
+    "path": "public/images/catalog/ninebot/ninebot-k15804/03.webp",
+    "model": "ninebot-k15804",
+    "caption": "N3 70c 珍珠白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter_N3-70C_black.webp",
+    "path": "public/images/catalog/ninebot/ninebot-k15804/04.webp",
+    "model": "ninebot-k15804",
+    "caption": "N3 70c 战斗黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninebot_eScooter_M90_Black.png",
+    "path": "public/images/catalog/ninebot/ninebot-k09606/01.webp",
+    "model": "ninebot-k09606",
+    "caption": "M90 战斗黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninebot_eScooter_M90_White.png",
+    "path": "public/images/catalog/ninebot/ninebot-k09606/02.webp",
+    "model": "ninebot-k09606",
+    "caption": "M90 珍珠白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninbot_eScooter_M90_Geely_Silver.png",
+    "path": "public/images/catalog/ninebot/ninebot-k09606/03.webp",
+    "model": "ninebot-k09606",
+    "caption": "M90 吉利银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninebot_eScooter_M90_Quantum_Silver.png",
+    "path": "public/images/catalog/ninebot/ninebot-k09606/04.webp",
+    "model": "ninebot-k09606",
+    "caption": "M90 量子银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninebot_escooter_M3_95_orange.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20202/01.webp",
+    "model": "ninebot-k20202",
+    "caption": "M3 95 熔岩橙"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninebot_escooter_M3_95_black.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20202/02.webp",
+    "model": "ninebot-k20202",
+    "caption": "M3 95 战斗黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninebot_escooter_M3_95_white.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20202/03.webp",
+    "model": "ninebot-k20202",
+    "caption": "M3 95 光谱白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/ninebot_escooter_M3_95_PhantomSilver.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20202/04.webp",
+    "model": "ninebot-k20202",
+    "caption": "M3 95 幻影银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter_N3-85C_gray.webp",
+    "path": "public/images/catalog/ninebot/ninebot-k15801/01.webp",
+    "model": "ninebot-k15801",
+    "caption": "N3 85c 静雅灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter_N3-85C_silver.webp",
+    "path": "public/images/catalog/ninebot/ninebot-k15801/02.webp",
+    "model": "ninebot-k15801",
+    "caption": "N3 85c 吉利银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter_N3-85C_white.webp",
+    "path": "public/images/catalog/ninebot/ninebot-k15801/03.webp",
+    "model": "ninebot-k15801",
+    "caption": "N3 85c 珍珠白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter_N3-85C_black.webp",
+    "path": "public/images/catalog/ninebot/ninebot-k15801/04.webp",
+    "model": "ninebot-k15801",
+    "caption": "N3 85c 战斗黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/E150 MK2-松绿.png",
+    "path": "public/images/catalog/ninebot/ninebot-k11901/01.webp",
+    "model": "ninebot-k11901",
+    "caption": "E150 MK2 松绿"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/E150 MK2-吉利银.png",
+    "path": "public/images/catalog/ninebot/ninebot-k11901/02.webp",
+    "model": "ninebot-k11901",
+    "caption": "E150 MK2 吉利银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/E150 MK2-战斗黑.png",
+    "path": "public/images/catalog/ninebot/ninebot-k11901/03.webp",
+    "model": "ninebot-k11901",
+    "caption": "E150 MK2 战斗黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image-v2/escooter/E150 MK2-静谧粉.png",
+    "path": "public/images/catalog/ninebot/ninebot-k11901/04.webp",
+    "model": "ninebot-k11901",
+    "caption": "E150 MK2 静谧粉"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-M3-85C-liangziyin.png",
+    "path": "public/images/catalog/ninebot/ninebot-k17201/01.webp",
+    "model": "ninebot-k17201",
+    "caption": "M3 85c 量子银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-M3-85C-jingyahui.png",
+    "path": "public/images/catalog/ninebot/ninebot-k17201/02.webp",
+    "model": "ninebot-k17201",
+    "caption": "M3 85c 静雅灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-M3-85C-jiliyin.png",
+    "path": "public/images/catalog/ninebot/ninebot-k17201/03.webp",
+    "model": "ninebot-k17201",
+    "caption": "M3 85c 吉利银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter-M3-85C-zhenzhubai.png",
+    "path": "public/images/catalog/ninebot/ninebot-k17201/04.webp",
+    "model": "ninebot-k17201",
+    "caption": "M3 85c 珍珠白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_Q3_70_PPMT_Wishes.png",
+    "path": "public/images/catalog/ninebot/ninebot-k22403/01.webp",
+    "model": "ninebot-k22403",
+    "caption": "Q3泡泡玛特小甜豆联名款 许愿日"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_Q3_70_PPMT_Dream.png",
+    "path": "public/images/catalog/ninebot/ninebot-k22403/02.webp",
+    "model": "ninebot-k22403",
+    "caption": "Q3泡泡玛特小甜豆联名款 美梦日"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/CN_eScooter_QL90_white.png",
+    "path": "public/images/catalog/ninebot/ninebot-k201/01.webp",
+    "model": "ninebot-k201",
+    "caption": "QL 90 家庭版 古德白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/CN_eScooter_QL90_gray.png",
+    "path": "public/images/catalog/ninebot/ninebot-k201/02.webp",
+    "model": "ninebot-k201",
+    "caption": "QL 90 家庭版 天灰灰"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/CN_eScooter_QL90_yellow.png",
+    "path": "public/images/catalog/ninebot/ninebot-k201/03.webp",
+    "model": "ninebot-k201",
+    "caption": "QL 90 家庭版 柠檬黄"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/CN_eScooter_QL90_pink.png",
+    "path": "public/images/catalog/ninebot/ninebot-k201/04.webp",
+    "model": "ninebot-k201",
+    "caption": "QL 90 家庭版 桃气粉"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/CN_eScooter_N1_85_Valorant.png",
+    "path": "public/images/catalog/ninebot/ninebot-k20304/01.webp",
+    "model": "ninebot-k20304",
+    "caption": "N1 85 无畏契约联名款 捷风"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter-M5-200-purple.png",
+    "path": "public/images/catalog/ninebot/ninebot-k16003/01.webp",
+    "model": "ninebot-k16003",
+    "caption": "M5 200 极光紫"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/escooter-M5-200-golden.png",
+    "path": "public/images/catalog/ninebot/ninebot-k16003/02.webp",
+    "model": "ninebot-k16003",
+    "caption": "M5 200 流光金"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_M3_85c_Max_QuantumSilver.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15307/01.webp",
+    "model": "ninebot-k15307",
+    "caption": "M3 85c MAX 闪骑 量子银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_M3_85c_Max_white.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15307/02.webp",
+    "model": "ninebot-k15307",
+    "caption": "M3 85c MAX 闪骑 珍珠白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_M3_85c_Max_Black.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15307/03.webp",
+    "model": "ninebot-k15307",
+    "caption": "M3 85c MAX 闪骑 战斗黑"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_M3_95c_Max_QuantumSilver.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15306/01.webp",
+    "model": "ninebot-k15306",
+    "caption": "M3 95c MAX 闪骑 量子银"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_M3_95c_Max_white.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15306/02.webp",
+    "model": "ninebot-k15306",
+    "caption": "M3 95c MAX 闪骑 珍珠白"
+  },
+  {
+    "originalUrl": "https://ninebot.com/content/dam/segway-ninebot/cn/zh_cn/content-import/product-image/eScooter_M3_95c_Max_black.png",
+    "path": "public/images/catalog/ninebot/ninebot-k15306/03.webp",
+    "model": "ninebot-k15306",
+    "caption": "M3 95c MAX 闪骑 战斗黑"
+  }
+]

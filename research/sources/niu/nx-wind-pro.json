@@ -1,0 +1,452 @@
+{
+  "layout": "default",
+  "data": [
+    {
+      "parameterList": {
+        "sku_34469": {
+          "sku_id": "sku_34469",
+          "button": {
+            "edition": "NX 风速Pro",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10235122198313.html"
+          },
+          "button_directions": {
+            "edition": "NX 风速Pro",
+            "text": "",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": ""
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "NX 风速Pro"
+            },
+            "price": {
+              "name": "指导价",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_1021053447": {
+                  "body_color": "#065553",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_1_1021053447": {
+                  "body_color": "#342D5E",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_2_1021053447": {
+                  "body_color": "#222222",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_3_1021053447": {
+                  "body_color": "#DDDDDD",
+                  "line_color": "",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/6c1745202dd7c52b4c132acdda1f24e4.png",
+                "//img.niucache.com/service/media/vehicle/d300ffaeb7332e2538683a2002e8cb90.png",
+                "//img.niucache.com/service/media/vehicle/0cc4e925ebec9245a16b46f704ed0737.png",
+                "//img.niucache.com/service/media/vehicle/4c229db66acd3325db5e94efe35144df.png",
+                "//img.niucache.com/service/media/vehicle/17c77187be7ee4ca9f25d1eec077c418.png",
+                "//img.niucache.com/service/media/vehicle/2b0238c134df42d316f8d0edbb280c7a.png",
+                "//img.niucache.com/service/media/vehicle/737b36c1f948d5f61d14e292a35eff1f.png",
+                "//img.niucache.com/service/media/vehicle/bd7a365b87cac30c3565f026d7deea6f.png",
+                "//img.niucache.com/service/media/vehicle/90120adc12833b492cbd7a19b7f3bb7d.png",
+                "//img.niucache.com/service/media/vehicle/a15d6e80b3dea4e955636915783b2479.png",
+                "//img.niucache.com/service/media/vehicle/46b2959673f5e9702f2f672f1d712002.png",
+                "//img.niucache.com/service/media/vehicle/e2f33548c61487b375d2886c32fbe062.png",
+                "//img.niucache.com/service/media/vehicle/a81d331cfa4b1857410cbd2ca9300f7a.png",
+                "//img.niucache.com/service/media/vehicle/1ce1b4f6d684780f86a9a49bc2bebafa.png",
+                "//img.niucache.com/service/media/vehicle/533f9c659056384698d548f2003242e4.png",
+                "//img.niucache.com/service/media/vehicle/1567fbaf8a3dafbfb115795e24b6be38.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/6c1745202dd7c52b4c132acdda1f24e4.png",
+              "//img.niucache.com/service/media/vehicle/17c77187be7ee4ca9f25d1eec077c418.png",
+              "//img.niucache.com/service/media/vehicle/90120adc12833b492cbd7a19b7f3bb7d.png",
+              "//img.niucache.com/service/media/vehicle/a81d331cfa4b1857410cbd2ca9300f7a.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "理论续航",
+                "value": "工况77km/等速43km"
+              },
+              {
+                "name": "电池科技",
+                "value": "铅酸电池"
+              },
+              {
+                "name": "电池类型",
+                "value": "72v35Ah"
+              },
+              {
+                "name": "电机功率",
+                "value": "4600W"
+              },
+              {
+                "name": "最大输入功率",
+                "value": "6500W"
+              },
+              {
+                "name": "极速（Boost模式）",
+                "value": "100km/h"
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "150kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "钢"
+              },
+              {
+                "name": "减震",
+                "value": "前：液力阻尼式\n后：弹簧-液力阻尼式（五级可调）"
+              },
+              {
+                "name": "制动系统",
+                "value": "前碟刹220mm\n后碟刹200mm"
+              },
+              {
+                "name": "智慧仪表",
+                "value": "5寸TFT"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "TCS牵引力控制系统",
+                "value": 0
+              },
+              {
+                "name": "汽车级毫米波雷达",
+                "value": 0
+              },
+              {
+                "name": "汽车级全屏导航",
+                "value": 0
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "72V"
+              },
+              {
+                "name": "电池容量",
+                "value": "35Ah"
+              },
+              {
+                "name": "电池包重量",
+                "value": "60kg"
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1890mm"
+              },
+              {
+                "name": "宽",
+                "value": "745mm"
+              },
+              {
+                "name": "高",
+                "value": "1135mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "135mm"
+              },
+              {
+                "name": "轮胎尺寸",
+                "value": "前90/90-12\n后120/70-12"
+              }
+            ]
+          }
+        }
+      },
+      "parameterImageList": {
+        "all_colors": [
+          {
+            "body_color": "#065553",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#342D5E",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#222222",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#DDDDDD",
+            "line_color": "",
+            "select_color": ""
+          }
+        ],
+        "all_images": [
+          "//img.niucache.com/service/media/vehicle/6c1745202dd7c52b4c132acdda1f24e4.png",
+          "//img.niucache.com/service/media/vehicle/d300ffaeb7332e2538683a2002e8cb90.png",
+          "//img.niucache.com/service/media/vehicle/0cc4e925ebec9245a16b46f704ed0737.png",
+          "//img.niucache.com/service/media/vehicle/4c229db66acd3325db5e94efe35144df.png",
+          "//img.niucache.com/service/media/vehicle/17c77187be7ee4ca9f25d1eec077c418.png",
+          "//img.niucache.com/service/media/vehicle/2b0238c134df42d316f8d0edbb280c7a.png",
+          "//img.niucache.com/service/media/vehicle/737b36c1f948d5f61d14e292a35eff1f.png",
+          "//img.niucache.com/service/media/vehicle/bd7a365b87cac30c3565f026d7deea6f.png",
+          "//img.niucache.com/service/media/vehicle/90120adc12833b492cbd7a19b7f3bb7d.png",
+          "//img.niucache.com/service/media/vehicle/a15d6e80b3dea4e955636915783b2479.png",
+          "//img.niucache.com/service/media/vehicle/46b2959673f5e9702f2f672f1d712002.png",
+          "//img.niucache.com/service/media/vehicle/e2f33548c61487b375d2886c32fbe062.png",
+          "//img.niucache.com/service/media/vehicle/a81d331cfa4b1857410cbd2ca9300f7a.png",
+          "//img.niucache.com/service/media/vehicle/1ce1b4f6d684780f86a9a49bc2bebafa.png",
+          "//img.niucache.com/service/media/vehicle/533f9c659056384698d548f2003242e4.png",
+          "//img.niucache.com/service/media/vehicle/1567fbaf8a3dafbfb115795e24b6be38.png"
+        ],
+        "grey_logo": "//img.niucache.com/service/media/vehicle/7fb1a9803add5dd6b5855bde1364785b.svg",
+        "direction_url": "",
+        "logo": "//img.niucache.com/service/media/vehicle/0f663d394c02b2cb957b843e0e9c7543.svg",
+        "button": {
+          "bg_color": "#DF001F",
+          "purchase_link": "https://item.jd.com/10235122198313.html",
+          "word": "购买",
+          "word_color": "#FFFFFF"
+        },
+        "price": "",
+        "selling": []
+      },
+      "type": "nx-wind-pro",
+      "typetitle": "NX Wind",
+      "urllist": [
+        {
+          "id": 2294,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/09/758a57a7f92ebeaabec698eb2b408c73.jpg",
+          "sort": 1
+        },
+        {
+          "id": 2295,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/09/a3243af8c73422af6fb491385af8efaf.jpg",
+          "sort": 2
+        },
+        {
+          "id": 2296,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/09/199de16e5cfba9b95fcaf52db6588143.jpg",
+          "sort": 3
+        },
+        {
+          "id": 2297,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/09/b47753aa5446ec8278bf5708994df0c7.jpg",
+          "sort": 4
+        },
+        {
+          "id": 2298,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/09/4848852df51756332db8ee779a186188.jpg",
+          "sort": 5
+        },
+        {
+          "id": 2299,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/09/40b5256c8aa0f5e32d7ab66995425e4d.jpg",
+          "sort": 6
+        },
+        {
+          "id": 2300,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/09/d84499d2c11d97386a1fe56593ccf221.jpg",
+          "sort": 7
+        },
+        {
+          "id": 2301,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/09/b25ce9abc4595b2a12991fda37efdd9f.jpg",
+          "sort": 8
+        },
+        {
+          "id": 2302,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/09/0bed7d3396ad8103bd52ee7d66f164e4.jpg",
+          "sort": 9
+        },
+        {
+          "id": 2303,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/09/5597eab21a1dd3109cc3623b9dc44b5a.jpg",
+          "sort": 10
+        },
+        {
+          "id": 2304,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/09/14d583922507e01e2a85e69957b47060.jpg",
+          "sort": 11
+        },
+        {
+          "id": 2305,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/09/5afd3340b0f4e5702a9bae2041ba8bcb.jpg",
+          "sort": 12
+        },
+        {
+          "id": 2306,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/09/93ddd940a7a9e71d9b37b73565f5415b.jpg",
+          "sort": 13
+        },
+        {
+          "id": 2307,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/09/60bc2ac56c8ddc2595caa1666de35d84.jpg",
+          "sort": 14
+        },
+        {
+          "id": 2308,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/09/fb044d810938b61f63d90231611b0c5d.jpg",
+          "sort": 15
+        },
+        {
+          "id": 2309,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/09/e9a9dab7020907a256442f419d23f656.jpg",
+          "sort": 16
+        },
+        {
+          "id": 2310,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/09/8f01e9e98b34b010dc3d6c5356a789d4.jpg",
+          "sort": 17
+        },
+        {
+          "id": 2311,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/09/8bec2f50e4e7f015782fe2ce7304b428.jpg",
+          "sort": 18
+        },
+        {
+          "id": 2312,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/09/fccc08d5bd003cd5d1482bed310f4b73.jpg",
+          "sort": 19
+        }
+      ]
+    }
+  ],
+  "fetch": [],
+  "error": null,
+  "state": {
+    "userId": null,
+    "usId": null,
+    "isMobile": false,
+    "isWechat": false,
+    "isIOS": false,
+    "isSafari": false,
+    "isMac": null,
+    "accesstoken": null,
+    "isSamsung": null,
+    "compareVehicleIds": null,
+    "countryList": [],
+    "openId": null,
+    "isAndroidChrome": false
+  },
+  "serverRendered": true,
+  "routePath": "/products/nx-wind-pro"
+}

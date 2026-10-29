@@ -1,0 +1,371 @@
+{
+  "layout": "default",
+  "data": [
+    {
+      "parameterList": {
+        "sku_34084": {
+          "sku_id": "sku_34084",
+          "button": {
+            "edition": "NX 马拉松",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10216826151386.html"
+          },
+          "button_directions": {
+            "edition": "NX 马拉松",
+            "text": "",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": ""
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "NX 马拉松"
+            },
+            "price": {
+              "name": "指导价",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_0417023245": {
+                  "body_color": "#342D5E",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_1_0417023245": {
+                  "body_color": "#F8F8F8",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_2_0417023245": {
+                  "body_color": "#141414",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_3_0417023245": {
+                  "body_color": "#A8A8A8",
+                  "line_color": "",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/1fd3defbeec86910e0f9556ed1c071ba.png",
+                "//img.niucache.com/service/media/vehicle/22cbaf06494cf37390b902c1a198f7b4.png",
+                "//img.niucache.com/service/media/vehicle/0d9520d4cbb09f81eca3b5e16fdaf1cd.png",
+                "//img.niucache.com/service/media/vehicle/60ddf0b3ffbb7369521fdf6c62d56e2b.png",
+                "//img.niucache.com/service/media/vehicle/068475ac0c646e950540910ed8abf076.png",
+                "//img.niucache.com/service/media/vehicle/093b8af933293e76ff000623693dfab3.png",
+                "//img.niucache.com/service/media/vehicle/ade4c7494a3a87ccfb04534151b6444b.png",
+                "//img.niucache.com/service/media/vehicle/2c44630d42517c8c296f6aa0bb5896f5.png",
+                "//img.niucache.com/service/media/vehicle/529d4ff5c99d32c19929a84e0ff01c0a.png",
+                "//img.niucache.com/service/media/vehicle/6d800f1708e9be4e0f7c1810e49b6e9c.png",
+                "//img.niucache.com/service/media/vehicle/5d344623fdca484f582ef9ae29cfcd44.png",
+                "//img.niucache.com/service/media/vehicle/62b43fb8cc73a0e023f3983de098dd7a.png",
+                "//img.niucache.com/service/media/vehicle/a49ad0a13f8b78dd4603613ace5139ea.png",
+                "//img.niucache.com/service/media/vehicle/c7d9b381def08d9443ec80077bcfb695.png",
+                "//img.niucache.com/service/media/vehicle/1e405c9eac91d8c11986b1b7fb0a915c.png",
+                "//img.niucache.com/service/media/vehicle/92c3eea336d49ff78d37617ffbb0b941.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/1fd3defbeec86910e0f9556ed1c071ba.png",
+              "//img.niucache.com/service/media/vehicle/068475ac0c646e950540910ed8abf076.png",
+              "//img.niucache.com/service/media/vehicle/529d4ff5c99d32c19929a84e0ff01c0a.png",
+              "//img.niucache.com/service/media/vehicle/a49ad0a13f8b78dd4603613ace5139ea.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "理论续航",
+                "value": "121km/(工况)146km(等速)满把真续航（124km）"
+              },
+              {
+                "name": "电池科技",
+                "value": "微刀长续航72V50Ah锂电"
+              },
+              {
+                "name": "电机功率",
+                "value": "额定1500W/峰值2600W"
+              },
+              {
+                "name": "最高时速",
+                "value": "60km/h（Boost极速）"
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "150kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "Q235碳素钢"
+              },
+              {
+                "name": "减震",
+                "value": "前：液力阻尼式\n后：5级可调减震"
+              },
+              {
+                "name": "制动系统",
+                "value": "前碟刹220mm\n后碟刹180mm"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "TCS牵引力控制系统",
+                "value": 0
+              },
+              {
+                "name": "汽车级全屏导航",
+                "value": 0
+              },
+              {
+                "name": "智慧仪表",
+                "value": "5寸 TFT"
+              },
+              {
+                "name": "手控",
+                "value": "魔术轮"
+              },
+              {
+                "name": "双向灵犀转把",
+                "value": 0
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "72V"
+              },
+              {
+                "name": "充电时间",
+                "value": 8
+              },
+              {
+                "name": "充电方式",
+                "value": "车身充电"
+              },
+              {
+                "name": "支持速充",
+                "value": 0
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1896mm"
+              },
+              {
+                "name": "宽",
+                "value": "740mm"
+              },
+              {
+                "name": "高",
+                "value": "1140mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "125mm"
+              },
+              {
+                "name": "轮圈尺寸",
+                "value": "12英寸"
+              }
+            ]
+          }
+        }
+      },
+      "parameterImageList": {
+        "all_colors": [
+          {
+            "body_color": "#342D5E",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#F8F8F8",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#141414",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#A8A8A8",
+            "line_color": "",
+            "select_color": ""
+          }
+        ],
+        "all_images": [
+          "//img.niucache.com/service/media/vehicle/1fd3defbeec86910e0f9556ed1c071ba.png",
+          "//img.niucache.com/service/media/vehicle/22cbaf06494cf37390b902c1a198f7b4.png",
+          "//img.niucache.com/service/media/vehicle/0d9520d4cbb09f81eca3b5e16fdaf1cd.png",
+          "//img.niucache.com/service/media/vehicle/60ddf0b3ffbb7369521fdf6c62d56e2b.png",
+          "//img.niucache.com/service/media/vehicle/068475ac0c646e950540910ed8abf076.png",
+          "//img.niucache.com/service/media/vehicle/093b8af933293e76ff000623693dfab3.png",
+          "//img.niucache.com/service/media/vehicle/ade4c7494a3a87ccfb04534151b6444b.png",
+          "//img.niucache.com/service/media/vehicle/2c44630d42517c8c296f6aa0bb5896f5.png",
+          "//img.niucache.com/service/media/vehicle/529d4ff5c99d32c19929a84e0ff01c0a.png",
+          "//img.niucache.com/service/media/vehicle/6d800f1708e9be4e0f7c1810e49b6e9c.png",
+          "//img.niucache.com/service/media/vehicle/5d344623fdca484f582ef9ae29cfcd44.png",
+          "//img.niucache.com/service/media/vehicle/62b43fb8cc73a0e023f3983de098dd7a.png",
+          "//img.niucache.com/service/media/vehicle/a49ad0a13f8b78dd4603613ace5139ea.png",
+          "//img.niucache.com/service/media/vehicle/c7d9b381def08d9443ec80077bcfb695.png",
+          "//img.niucache.com/service/media/vehicle/1e405c9eac91d8c11986b1b7fb0a915c.png",
+          "//img.niucache.com/service/media/vehicle/92c3eea336d49ff78d37617ffbb0b941.png"
+        ],
+        "grey_logo": "//img.niucache.com/service/media/vehicle/33d444b647272df939adde39fb6583e0.svg",
+        "direction_url": "",
+        "logo": "//img.niucache.com/service/media/vehicle/f79c8bafe8ed247762c0999617c02657.svg",
+        "button": {
+          "bg_color": "#DF001F",
+          "purchase_link": "https://item.jd.com/10216826151386.html",
+          "word": "购买",
+          "word_color": "#FFFFFF"
+        },
+        "price": "",
+        "selling": []
+      },
+      "type": "nx-marathon",
+      "typetitle": "NX Marathon",
+      "urllist": [
+        {
+          "id": 1538,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/2c6772e9c02a11990bbb42fc75a154d3.jpg",
+          "sort": 1
+        },
+        {
+          "id": 1539,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/5198c0a591334dd3523e39b0545e40dc.jpg",
+          "sort": 2
+        },
+        {
+          "id": 1540,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/5690245480f5b5a1af8a61b91dd19a9b.jpg",
+          "sort": 3
+        },
+        {
+          "id": 1541,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/b1202194304cd6dd7a02049faf0288b5.jpg",
+          "sort": 4
+        },
+        {
+          "id": 1542,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/06/af40ac042809654b94fe18a1f35273e1.jpg",
+          "sort": 5
+        },
+        {
+          "id": 1543,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/6e713b7b6479e31b7c2c32bc70aa2620.jpg",
+          "sort": 6
+        },
+        {
+          "id": 1544,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/07/4171d93f96c235b51e0d6f70dac0baf8.jpg",
+          "sort": 7
+        },
+        {
+          "id": 1545,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/407dc5c64cd04cc71a2757cc530177a9.jpg",
+          "sort": 8
+        },
+        {
+          "id": 1546,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/808903b2e7441c75fce0474c9698b63a.jpg",
+          "sort": 9
+        },
+        {
+          "id": 1547,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/04/efe8e864b94fe0a2536088119deb6645.jpg",
+          "sort": 10
+        }
+      ]
+    }
+  ],
+  "fetch": [],
+  "error": null,
+  "state": {
+    "userId": null,
+    "usId": null,
+    "isMobile": false,
+    "isWechat": false,
+    "isIOS": false,
+    "isSafari": false,
+    "isMac": null,
+    "accesstoken": null,
+    "isSamsung": null,
+    "compareVehicleIds": null,
+    "countryList": [],
+    "openId": null,
+    "isAndroidChrome": false
+  },
+  "serverRendered": true,
+  "routePath": "/products/nx-marathon"
+}

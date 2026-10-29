@@ -22,6 +22,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version-file: .node-version
+      - name: Validate scripts, catalog and filtering
+        run: npm run check
       - name: Build static website
         run: npm run build
       - name: Upload Pages artifact

@@ -1,0 +1,410 @@
+{
+  "layout": "default",
+  "data": [
+    {
+      "parameterList": {
+        "sku_33064": {
+          "sku_id": "sku_33064",
+          "button": {
+            "edition": "RQi CBS",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10076052437460.html#switch-sku"
+          },
+          "button_directions": {
+            "edition": "",
+            "text": "",
+            "text_color": "",
+            "button_color": "",
+            "link": ""
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "RQi CBS 动力版"
+            },
+            "price": {
+              "name": "指导价",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_1110054347": {
+                  "body_color": "#8998AA",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_1_1110054347": {
+                  "body_color": "#909090",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_2_1110054347": {
+                  "body_color": "#264f45",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_3_1110054347": {
+                  "body_color": "#ca2a2c",
+                  "line_color": "",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/bd19a443c2682dfeeea27525358cfd2e.png",
+                "//img.niucache.com/service/media/vehicle/b0d92e5f10f425756638ee93665e23ef.png",
+                "//img.niucache.com/service/media/vehicle/7642d16ffd370c05a9b6b44ad29645d6.png",
+                "//img.niucache.com/service/media/vehicle/9fb882ba633d5a19023641f71908bba8.png",
+                "//img.niucache.com/service/media/vehicle/337e309796baf72b0aa894d8e9d78094.png",
+                "//img.niucache.com/service/media/vehicle/9347628db265678c8266a5931002c555.png",
+                "//img.niucache.com/service/media/vehicle/8b76763f3b219959858fd829cba77d8f.png",
+                "//img.niucache.com/service/media/vehicle/b51ed5c3ea00d29c0722f1b35262e887.png",
+                "//img.niucache.com/service/media/vehicle/59a14dbbd702476ceaf894692a6f1990.png",
+                "//img.niucache.com/service/media/vehicle/79d78dbf136c7236850f981c8b5ef24f.png",
+                "//img.niucache.com/service/media/vehicle/0424ed936589874c27d18a334cae5860.png",
+                "//img.niucache.com/service/media/vehicle/bc9f3567bf35839d9a445ec6f84118e5.png",
+                "//img.niucache.com/service/media/vehicle/7402746ec5004c715d755c152994a857.png",
+                "//img.niucache.com/service/media/vehicle/2456ea2d81c7a517ab095730971d72c1.png",
+                "//img.niucache.com/service/media/vehicle/b2d3128bb4a98608ffeffc8339d64aa5.png",
+                "//img.niucache.com/service/media/vehicle/5bd79132cefb94daabfd9ae76b945524.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/bd19a443c2682dfeeea27525358cfd2e.png",
+              "//img.niucache.com/service/media/vehicle/337e309796baf72b0aa894d8e9d78094.png",
+              "//img.niucache.com/service/media/vehicle/59a14dbbd702476ceaf894692a6f1990.png",
+              "//img.niucache.com/service/media/vehicle/7402746ec5004c715d755c152994a857.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "理论续航",
+                "value": "119km"
+              },
+              {
+                "name": "电池科技",
+                "value": "NIU ENERGY™"
+              },
+              {
+                "name": "电池类型",
+                "value": "锂电"
+              },
+              {
+                "name": "电机功率",
+                "value": "中置电机5000W"
+              },
+              {
+                "name": "最高时速",
+                "value": "100km/h"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "336（186+150）kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "钢"
+              },
+              {
+                "name": "减震",
+                "value": "前：液力阻尼 后：弹簧-空气阻尼"
+              },
+              {
+                "name": "制动系统",
+                "value": "CBS"
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "72V"
+              },
+              {
+                "name": "电池容量",
+                "value": "72V36Ah*2"
+              },
+              {
+                "name": "电池包重量",
+                "value": "单包25kg"
+              },
+              {
+                "name": "充电时间",
+                "value": "单电4小时/双电7小时"
+              },
+              {
+                "name": "充电方式",
+                "value": "电池单充／车身充电"
+              },
+              {
+                "name": "支持速冲",
+                "value": 0
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "2080mm"
+              },
+              {
+                "name": "宽",
+                "value": "835mm"
+              },
+              {
+                "name": "高",
+                "value": "1084mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "167mm"
+              },
+              {
+                "name": "轮圈尺寸",
+                "value": "17英寸"
+              }
+            ]
+          }
+        },
+        "sku_33068": {
+          "sku_id": "sku_33068",
+          "button": {
+            "edition": "RQi ABS",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10076052437456.html#switch-sku"
+          },
+          "button_directions": {
+            "edition": "RQi ABS",
+            "text": "",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": ""
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "RQi ABS 动力版"
+            },
+            "price": {
+              "name": "指导价",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_1110054347": {
+                  "body_color": "#8998AA",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_1_1110054347": {
+                  "body_color": "#909090",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_2_1110054347": {
+                  "body_color": "#264f45",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_3_1110054347": {
+                  "body_color": "#ca2a2c",
+                  "line_color": "",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/bd19a443c2682dfeeea27525358cfd2e.png",
+                "//img.niucache.com/service/media/vehicle/b0d92e5f10f425756638ee93665e23ef.png",
+                "//img.niucache.com/service/media/vehicle/7642d16ffd370c05a9b6b44ad29645d6.png",
+                "//img.niucache.com/service/media/vehicle/9fb882ba633d5a19023641f71908bba8.png",
+                "//img.niucache.com/service/media/vehicle/337e309796baf72b0aa894d8e9d78094.png",
+                "//img.niucache.com/service/media/vehicle/9347628db265678c8266a5931002c555.png",
+                "//img.niucache.com/service/media/vehicle/8b76763f3b219959858fd829cba77d8f.png",
+                "//img.niucache.com/service/media/vehicle/b51ed5c3ea00d29c0722f1b35262e887.png",
+                "//img.niucache.com/service/media/vehicle/59a14dbbd702476ceaf894692a6f1990.png",
+                "//img.niucache.com/service/media/vehicle/79d78dbf136c7236850f981c8b5ef24f.png",
+                "//img.niucache.com/service/media/vehicle/0424ed936589874c27d18a334cae5860.png",
+                "//img.niucache.com/service/media/vehicle/bc9f3567bf35839d9a445ec6f84118e5.png",
+                "//img.niucache.com/service/media/vehicle/7402746ec5004c715d755c152994a857.png",
+                "//img.niucache.com/service/media/vehicle/2456ea2d81c7a517ab095730971d72c1.png",
+                "//img.niucache.com/service/media/vehicle/b2d3128bb4a98608ffeffc8339d64aa5.png",
+                "//img.niucache.com/service/media/vehicle/5bd79132cefb94daabfd9ae76b945524.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/bd19a443c2682dfeeea27525358cfd2e.png",
+              "//img.niucache.com/service/media/vehicle/337e309796baf72b0aa894d8e9d78094.png",
+              "//img.niucache.com/service/media/vehicle/59a14dbbd702476ceaf894692a6f1990.png",
+              "//img.niucache.com/service/media/vehicle/7402746ec5004c715d755c152994a857.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "理论续航",
+                "value": "119km"
+              },
+              {
+                "name": "电池科技",
+                "value": "NIU ENERGY™"
+              },
+              {
+                "name": "电池类型",
+                "value": "锂电"
+              },
+              {
+                "name": "电机功率",
+                "value": "中置电机5000W"
+              },
+              {
+                "name": "最高时速",
+                "value": "100km/h"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "336（186+150）kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "钢"
+              },
+              {
+                "name": "减震",
+                "value": "前：液力阻尼 后：弹簧-空气阻尼"
+              },
+              {
+                "name": "制动系统",
+                "value": "ABS+TCS"
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "72V"
+              },
+              {
+                "name": "电池容量",
+                "value": "72V36Ah*2"
+              },
+              {
+                "name": "电池包重量",
+                "value": "单包25kg"
+              },
+              {
+                "name": "充电时间",
+                "value": "单电4小时/双电7小时"
+              },
+              {
+                "name": "充电方式",
+                "value": "电池单充／车身充电"
+              },
+              {
+                "name": "支持速冲",
+                "value": 0
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "2080mm"
+              },
+              {
+                "name": "宽",
+                "value": "835mm"
+              },
+              {
+                "name": "高",
+                "value": "1084mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "167mm"
+              },
+              {
+                "name": "轮圈尺寸",
+                "value": "17英寸"
+              }
+            ]
+          }
+        }
+      },
+      "parameterImageList": {
+        "all_colors": [],
+        "all_images": [],
+        "button": {},
+        "selling": []
+      }
+    }
+  ],
+  "fetch": [],
+  "error": null,
+  "state": {
+    "userId": null,
+    "usId": null,
+    "isMobile": false,
+    "isWechat": false,
+    "isIOS": false,
+    "isSafari": false,
+    "isMac": null,
+    "accesstoken": null,
+    "isSamsung": null,
+    "compareVehicleIds": null,
+    "countryList": [],
+    "openId": null,
+    "isAndroidChrome": false
+  },
+  "serverRendered": true,
+  "routePath": "/product/rqi"
+}

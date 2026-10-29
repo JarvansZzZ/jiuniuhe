@@ -1,0 +1,225 @@
+{
+  "layout": "default",
+  "data": [
+    {
+      "parameterList": {
+        "sku_30708": {
+          "sku_id": "sku_30708",
+          "button": {
+            "edition": "版本1",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10105102949921.html"
+          },
+          "button_directions": {
+            "edition": "版本1",
+            "text": "",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": ""
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "O "
+            },
+            "price": {
+              "name": "",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_0531060929": {
+                  "body_color": "#F3F3F3",
+                  "line_color": "#FF9C59",
+                  "select_color": ""
+                },
+                "sku_1_0531060929": {
+                  "body_color": "#D3E6D0",
+                  "line_color": "#FF9C59",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/aac4f562de1bd61848995633cb3ff946.png",
+                "//img.niucache.com/service/media/vehicle/524322b07e4959291eb430823602a867.png",
+                "//img.niucache.com/service/media/vehicle/048b36d7f9c4821cc342413958f2e83c.png",
+                "//img.niucache.com/service/media/vehicle/c10e5d73295dadadff1b30dcda724488.png",
+                "//img.niucache.com/service/media/vehicle/139eb68bfde7f316f1574c5ea1a79411.png",
+                "//img.niucache.com/service/media/vehicle/e7b8a48ea74679a7fdbb68578cd9592e.png",
+                "//img.niucache.com/service/media/vehicle/c6a7b7f8806fc7c141f14e430dfa2394.png",
+                "//img.niucache.com/service/media/vehicle/975ee1df29fb81639caad1b62e2797de.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/aac4f562de1bd61848995633cb3ff946.png",
+              "//img.niucache.com/service/media/vehicle/139eb68bfde7f316f1574c5ea1a79411.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "理论续航",
+                "value": "工况50km/等速70km"
+              },
+              {
+                "name": "电池类型",
+                "value": "铅酸"
+              },
+              {
+                "name": "电机功率",
+                "value": "600W"
+              },
+              {
+                "name": "最高时速",
+                "value": "45km/h"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "88kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "Q235"
+              },
+              {
+                "name": "减震",
+                "value": "前：液力阻尼式 后：套筒油阻尼式"
+              },
+              {
+                "name": "制动系统",
+                "value": "前碟后鼓"
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "60V"
+              },
+              {
+                "name": "电池容量",
+                "value": "20Ah"
+              },
+              {
+                "name": "电池包重量",
+                "value": "≈ 30.5kg"
+              },
+              {
+                "name": "充电时间",
+                "value": "7小时"
+              },
+              {
+                "name": "充电方式",
+                "value": "车身充电"
+              },
+              {
+                "name": "支持速冲",
+                "value": 1
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1660mm"
+              },
+              {
+                "name": "宽",
+                "value": "735mm"
+              },
+              {
+                "name": "高",
+                "value": "1100mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "130mm"
+              }
+            ]
+          }
+        }
+      },
+      "parameterImageList": {
+        "all_colors": [
+          {
+            "body_color": "#F3F3F3",
+            "line_color": "#FF9C59",
+            "select_color": ""
+          },
+          {
+            "body_color": "#D3E6D0",
+            "line_color": "#FF9C59",
+            "select_color": ""
+          }
+        ],
+        "all_images": [
+          "//img.niucache.com/service/media/vehicle/aac4f562de1bd61848995633cb3ff946.png",
+          "//img.niucache.com/service/media/vehicle/524322b07e4959291eb430823602a867.png",
+          "//img.niucache.com/service/media/vehicle/048b36d7f9c4821cc342413958f2e83c.png",
+          "//img.niucache.com/service/media/vehicle/c10e5d73295dadadff1b30dcda724488.png",
+          "//img.niucache.com/service/media/vehicle/139eb68bfde7f316f1574c5ea1a79411.png",
+          "//img.niucache.com/service/media/vehicle/e7b8a48ea74679a7fdbb68578cd9592e.png",
+          "//img.niucache.com/service/media/vehicle/c6a7b7f8806fc7c141f14e430dfa2394.png",
+          "//img.niucache.com/service/media/vehicle/975ee1df29fb81639caad1b62e2797de.png"
+        ],
+        "grey_logo": "//img.niucache.com/service/media/vehicle/81fbb50086cf34628752126d3d109d43.svg",
+        "direction_url": "",
+        "logo": "//img.niucache.com/service/media/vehicle/2d8f0571bb979d42f629a3f32166ba8a.svg",
+        "button": {
+          "bg_color": "#DF001F",
+          "purchase_link": "https://item.jd.com/10105102949921.html",
+          "word": "购买",
+          "word_color": "#FFFFFF"
+        },
+        "price": "",
+        "selling": []
+      },
+      "type": "o",
+      "typetitle": "O"
+    }
+  ],
+  "fetch": [],
+  "error": null,
+  "state": {
+    "userId": null,
+    "usId": null,
+    "isMobile": false,
+    "isWechat": false,
+    "isIOS": false,
+    "isSafari": false,
+    "isMac": null,
+    "accesstoken": null,
+    "isSamsung": null,
+    "compareVehicleIds": null,
+    "countryList": [],
+    "openId": null,
+    "isAndroidChrome": false
+  },
+  "serverRendered": true,
+  "routePath": "/product/o"
+}

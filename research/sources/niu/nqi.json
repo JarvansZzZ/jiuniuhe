@@ -1,0 +1,293 @@
+{
+  "layout": "default",
+  "data": [
+    {
+      "parameterList": {
+        "sku_27775": {
+          "sku_id": "sku_27775",
+          "button": {
+            "edition": "版本1",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://detail.tmall.com/item.htm?id=537010826306&ut_sk=1.WUft106TMuQDAED3tWvWHmpT_21380790_1667385794646.Copy.1&sourceType=item&price=8999&suid=01C770BA-F695-48D0-8175-E35634A77F44&shareUniqueId=18516097692&un=27dd2e226af5c3729554e02b75a03bae&share_crt_v"
+          },
+          "button_directions": {
+            "edition": "版本1",
+            "text": "",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": ""
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "NQi 动力版"
+            },
+            "price": {
+              "name": "",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_1219101859": {
+                  "body_color": "#F5F5F5",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_2_1219101859": {
+                  "body_color": "#28417C",
+                  "line_color": "",
+                  "select_color": ""
+                },
+                "sku_4_1219101859": {
+                  "body_color": "#616263",
+                  "line_color": "",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/81e8219084343ce3071258e648ba96ca.png",
+                "//img.niucache.com/service/media/vehicle/dcce99d097e4a7681f93666f530ff5bf.png",
+                "//img.niucache.com/service/media/vehicle/010415ea05b2342e32ce962309e1bcf6.png",
+                "//img.niucache.com/service/media/vehicle/819c4c1e66ecf1c8e591f8af3bdef5a7.png",
+                "//img.niucache.com/service/media/vehicle/e8b7be5420bb118839974b659c7d303b.png",
+                "//img.niucache.com/service/media/vehicle/06dc10d2f85ee4be7003d2ecc950ea48.png",
+                "//img.niucache.com/service/media/vehicle/25f6abfad94403f3c11ac20d87bb8470.png",
+                "//img.niucache.com/service/media/vehicle/ea2fb4bbe697d9372de3887a2d97d7eb.png",
+                "//img.niucache.com/service/media/vehicle/4741716ab05331536d20ff1984b1811a.png",
+                "//img.niucache.com/service/media/vehicle/c7b0e96e81073da652036b6c871b1acd.png",
+                "//img.niucache.com/service/media/vehicle/beea82385d740917afce78f3416d513a.png",
+                "//img.niucache.com/service/media/vehicle/0704044fefc0d7c9208b18e037803f03.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/81e8219084343ce3071258e648ba96ca.png",
+              "//img.niucache.com/service/media/vehicle/e8b7be5420bb118839974b659c7d303b.png",
+              "//img.niucache.com/service/media/vehicle/4741716ab05331536d20ff1984b1811a.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "理论续航",
+                "value": "工况法/等速法:45/50km"
+              },
+              {
+                "name": "电池科技",
+                "value": "NIU ENERGY™"
+              },
+              {
+                "name": "电池类型",
+                "value": "锂电池"
+              },
+              {
+                "name": "电机功率",
+                "value": "1200W"
+              },
+              {
+                "name": "最高时速",
+                "value": "65km/h"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "150kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "钢"
+              },
+              {
+                "name": "减震",
+                "value": "前:液力阻尼式 后：弹簧液力阻尼式"
+              },
+              {
+                "name": "制动系统",
+                "value": "前后碟刹"
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "60V"
+              },
+              {
+                "name": "电池容量",
+                "value": "60/26Ah"
+              },
+              {
+                "name": "电池包重量",
+                "value": "10.8kg"
+              },
+              {
+                "name": "充电时间",
+                "value": "7.5小时"
+              },
+              {
+                "name": "充电方式",
+                "value": "电池单充／车身充电"
+              },
+              {
+                "name": "支持速冲",
+                "value": 1
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1800mm"
+              },
+              {
+                "name": "宽",
+                "value": "700mm"
+              },
+              {
+                "name": "高",
+                "value": "1150mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "135mm"
+              },
+              {
+                "name": "轮圈尺寸",
+                "value": "12英寸"
+              }
+            ]
+          }
+        }
+      },
+      "parameterImageList": {
+        "all_colors": [
+          {
+            "body_color": "#F5F5F5",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#000000",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#28417C",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#43583D",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#616263",
+            "line_color": "",
+            "select_color": ""
+          }
+        ],
+        "all_images": [
+          "//img.niucache.com/service/media/vehicle/81e8219084343ce3071258e648ba96ca.png",
+          "//img.niucache.com/service/media/vehicle/dcce99d097e4a7681f93666f530ff5bf.png",
+          "//img.niucache.com/service/media/vehicle/010415ea05b2342e32ce962309e1bcf6.png",
+          "//img.niucache.com/service/media/vehicle/819c4c1e66ecf1c8e591f8af3bdef5a7.png",
+          "//img.niucache.com/service/media/vehicle/6f832ab22965b7c92041bca5abebbd37.png",
+          "//img.niucache.com/service/media/vehicle/1c9d77c84c08d060d07e5424bd4ce39f.png",
+          "//img.niucache.com/service/media/vehicle/454b57032b6aa0ca693bf4e2a9cfd6d7.png",
+          "//img.niucache.com/service/media/vehicle/8972602453407427ea8bf628a30a33cf.png",
+          "//img.niucache.com/service/media/vehicle/e8b7be5420bb118839974b659c7d303b.png",
+          "//img.niucache.com/service/media/vehicle/06dc10d2f85ee4be7003d2ecc950ea48.png",
+          "//img.niucache.com/service/media/vehicle/25f6abfad94403f3c11ac20d87bb8470.png",
+          "//img.niucache.com/service/media/vehicle/ea2fb4bbe697d9372de3887a2d97d7eb.png",
+          "//img.niucache.com/service/media/vehicle/19b777f001da02eb40218d884360b206.png",
+          "//img.niucache.com/service/media/vehicle/dba4da9d3ba8d41005146e3527d493bd.png",
+          "//img.niucache.com/service/media/vehicle/87a12886cf153410d8a94d0ae603cb4f.png",
+          "//img.niucache.com/service/media/vehicle/6a24fe1f600891e6d69e718962d06745.png",
+          "//img.niucache.com/service/media/vehicle/4741716ab05331536d20ff1984b1811a.png",
+          "//img.niucache.com/service/media/vehicle/c7b0e96e81073da652036b6c871b1acd.png",
+          "//img.niucache.com/service/media/vehicle/beea82385d740917afce78f3416d513a.png",
+          "//img.niucache.com/service/media/vehicle/0704044fefc0d7c9208b18e037803f03.png"
+        ],
+        "grey_logo": "//img.niucache.com/service/media/vehicle/3a9d0e01ec127343385e5a5d46ac68e7.svg",
+        "direction_url": "//img.niucache.com/service/media/product-station-direction/ea9adda75a006f0081336838fc252c0b.pdf",
+        "logo": "//img.niucache.com/service/media/vehicle/e3d1422f5a1b7057eaa2a84022c82edd.svg",
+        "button": {
+          "bg_color": "#df001f",
+          "purchase_link": "https://detail.tmall.com/item.htm?id=537010826306&ut_sk=1.WUft106TMuQDAED3tWvWHmpT_21380790_1667385794646.Copy.1&sourceType=item&price=8999&suid=01C770BA-F695-48D0-8175-E35634A77F44&shareUniqueId=18516097692&un=27dd2e226af5c3729554e02b75a03bae&share_crt_v",
+          "word": "购买",
+          "word_color": "#ffffff"
+        },
+        "price": "",
+        "selling": [
+          {
+            "content": "一次充电满足一周出行",
+            "title": "90KM超长续航"
+          },
+          {
+            "content": "城市骑行游刃有余",
+            "title": "最高车速65KM/h"
+          },
+          {
+            "content": "创新V极电机，最大扭矩138N·m",
+            "title": "0-50KM/h加速6.3s"
+          },
+          {
+            "content": "OkGo、智能安防、OTA 2.0、超宽彩屏",
+            "title": "汽车级智能互联"
+          },
+          {
+            "content": "前后碟刹、EABS电子刹车、360度灯光系统",
+            "title": "更高级别安全配置"
+          },
+          {
+            "content": "每一台NQi都是街头艺术品",
+            "title": "5款个性化配色"
+          }
+        ]
+      }
+    }
+  ],
+  "fetch": [],
+  "error": null,
+  "state": {
+    "userId": null,
+    "usId": null,
+    "isMobile": false,
+    "isWechat": false,
+    "isIOS": false,
+    "isSafari": false,
+    "isMac": null,
+    "accesstoken": null,
+    "isSamsung": null,
+    "compareVehicleIds": null,
+    "countryList": [],
+    "openId": null,
+    "isAndroidChrome": false
+  },
+  "serverRendered": true,
+  "routePath": "/product/nqi"
+}

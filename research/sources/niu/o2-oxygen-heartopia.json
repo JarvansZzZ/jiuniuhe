@@ -1,0 +1,484 @@
+{
+  "layout": "default",
+  "data": [
+    {
+      "parameterList": {
+        "sku_34514": {
+          "sku_id": "sku_34514",
+          "button": {
+            "edition": "O2 氧气 Sport 心动小镇联名款",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10237076763797.html?pcdk=IXs8MgeNCwsgRUe17Hyw01NKws768mDqPrzCxV9xLLI%3D.M8AW.sbc1"
+          },
+          "button_directions": {
+            "edition": "O2 氧气 Sport 心动小镇联名款",
+            "text": "",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": ""
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "O2 氧气 Sport 心动小镇联名款"
+            },
+            "price": {
+              "name": "指导价",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "",
+              "value": null
+            },
+            "all_images": {
+              "name": "",
+              "value": null
+            },
+            "images": {
+              "name": "",
+              "value": null
+            }
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "理论续航",
+                "value": "70KM"
+              },
+              {
+                "name": "电池科技",
+                "value": "铅酸"
+              },
+              {
+                "name": "电机功率",
+                "value": "1200W"
+              },
+              {
+                "name": "最高时速",
+                "value": "52km/h"
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "150kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "碳素钢"
+              },
+              {
+                "name": "减震",
+                "value": "前：液力阻尼式  后：弹簧-液力阻尼式"
+              },
+              {
+                "name": "制动系统",
+                "value": "前后双碟"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "双通道真ABS",
+                "value": 1
+              },
+              {
+                "name": "TCS牵引力控制系统",
+                "value": 0
+              },
+              {
+                "name": "汽车级毫米波雷达",
+                "value": 1
+              },
+              {
+                "name": "汽车级全屏导航",
+                "value": 0
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "72V"
+              },
+              {
+                "name": "电池包重量",
+                "value": "38.4kg"
+              },
+              {
+                "name": "充电时间",
+                "value": "8小时"
+              },
+              {
+                "name": "充电方式",
+                "value": "车身充电"
+              },
+              {
+                "name": "支持速充",
+                "value": 1
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1565mm"
+              },
+              {
+                "name": "宽",
+                "value": "750mm"
+              },
+              {
+                "name": "高",
+                "value": "1090mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "110mm"
+              },
+              {
+                "name": "轮圈尺寸",
+                "value": "前:3.0-8 后:80/80-10"
+              }
+            ]
+          }
+        }
+      },
+      "parameterImageList": {
+        "all_colors": [
+          {
+            "body_color": "#C9EAFF",
+            "line_color": "#FFCAD0",
+            "select_color": ""
+          }
+        ],
+        "all_images": [
+          "//img.niucache.com/service/media/vehicle/311de67d1f226688f1b62bca64828525.png",
+          "//img.niucache.com/service/media/vehicle/702ae605fc5d41a26756d66bb5e7b6b6.png",
+          "//img.niucache.com/service/media/vehicle/6b68fac5edb5d0092b3e7fdbe644e6d5.png",
+          "//img.niucache.com/service/media/vehicle/dc72d237911d33364d3839ba706847cc.png"
+        ],
+        "grey_logo": "//img.niucache.com/service/media/vehicle/0eeefc58c770781ece905297bab736b8.svg",
+        "direction_url": "",
+        "logo": "//img.niucache.com/service/media/vehicle/6b53e55883d6b0a800d57edf4ad4b8fc.svg",
+        "button": {
+          "bg_color": "#DF001F",
+          "purchase_link": "https://item.jd.com/10237076763797.html?pcdk=IXs8MgeNCwsgRUe17Hyw01NKws768mDqPrzCxV9xLLI%3D.M8AW.sbc1",
+          "word": "购买",
+          "word_color": "#FFFFFF"
+        },
+        "price": "",
+        "selling": []
+      },
+      "type": "o2-oxygen-heartopia",
+      "typetitle": "O2 Oxygen",
+      "urllist": [
+        {
+          "id": 2794,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/33f1323219d9570df48a096b61d2c472.jpg",
+          "sort": 1
+        },
+        {
+          "id": 2795,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/a4e0997bfa9d7aa0d3a2e9176e5e96e1.jpg",
+          "sort": 2
+        },
+        {
+          "id": 2796,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/a442af10cbee64070b4b52d6dec5741c.jpg",
+          "sort": 3
+        },
+        {
+          "id": 2797,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/aad3fa8b9cde7a8f5801e3c9574e99ab.jpg",
+          "sort": 4
+        },
+        {
+          "id": 2798,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/9c1eeb35175c0d708a845f940dee63de.jpg",
+          "sort": 5
+        },
+        {
+          "id": 2799,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/c54818dedf1e8dc873e5d6803e921ad6.jpg",
+          "sort": 6
+        },
+        {
+          "id": 2800,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/f073402257e36f321e8cafe22659ab1d.jpg",
+          "sort": 7
+        },
+        {
+          "id": 2801,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/aec4579a2937e20bbe9834f0522e2eaa.jpg",
+          "sort": 8
+        },
+        {
+          "id": 2802,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/182288a805ac2fc8385754129b941015.jpg",
+          "sort": 9
+        },
+        {
+          "id": 2803,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/88348283b493339ab449ebfb00d0ed07.jpg",
+          "sort": 10
+        },
+        {
+          "id": 2804,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/2430ec5501b50928cbba086208c3b025.jpg",
+          "sort": 11
+        },
+        {
+          "id": 2805,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/4c41d551fbf8a39abdfa7dae520ff7bc.jpg",
+          "sort": 12
+        },
+        {
+          "id": 2806,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/13d647d49bad28d8218d2f33f6be46c2.jpg",
+          "sort": 13
+        },
+        {
+          "id": 2807,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/449704d6e252c0cdb1f64f20c865f0cc.jpg",
+          "sort": 14
+        },
+        {
+          "id": 2808,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/4bdb7eae5542e44457012ecddf5c69a1.jpg",
+          "sort": 15
+        },
+        {
+          "id": 2809,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/17bd22e189d4814ea7a9ac77781eca29.jpg",
+          "sort": 16
+        },
+        {
+          "id": 2810,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/0bef195d3595bf85bd1b2382459149e6.jpg",
+          "sort": 17
+        },
+        {
+          "id": 2811,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/17a2e8bdf557b90e3d38dc362dcb6067.jpg",
+          "sort": 18
+        },
+        {
+          "id": 2812,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/4a37de35560bde606b3bec76f20d8669.jpg",
+          "sort": 19
+        },
+        {
+          "id": 2813,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/379e83bb552a9d1ec580004e972ffb49.jpg",
+          "sort": 20
+        },
+        {
+          "id": 2814,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/967b0fb664efb33039551220210d8af9.jpg",
+          "sort": 21
+        },
+        {
+          "id": 2815,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/1ac816b21e54ab6fcefeac2c1813368f.jpg",
+          "sort": 22
+        },
+        {
+          "id": 2816,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/39c9938af2ccdedda16a13e150f58c44.jpg",
+          "sort": 23
+        },
+        {
+          "id": 2817,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/166ec9248faafa59fcd5845b68b1d249.jpg",
+          "sort": 24
+        },
+        {
+          "id": 2818,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/79dc07428af7175f656470c7baee2291.jpg",
+          "sort": 25
+        },
+        {
+          "id": 2819,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/fa659f0a87213db92578dc3da7cd4548.jpg",
+          "sort": 26
+        },
+        {
+          "id": 2820,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/b905cca6b22b0a39dfeb390da415cba7.jpg",
+          "sort": 27
+        },
+        {
+          "id": 2821,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/13a504a60c85650bf03335eb277a216d.jpg",
+          "sort": 28
+        },
+        {
+          "id": 2822,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/ae3f119a71ca22a2c098f143e379bfc5.jpg",
+          "sort": 29
+        },
+        {
+          "id": 2823,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://niu-img.oss-cn-beijing.aliyuncs.com/urm/2026/10/249eb53f258518f4c8da5799a6f5ca7c.jpg",
+          "sort": 30
+        }
+      ]
+    }
+  ],
+  "fetch": [],
+  "error": null,
+  "state": {
+    "userId": null,
+    "usId": null,
+    "isMobile": false,
+    "isWechat": false,
+    "isIOS": false,
+    "isSafari": false,
+    "isMac": null,
+    "accesstoken": null,
+    "isSamsung": null,
+    "compareVehicleIds": null,
+    "countryList": [],
+    "openId": null,
+    "isAndroidChrome": false
+  },
+  "serverRendered": true,
+  "routePath": "/products/o2-oxygen-heartopia"
+}

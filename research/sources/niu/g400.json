@@ -1,0 +1,411 @@
+{
+  "layout": "default",
+  "data": [
+    {
+      "parameterList": {
+        "sku_27783": {
+          "sku_id": "sku_27783",
+          "button": {
+            "edition": "版本1",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#999999",
+            "link": ""
+          },
+          "button_directions": {
+            "edition": "版本1",
+            "text": "",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": ""
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "G400 都市版"
+            },
+            "price": {
+              "name": "",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_1127050256": {
+                  "body_color": "#000000",
+                  "line_color": "#d2a67e",
+                  "select_color": ""
+                },
+                "sku_3_1127050256": {
+                  "body_color": "#e2e1dc",
+                  "line_color": "#283f6a",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/e2e5ee9858854b3b8fe32e8a4e2ba333.png",
+                "//img.niucache.com/service/media/vehicle/3e7c8668c430f0c5f51cf32466cfc2d6.png",
+                "//img.niucache.com/service/media/vehicle/fbbcfec3952619a91d105ebbdc1cf7f4.png",
+                "//img.niucache.com/service/media/vehicle/f6a8322105b3c23a16a257d409df43cc.png",
+                "//img.niucache.com/service/media/vehicle/630484ba37f467d537bf4bac074e18ed.png",
+                "//img.niucache.com/service/media/vehicle/848c9a47498b3046311478dae7800ca2.png",
+                "//img.niucache.com/service/media/vehicle/ee25ac15a815b662f051721da0942240.png",
+                "//img.niucache.com/service/media/vehicle/eccaa853fe70e073dde6f881cefad4de.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/e2e5ee9858854b3b8fe32e8a4e2ba333.png",
+              "//img.niucache.com/service/media/vehicle/630484ba37f467d537bf4bac074e18ed.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "理论续航",
+                "value": "49km(工况法) 67km(等速法)"
+              },
+              {
+                "name": "电池类型",
+                "value": "铅酸"
+              },
+              {
+                "name": "电机功率",
+                "value": "800W"
+              },
+              {
+                "name": "最高时速",
+                "value": "45km/h"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "75kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "Q235优质碳素钢"
+              },
+              {
+                "name": "减震",
+                "value": "前-液压阻尼式\n后-可调套筒油阻尼式"
+              },
+              {
+                "name": "制动系统",
+                "value": "前后碟刹"
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "60v"
+              },
+              {
+                "name": "电池容量",
+                "value": "20Ah"
+              },
+              {
+                "name": "电池包重量",
+                "value": "35kg"
+              },
+              {
+                "name": "充电时间",
+                "value": "6小时"
+              },
+              {
+                "name": "充电方式",
+                "value": "车身充电"
+              },
+              {
+                "name": "支持速冲",
+                "value": 1
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1790 mm"
+              },
+              {
+                "name": "宽",
+                "value": "725 mm"
+              },
+              {
+                "name": "高",
+                "value": "1065 mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "130mm"
+              },
+              {
+                "name": "轮圈尺寸",
+                "value": "10in"
+              }
+            ]
+          }
+        },
+        "sku_27787": {
+          "sku_id": "sku_27787",
+          "button": {
+            "edition": "版本2",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10075943204822.html"
+          },
+          "button_directions": {
+            "edition": "",
+            "text": "",
+            "text_color": "",
+            "button_color": "",
+            "link": ""
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "G400 动力版"
+            },
+            "price": {
+              "name": "",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_1127050256": {
+                  "body_color": "#000000",
+                  "line_color": "#d2a67e",
+                  "select_color": ""
+                },
+                "sku_3_1127050256": {
+                  "body_color": "#e2e1dc",
+                  "line_color": "#283f6a",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/e2e5ee9858854b3b8fe32e8a4e2ba333.png",
+                "//img.niucache.com/service/media/vehicle/3e7c8668c430f0c5f51cf32466cfc2d6.png",
+                "//img.niucache.com/service/media/vehicle/fbbcfec3952619a91d105ebbdc1cf7f4.png",
+                "//img.niucache.com/service/media/vehicle/f6a8322105b3c23a16a257d409df43cc.png",
+                "//img.niucache.com/service/media/vehicle/630484ba37f467d537bf4bac074e18ed.png",
+                "//img.niucache.com/service/media/vehicle/848c9a47498b3046311478dae7800ca2.png",
+                "//img.niucache.com/service/media/vehicle/ee25ac15a815b662f051721da0942240.png",
+                "//img.niucache.com/service/media/vehicle/eccaa853fe70e073dde6f881cefad4de.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/e2e5ee9858854b3b8fe32e8a4e2ba333.png",
+              "//img.niucache.com/service/media/vehicle/630484ba37f467d537bf4bac074e18ed.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "理论续航",
+                "value": "44km(工况法) 64km(等速法)"
+              },
+              {
+                "name": "电池类型",
+                "value": "铅酸"
+              },
+              {
+                "name": "电机功率",
+                "value": "1200W"
+              },
+              {
+                "name": "最高时速",
+                "value": "52km/h"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "150kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "Q236优质碳素钢"
+              },
+              {
+                "name": "减震",
+                "value": "前-液压阻尼式\n后-可调套筒油阻尼式"
+              },
+              {
+                "name": "制动系统",
+                "value": "前后碟刹"
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "72v"
+              },
+              {
+                "name": "电池容量",
+                "value": "20Ah"
+              },
+              {
+                "name": "电池包重量",
+                "value": "42kg"
+              },
+              {
+                "name": "充电时间",
+                "value": "6小时"
+              },
+              {
+                "name": "充电方式",
+                "value": "车身充电"
+              },
+              {
+                "name": "支持速冲",
+                "value": 1
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1790 mm"
+              },
+              {
+                "name": "宽",
+                "value": "725 mm"
+              },
+              {
+                "name": "高",
+                "value": "1065 mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "130mm"
+              },
+              {
+                "name": "轮圈尺寸",
+                "value": "10in"
+              }
+            ]
+          }
+        }
+      },
+      "parameterImageList": {
+        "all_colors": [
+          {
+            "body_color": "#000000",
+            "line_color": "#d2a67e",
+            "select_color": ""
+          },
+          {
+            "body_color": "#d6cfbc",
+            "line_color": "",
+            "select_color": ""
+          },
+          {
+            "body_color": "#ffffff",
+            "line_color": "#",
+            "select_color": ""
+          },
+          {
+            "body_color": "#e2e1dc",
+            "line_color": "#283f6a",
+            "select_color": ""
+          }
+        ],
+        "all_images": [
+          "//img.niucache.com/service/media/vehicle/e2e5ee9858854b3b8fe32e8a4e2ba333.png",
+          "//img.niucache.com/service/media/vehicle/3e7c8668c430f0c5f51cf32466cfc2d6.png",
+          "//img.niucache.com/service/media/vehicle/fbbcfec3952619a91d105ebbdc1cf7f4.png",
+          "//img.niucache.com/service/media/vehicle/f6a8322105b3c23a16a257d409df43cc.png",
+          "//img.niucache.com/service/media/vehicle/732b97f133c583c0cd6454797532e7e2.png",
+          "//img.niucache.com/service/media/vehicle/515923056c1b67bee345096d16fb78e2.png",
+          "//img.niucache.com/service/media/vehicle/5cf5b8d1daabe08c65317aa69c75ae60.png",
+          "//img.niucache.com/service/media/vehicle/f3994ea66c12d4de025ac270c793cedd.png",
+          "//img.niucache.com/service/media/vehicle/7d66c2eee4c0dab664a9828efd45f20b.png",
+          "//img.niucache.com/service/media/vehicle/9f9d1eb9b81843f04dda97ec436c2ea9.png",
+          "//img.niucache.com/service/media/vehicle/ffc82c746f6b56fcca91353e821de0ad.png",
+          "//img.niucache.com/service/media/vehicle/01d4c2613dfcb914d6f11ce14fc32947.png",
+          "//img.niucache.com/service/media/vehicle/630484ba37f467d537bf4bac074e18ed.png",
+          "//img.niucache.com/service/media/vehicle/848c9a47498b3046311478dae7800ca2.png",
+          "//img.niucache.com/service/media/vehicle/ee25ac15a815b662f051721da0942240.png",
+          "//img.niucache.com/service/media/vehicle/eccaa853fe70e073dde6f881cefad4de.png"
+        ],
+        "grey_logo": "//img.niucache.com/service/media/vehicle/b6151d48e102e76711a4d39f6e4f7992.svg",
+        "direction_url": "",
+        "logo": "//img.niucache.com/service/media/vehicle/cfc4dcfc7c1fd7500f5d2d68e19f439b.svg",
+        "button": {
+          "bg_color": "#df001f",
+          "purchase_link": "https://item.jd.com/10075943204822.html",
+          "word": "购买",
+          "word_color": "#ffffff"
+        },
+        "price": "",
+        "selling": []
+      },
+      "type": "g400",
+      "typetitle": "G400"
+    }
+  ],
+  "fetch": [],
+  "error": null,
+  "state": {
+    "userId": null,
+    "usId": null,
+    "isMobile": false,
+    "isWechat": false,
+    "isIOS": false,
+    "isSafari": false,
+    "isMac": null,
+    "accesstoken": null,
+    "isSamsung": null,
+    "compareVehicleIds": null,
+    "countryList": [],
+    "openId": null,
+    "isAndroidChrome": false
+  },
+  "serverRendered": true,
+  "routePath": "/product/g400"
+}

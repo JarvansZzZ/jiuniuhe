@@ -1,0 +1,821 @@
+{
+  "layout": "default",
+  "data": [
+    {
+      "parameterList": {
+        "sku_34132": {
+          "sku_id": "sku_34132",
+          "button": {
+            "edition": "FS",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://item.jd.com/10208513137310.html"
+          },
+          "button_directions": {
+            "edition": "FS",
+            "text": "",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": ""
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "FS"
+            },
+            "price": {
+              "name": "指导价",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_0514115955": {
+                  "body_color": "#FFFFFF",
+                  "line_color": "#15ECC5",
+                  "select_color": ""
+                },
+                "sku_1_0514115955": {
+                  "body_color": "#342D5E",
+                  "line_color": "#E11185",
+                  "select_color": ""
+                },
+                "sku_2_0514115955": {
+                  "body_color": "#15ECC5",
+                  "line_color": "",
+                  "select_color": "#FFFFFF"
+                },
+                "sku_3_0514115955": {
+                  "body_color": "#0011FF",
+                  "line_color": "",
+                  "select_color": "#D0D0D0"
+                },
+                "sku_4_0514115955": {
+                  "body_color": "#000000",
+                  "line_color": "#15ECC5",
+                  "select_color": ""
+                },
+                "sku_5_0514115955": {
+                  "body_color": "#FFFFFF",
+                  "line_color": "#15ECC5",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/169dece9ac59ef7c744161c1a2198c5e.png",
+                "//img.niucache.com/service/media/vehicle/59234e650522d842080ac553208435c9.png",
+                "//img.niucache.com/service/media/vehicle/bc2b7c9797d08fbc931a588395920245.png",
+                "//img.niucache.com/service/media/vehicle/97aaa3b484bf881b59575940975b1963.png",
+                "//img.niucache.com/service/media/vehicle/31cc7f5a373b9effcfdc96f8af4cf24d.png",
+                "//img.niucache.com/service/media/vehicle/6f8012ed7098762514caa5d414f60953.png",
+                "//img.niucache.com/service/media/vehicle/1794aa2d01a4de5377fce20c70b3b4bd.png",
+                "//img.niucache.com/service/media/vehicle/0379e67b01f8fff1fc5a2ab794479631.png",
+                "//img.niucache.com/service/media/vehicle/512844a1d2307a49a92a33e9a0810a48.png",
+                "//img.niucache.com/service/media/vehicle/33606aeaede3d4db86bfeed3abc92102.png",
+                "//img.niucache.com/service/media/vehicle/cfb0b82368887691d912a9e6fd3b1e92.png",
+                "//img.niucache.com/service/media/vehicle/7e73b5bd4452c1150c31bec8a5588a0b.png",
+                "//img.niucache.com/service/media/vehicle/b853203e7ff30b88dff76b0aa26b83ec.png",
+                "//img.niucache.com/service/media/vehicle/8d862689770a82d8ececa4d7b5efebcd.png",
+                "//img.niucache.com/service/media/vehicle/422436828ed08bb8c4f860ef38f75de6.png",
+                "//img.niucache.com/service/media/vehicle/471c1360ed897ad1098ff055e097a5e8.png",
+                "//img.niucache.com/service/media/vehicle/574bb7f92389c5c31093ce9250631d0a.png",
+                "//img.niucache.com/service/media/vehicle/7d1b196d1f39c8a2d81acdc36651ec32.png",
+                "//img.niucache.com/service/media/vehicle/7f0fea89eb95ac96798e9ce826853fee.png",
+                "//img.niucache.com/service/media/vehicle/bad4b36873b6e0b623fc5a4413ddff52.png",
+                "//img.niucache.com/service/media/vehicle/f8fcf4094cc09188a175612fdcabc45d.png",
+                "//img.niucache.com/service/media/vehicle/a29f6e626a28c43c10a12a631fccfeb8.png",
+                "//img.niucache.com/service/media/vehicle/477c22750dc14457c8c61bd582b5b16f.png",
+                "//img.niucache.com/service/media/vehicle/c00817e7c76099854e4ef671a2ac08c7.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/169dece9ac59ef7c744161c1a2198c5e.png",
+              "//img.niucache.com/service/media/vehicle/31cc7f5a373b9effcfdc96f8af4cf24d.png",
+              "//img.niucache.com/service/media/vehicle/512844a1d2307a49a92a33e9a0810a48.png",
+              "//img.niucache.com/service/media/vehicle/b853203e7ff30b88dff76b0aa26b83ec.png",
+              "//img.niucache.com/service/media/vehicle/574bb7f92389c5c31093ce9250631d0a.png",
+              "//img.niucache.com/service/media/vehicle/f8fcf4094cc09188a175612fdcabc45d.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "续航里程（工况法/等速法）",
+                "value": "57km / 67km"
+              },
+              {
+                "name": "电池科技",
+                "value": "铅酸电池"
+              },
+              {
+                "name": "电池类型",
+                "value": ""
+              },
+              {
+                "name": "电机功率",
+                "value": "1500W"
+              },
+              {
+                "name": "最大输入功率",
+                "value": "2520W"
+              },
+              {
+                "name": "极速（Boost模式）",
+                "value": "57km/h"
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "150kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "钢"
+              },
+              {
+                "name": "减震",
+                "value": "前：液力阻尼\n后：弹簧不可调"
+              },
+              {
+                "name": "制动系统",
+                "value": "前碟刹：220mm\n后碟刹：180mm"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "TCS牵引力控制系统",
+                "value": 0
+              },
+              {
+                "name": "汽车级毫米波雷达",
+                "value": 1
+              },
+              {
+                "name": "汽车级全屏导航",
+                "value": 0
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "72V"
+              },
+              {
+                "name": "电池容量",
+                "value": "20Ah"
+              },
+              {
+                "name": "电池包重量",
+                "value": "36.6KG"
+              },
+              {
+                "name": "充电时间",
+                "value": "7小时"
+              },
+              {
+                "name": "充电方式",
+                "value": "车身充电"
+              },
+              {
+                "name": "支持速充",
+                "value": 1
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1840mm"
+              },
+              {
+                "name": "宽",
+                "value": "735mm"
+              },
+              {
+                "name": "高",
+                "value": "1130mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "125mm"
+              },
+              {
+                "name": "轮胎尺寸",
+                "value": "前：80/90-12\n后：3.0-10"
+              }
+            ]
+          }
+        },
+        "sku_34138": {
+          "sku_id": "sku_34138",
+          "button": {
+            "edition": "FS Citi",
+            "text": "购买",
+            "text_color": "#ffffff",
+            "button_color": "#df001f",
+            "link": "https://detail.tmall.com/item.htm?abbucket=12&fpChannel=101&fpChannelSig=0c7811a1ef759f05bc5b8f57d9c81a2df1372fa9&id=1017034949886&mi_id=0000UPT8NKzZm8qnL5Sx3dszxrGhkrSqVqQmHs3IPF_gQhs&ns=1&skuId=6025044721874&spm=a21n57.1.hoverItem.1&utparam=%7B%22aplus_abtest%22%3A%22fc050e00967a3ffb5b6a5aea477dd708%22%7D&xxc=taobaoSearch"
+          },
+          "button_directions": {
+            "edition": "",
+            "text": "",
+            "text_color": "",
+            "button_color": "",
+            "link": ""
+          },
+          "compare_params": {
+            "edition": {
+              "name": "车型",
+              "value": "FS Citi"
+            },
+            "price": {
+              "name": "指导价",
+              "value": ""
+            },
+            "need_driving": {
+              "name": "上牌政策",
+              "value": "需要驾照"
+            },
+            "type": {
+              "name": "类型",
+              "value": "电动轻便摩托车"
+            },
+            "all_colors": {
+              "name": "颜色",
+              "value": {
+                "sku_0_0514115955": {
+                  "body_color": "#FFFFFF",
+                  "line_color": "#15ECC5",
+                  "select_color": ""
+                },
+                "sku_1_0514115955": {
+                  "body_color": "#342D5E",
+                  "line_color": "#E11185",
+                  "select_color": ""
+                },
+                "sku_2_0514115955": {
+                  "body_color": "#15ECC5",
+                  "line_color": "",
+                  "select_color": "#FFFFFF"
+                },
+                "sku_3_0514115955": {
+                  "body_color": "#0011FF",
+                  "line_color": "",
+                  "select_color": "#D0D0D0"
+                },
+                "sku_4_0514115955": {
+                  "body_color": "#000000",
+                  "line_color": "#15ECC5",
+                  "select_color": ""
+                },
+                "sku_5_0514115955": {
+                  "body_color": "#FFFFFF",
+                  "line_color": "#15ECC5",
+                  "select_color": ""
+                }
+              }
+            },
+            "all_images": {
+              "name": "图片",
+              "value": [
+                "//img.niucache.com/service/media/vehicle/169dece9ac59ef7c744161c1a2198c5e.png",
+                "//img.niucache.com/service/media/vehicle/59234e650522d842080ac553208435c9.png",
+                "//img.niucache.com/service/media/vehicle/bc2b7c9797d08fbc931a588395920245.png",
+                "//img.niucache.com/service/media/vehicle/97aaa3b484bf881b59575940975b1963.png",
+                "//img.niucache.com/service/media/vehicle/31cc7f5a373b9effcfdc96f8af4cf24d.png",
+                "//img.niucache.com/service/media/vehicle/6f8012ed7098762514caa5d414f60953.png",
+                "//img.niucache.com/service/media/vehicle/1794aa2d01a4de5377fce20c70b3b4bd.png",
+                "//img.niucache.com/service/media/vehicle/0379e67b01f8fff1fc5a2ab794479631.png",
+                "//img.niucache.com/service/media/vehicle/512844a1d2307a49a92a33e9a0810a48.png",
+                "//img.niucache.com/service/media/vehicle/33606aeaede3d4db86bfeed3abc92102.png",
+                "//img.niucache.com/service/media/vehicle/cfb0b82368887691d912a9e6fd3b1e92.png",
+                "//img.niucache.com/service/media/vehicle/7e73b5bd4452c1150c31bec8a5588a0b.png",
+                "//img.niucache.com/service/media/vehicle/b853203e7ff30b88dff76b0aa26b83ec.png",
+                "//img.niucache.com/service/media/vehicle/8d862689770a82d8ececa4d7b5efebcd.png",
+                "//img.niucache.com/service/media/vehicle/422436828ed08bb8c4f860ef38f75de6.png",
+                "//img.niucache.com/service/media/vehicle/471c1360ed897ad1098ff055e097a5e8.png",
+                "//img.niucache.com/service/media/vehicle/574bb7f92389c5c31093ce9250631d0a.png",
+                "//img.niucache.com/service/media/vehicle/7d1b196d1f39c8a2d81acdc36651ec32.png",
+                "//img.niucache.com/service/media/vehicle/7f0fea89eb95ac96798e9ce826853fee.png",
+                "//img.niucache.com/service/media/vehicle/bad4b36873b6e0b623fc5a4413ddff52.png",
+                "//img.niucache.com/service/media/vehicle/f8fcf4094cc09188a175612fdcabc45d.png",
+                "//img.niucache.com/service/media/vehicle/a29f6e626a28c43c10a12a631fccfeb8.png",
+                "//img.niucache.com/service/media/vehicle/477c22750dc14457c8c61bd582b5b16f.png",
+                "//img.niucache.com/service/media/vehicle/c00817e7c76099854e4ef671a2ac08c7.png"
+              ]
+            },
+            "images": [
+              "//img.niucache.com/service/media/vehicle/169dece9ac59ef7c744161c1a2198c5e.png",
+              "//img.niucache.com/service/media/vehicle/31cc7f5a373b9effcfdc96f8af4cf24d.png",
+              "//img.niucache.com/service/media/vehicle/512844a1d2307a49a92a33e9a0810a48.png",
+              "//img.niucache.com/service/media/vehicle/b853203e7ff30b88dff76b0aa26b83ec.png",
+              "//img.niucache.com/service/media/vehicle/574bb7f92389c5c31093ce9250631d0a.png",
+              "//img.niucache.com/service/media/vehicle/f8fcf4094cc09188a175612fdcabc45d.png"
+            ]
+          },
+          "params": {
+            "1": [
+              {
+                "name": "主要参数"
+              },
+              {
+                "name": "续航里程（工况法/等速法）",
+                "value": "50km / 79km"
+              },
+              {
+                "name": "电池科技",
+                "value": "铅酸电池"
+              },
+              {
+                "name": "电池类型",
+                "value": ""
+              },
+              {
+                "name": "电机功率",
+                "value": "1200W"
+              },
+              {
+                "name": "最大输入功率",
+                "value": "2520W"
+              },
+              {
+                "name": "极速（Boost模式）",
+                "value": "50km/h"
+              },
+              {
+                "name": "额定最大载质量",
+                "value": "150kg"
+              },
+              {
+                "name": "车架材质",
+                "value": "钢"
+              },
+              {
+                "name": "减震",
+                "value": "前：液力阻尼\n后：弹簧不可调"
+              },
+              {
+                "name": "制动系统",
+                "value": "前碟刹：220mm\n后碟刹：180mm"
+              },
+              {
+                "name": "智能 APP",
+                "value": 0
+              },
+              {
+                "name": "TCS牵引力控制系统",
+                "value": 0
+              },
+              {
+                "name": "汽车级毫米波雷达",
+                "value": 1
+              },
+              {
+                "name": "汽车级全屏导航",
+                "value": 0
+              }
+            ],
+            "2": [
+              {
+                "name": "电力系统"
+              },
+              {
+                "name": "电压",
+                "value": "72V"
+              },
+              {
+                "name": "电池容量",
+                "value": "20Ah"
+              },
+              {
+                "name": "电池包重量",
+                "value": "36.6KG"
+              },
+              {
+                "name": "充电时间",
+                "value": "7小时"
+              },
+              {
+                "name": "充电方式",
+                "value": "车身充电"
+              },
+              {
+                "name": "支持速充",
+                "value": 1
+              }
+            ],
+            "3": [
+              {
+                "name": "尺寸"
+              },
+              {
+                "name": "长",
+                "value": "1840mm"
+              },
+              {
+                "name": "宽",
+                "value": "735mm"
+              },
+              {
+                "name": "高",
+                "value": "1130mm"
+              },
+              {
+                "name": "最小离地间隙",
+                "value": "125mm"
+              },
+              {
+                "name": "轮胎尺寸",
+                "value": "前：80/90-12\n后：3.0-10"
+              }
+            ]
+          }
+        }
+      },
+      "parameterImageList": {
+        "all_colors": [
+          {
+            "body_color": "#FFFFFF",
+            "line_color": "#15ECC5",
+            "select_color": ""
+          },
+          {
+            "body_color": "#342D5E",
+            "line_color": "#E11185",
+            "select_color": ""
+          },
+          {
+            "body_color": "#15ECC5",
+            "line_color": "",
+            "select_color": "#FFFFFF"
+          },
+          {
+            "body_color": "#0011FF",
+            "line_color": "",
+            "select_color": "#D0D0D0"
+          },
+          {
+            "body_color": "#000000",
+            "line_color": "#15ECC5",
+            "select_color": ""
+          },
+          {
+            "body_color": "#FFFFFF",
+            "line_color": "#15ECC5",
+            "select_color": ""
+          }
+        ],
+        "all_images": [
+          "//img.niucache.com/service/media/vehicle/169dece9ac59ef7c744161c1a2198c5e.png",
+          "//img.niucache.com/service/media/vehicle/59234e650522d842080ac553208435c9.png",
+          "//img.niucache.com/service/media/vehicle/bc2b7c9797d08fbc931a588395920245.png",
+          "//img.niucache.com/service/media/vehicle/97aaa3b484bf881b59575940975b1963.png",
+          "//img.niucache.com/service/media/vehicle/31cc7f5a373b9effcfdc96f8af4cf24d.png",
+          "//img.niucache.com/service/media/vehicle/6f8012ed7098762514caa5d414f60953.png",
+          "//img.niucache.com/service/media/vehicle/1794aa2d01a4de5377fce20c70b3b4bd.png",
+          "//img.niucache.com/service/media/vehicle/0379e67b01f8fff1fc5a2ab794479631.png",
+          "//img.niucache.com/service/media/vehicle/512844a1d2307a49a92a33e9a0810a48.png",
+          "//img.niucache.com/service/media/vehicle/33606aeaede3d4db86bfeed3abc92102.png",
+          "//img.niucache.com/service/media/vehicle/cfb0b82368887691d912a9e6fd3b1e92.png",
+          "//img.niucache.com/service/media/vehicle/7e73b5bd4452c1150c31bec8a5588a0b.png",
+          "//img.niucache.com/service/media/vehicle/b853203e7ff30b88dff76b0aa26b83ec.png",
+          "//img.niucache.com/service/media/vehicle/8d862689770a82d8ececa4d7b5efebcd.png",
+          "//img.niucache.com/service/media/vehicle/422436828ed08bb8c4f860ef38f75de6.png",
+          "//img.niucache.com/service/media/vehicle/471c1360ed897ad1098ff055e097a5e8.png",
+          "//img.niucache.com/service/media/vehicle/574bb7f92389c5c31093ce9250631d0a.png",
+          "//img.niucache.com/service/media/vehicle/7d1b196d1f39c8a2d81acdc36651ec32.png",
+          "//img.niucache.com/service/media/vehicle/7f0fea89eb95ac96798e9ce826853fee.png",
+          "//img.niucache.com/service/media/vehicle/bad4b36873b6e0b623fc5a4413ddff52.png",
+          "//img.niucache.com/service/media/vehicle/f8fcf4094cc09188a175612fdcabc45d.png",
+          "//img.niucache.com/service/media/vehicle/a29f6e626a28c43c10a12a631fccfeb8.png",
+          "//img.niucache.com/service/media/vehicle/477c22750dc14457c8c61bd582b5b16f.png",
+          "//img.niucache.com/service/media/vehicle/c00817e7c76099854e4ef671a2ac08c7.png"
+        ],
+        "grey_logo": "//img.niucache.com/service/media/vehicle/05f7cc25ad588465a4fa8d22cab7fb9d.svg",
+        "direction_url": "",
+        "logo": "//img.niucache.com/service/media/vehicle/64c443286e16241cb456357c82148abb.svg",
+        "button": {
+          "bg_color": "#DF001F",
+          "purchase_link": "https://item.jd.com/10208513137310.html",
+          "word": "购买",
+          "word_color": "#FFFFFF"
+        },
+        "price": "",
+        "selling": []
+      },
+      "type": "fs-wind",
+      "typetitle": "FS Wind",
+      "urllist": [
+        {
+          "id": 1200,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/3ef70076d17350edcff2f71b4e13c69e.jpg",
+          "sort": 1
+        },
+        {
+          "id": 1201,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/486fef1ff6f0385cc55bf7f95227d5bc.jpg",
+          "sort": 2
+        },
+        {
+          "id": 1202,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/00ab2730ad7fa7e90817d6adb83be85e.jpg",
+          "sort": 3
+        },
+        {
+          "id": 1203,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/f52324aa2edea23760dcd68fb4ed8dd2.jpg",
+          "sort": 4
+        },
+        {
+          "id": 1204,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/841e4e679b4a435f372eddbd0feff878.jpg",
+          "sort": 5
+        },
+        {
+          "id": 1205,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/92c7851f9cb8f5c60e6d2a34bb91942c.jpg",
+          "sort": 6
+        },
+        {
+          "id": 1206,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/7173905e210222879af5447cf70d8fb1.jpg",
+          "sort": 7
+        },
+        {
+          "id": 1207,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/695b3daab634d7162c30d57b626b7525.jpg",
+          "sort": 8
+        },
+        {
+          "id": 1208,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/8041b133895ef47f7aec1b9bfa990cd9.jpg",
+          "sort": 9
+        },
+        {
+          "id": 1209,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/616d93e5994abab0528c28c0488037f9.jpg",
+          "sort": 10
+        },
+        {
+          "id": 1210,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/26e412d8b4227820f833e00b32f5db8f.jpg",
+          "sort": 11
+        },
+        {
+          "id": 1211,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/707736899dd6d26249e2d63c042943b3.jpg",
+          "sort": 12
+        },
+        {
+          "id": 1212,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/b30c83e9a1bcefa5e5d5501ab1e6f9e1.jpg",
+          "sort": 13
+        },
+        {
+          "id": 1213,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/23f55d9582d526cdf872944a415c9718.jpg",
+          "sort": 14
+        },
+        {
+          "id": 1214,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/af27ff1d9312169dce1676af8fb57b00.jpg",
+          "sort": 15
+        },
+        {
+          "id": 1215,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/a5542f740d06c50fe287d438a0bbe87c.jpg",
+          "sort": 16
+        },
+        {
+          "id": 1216,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/6e8c53a71442d33754c3cb013e95bbe6.jpg",
+          "sort": 17
+        },
+        {
+          "id": 1217,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/dbbd1c6dfa707c933ed8f3aafce96766.jpg",
+          "sort": 18
+        },
+        {
+          "id": 1218,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/667036d4309d6ee0be87ecab69c30cac.jpg",
+          "sort": 19
+        },
+        {
+          "id": 1219,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/c06644b2615b818d6d47dba08566a0d0.jpg",
+          "sort": 20
+        },
+        {
+          "id": 1220,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/f4cf50d27be33f3b2c4fd4bd9712af45.jpg",
+          "sort": 21
+        },
+        {
+          "id": 1221,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/ca4e10bd446ac54e765f53d6414a4af8.jpg",
+          "sort": 22
+        },
+        {
+          "id": 1222,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/5831995a5ef86c31241fa85792171bf3.jpg",
+          "sort": 23
+        },
+        {
+          "id": 1223,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/2d6dd7dd67c360b70615e278a93fcf9a.jpg",
+          "sort": 24
+        },
+        {
+          "id": 1224,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/3c7a4dc2858e96c28040c4f8f99106ca.jpg",
+          "sort": 25
+        },
+        {
+          "id": 1225,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/1235f00486993de1ae7c63a73c21d118.jpg",
+          "sort": 26
+        },
+        {
+          "id": 1226,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/a48b23ff4e61385bbccdccb39cc59489.jpg",
+          "sort": 27
+        },
+        {
+          "id": 1227,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/b472c35cb570c60e155b57e81a423d59.jpg",
+          "sort": 28
+        },
+        {
+          "id": 1228,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/805ddfd0486778e6373fbf104e06ef87.jpg",
+          "sort": 29
+        },
+        {
+          "id": 1229,
+          "type": "image",
+          "name": "",
+          "cover": "",
+          "background": "",
+          "url": "https://img.niucache.com/urm/2026/05/355eadc02b5c346afea9d4ec20c43e09.jpg",
+          "sort": 30
+        }
+      ]
+    }
+  ],
+  "fetch": [],
+  "error": null,
+  "state": {
+    "userId": null,
+    "usId": null,
+    "isMobile": false,
+    "isWechat": false,
+    "isIOS": false,
+    "isSafari": false,
+    "isMac": null,
+    "accesstoken": null,
+    "isSamsung": null,
+    "compareVehicleIds": null,
+    "countryList": [],
+    "openId": null,
+    "isAndroidChrome": false
+  },
+  "serverRendered": true,
+  "routePath": "/products/fs-wind"
+}

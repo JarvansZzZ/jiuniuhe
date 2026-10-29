@@ -59,4 +59,4 @@ npm run preview
 
 构建命令 `npm run build`，静态资源目录 `dist/`，无需后端、数据库或业务密钥。已有 Cloudflare Workers、Vercel 与 GitHub Pages 配置，操作见 [上线说明](deploy/README.zh-CN.md) 和 [GitHub Pages 说明](deploy/GITHUB-PAGES.zh-CN.md)。
 
-当前 V2 位于开发分支，需完成内容验收后再发布。各免费托管域名在中国大陆的可达性仍需在实际网络验证。
+V2 内容预览通过 GitHub Pages 发布：[打开九牛核](https://jarvanszzz.github.io/jiuniuhe/)。`main` 为发布分支，开发分支的更新合入并推送到 `main` 后自动部署。当前仍需继续补齐车型资料、价格与实拍，线上预览不代表内容库已经全部验收。各免费托管域名在中国大陆的可达性仍需在实际网络验证。

@@ -1,6 +1,8 @@
-# 免费备选：GitHub Pages
+# GitHub Pages 发布说明
 
 目标是获得一个不需要购买域名的公开网站地址。GitHub Pages 使用境外托管，并非中国大陆节点；国内访问需要实际测试，不承诺所有运营商或地区都可访问。
+
+当前 V2 内容预览地址：[九牛核](https://jarvanszzz.github.io/jiuniuhe/)。仓库为 [JarvansZzZ/jiuniuhe](https://github.com/JarvansZzZ/jiuniuhe)，生产分支为 `main`，发布环境为 `github-pages`。
 
 ## 使用前决定仓库可见性
 
@@ -18,6 +20,16 @@ GitHub Free 的 Pages 通常要求使用公开仓库。私有仓库的 Pages 支
 6. 分别使用不开代理的手机流量和 Wi-Fi 实测访问情况。
 
 以后推送到 `main` 分支会自动更新。该工作流不会创建账号、购买服务或修改仓库可见性。
+
+## 用户名变更后的维护
+
+本地仓库使用 SSH 远端：
+
+```sh
+git remote set-url origin git@github.com:JarvansZzZ/jiuniuhe.git
+```
+
+改名后将最新提交推送到 `main`，等待 Deploy GitHub Pages 的 build 和 deploy 成功，并以工作流输出的站点地址为准。旧的 Pages 域名不会自动跳转，应替换已分享的网址。仓库名仍为 `jiuniuhe`，图片与数据使用相对路径，网站代码无需更改基础路径。
 
 ## 与现有 Cloudflare 部署的关系
 
